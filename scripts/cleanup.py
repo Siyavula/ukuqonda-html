@@ -33,7 +33,13 @@ def replace_elements(element):
 
 
 
-    
+def string_replace(html_as_string):
+
+    # multiplication
+    html_as_string = html_as_string.replace("&#195;&#151;" ,"\\times")
+
+
+    return html_as_string
    
 
 
@@ -51,4 +57,7 @@ if __name__ == "__main__":
         if parent is not None:
             parent.remove(element)
 
-    print(etree.tostring(html))
+    html_as_string = etree.tostring(html)
+    html_as_string = string_replace(html_as_string)
+
+    print(html_as_string)
