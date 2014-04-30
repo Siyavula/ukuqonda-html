@@ -21,16 +21,15 @@ def replace_elements(element):
         for c in ["x--Answer-text-dotted-last-line para-style-override-", "x--Answer-text-dotted-last-line", "x--Answer-text-dotted-line-below"]:
             if (element.tag == "p") and (c in element.attrib['class']):
                 if element.text is not None:
-                    if element.text.strip() in [".", ""]:
-                        element.addprevious(copy.deepcopy(hr))
-                        _elements_to_remove.append(element)
+                    #if element.text.strip() in [".", ""]:
+                    element.addprevious(copy.deepcopy(hr))
+                    _elements_to_remove.append(element)
 
                 else:
                     if len(element) == 1:
                         if element[0].tag == 'span':
-                            if element[0].text == "&#160":
-                                element.addprevious(copy.deepcopy(hr))
-                                _elements_to_remove.append(element)
+                            element.addprevious(copy.deepcopy(hr))
+                            _elements_to_remove.append(element)
 
 
 
