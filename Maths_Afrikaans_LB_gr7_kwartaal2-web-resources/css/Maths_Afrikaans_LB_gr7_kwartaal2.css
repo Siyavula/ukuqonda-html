@@ -1,0 +1,3188 @@
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+td, th {
+	border-style:solid;
+	border-width:1px;
+}
+table {
+	border-collapse:collapse;
+}
+li {
+	display:block;
+}
+body {
+	font-size:12px;
+	-epub-hyphens:auto;
+}
+table.No-Table-Style {
+	border-color:#000000;
+	border-style:solid;
+	border-width:1px;
+	margin-bottom:-4px;
+	margin-top:4px;
+}
+table.Basic-Table {
+	border-color:#000000;
+	border-style:solid;
+	border-width:1px;
+	margin-bottom:-4px;
+	margin-top:4px;
+}
+p.No-Paragraph-Style {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.worksheet-text {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"Tekton Pro", sans-serif;
+	font-size:14px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.071;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.caption {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"StoneSansITCStd Medium", sans-serif;
+	font-size:11px;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.333;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Body-box {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"ITC Stone Sans Std Medium", sans-serif;
+	font-size:11px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:450;
+	line-height:1.333;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:6px;
+}
+p.Body {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.391;
+	margin-bottom:2px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:11px;
+}
+p.Body-investigation {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.391;
+	margin-bottom:2px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Head-investigation {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"ITC Stone Sans Std Bold", sans-serif;
+	font-size:12px;
+	font-style:normal;
+	font-weight:bold;
+	line-height:1.25;
+	margin-bottom:8px;
+	margin-left:3px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+	text-transform:uppercase;
+}
+p.Head-B {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"StoneSansITCStd SemiBold", sans-serif;
+	font-size:17px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:500;
+	line-height:0.882;
+	margin-bottom:15px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Head-A {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"StoneSansITCStd SemiBold", sans-serif;
+	font-size:24px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:500;
+	line-height:0.625;
+	margin-bottom:23px;
+	margin-left:57px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-57px;
+}
+p.label {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"ITC Stone Sans Std Medium", sans-serif;
+	font-size:11px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:450;
+	line-height:1.182;
+	margin-bottom:5px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Body-content {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.391;
+	margin-bottom:2px;
+	margin-left:6px;
+	margin-right:6px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:9px;
+}
+p.Body-no-indent {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.391;
+	margin-bottom:2px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Body-box-no-indent {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"ITC Stone Sans Std Medium", sans-serif;
+	font-size:11px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:450;
+	line-height:1.333;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Body-opener {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"ITC Stone Sans Std Medium", sans-serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:450;
+	line-height:1.391;
+	margin-bottom:2px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:11px;
+}
+li.Body-bullet {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.391;
+	margin-bottom:2px;
+	margin-left:14px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-14px;
+}
+p.Body-content-no-indent {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.391;
+	margin-bottom:2px;
+	margin-left:6px;
+	margin-right:6px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Body-investigation-hanging {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.391;
+	margin-bottom:2px;
+	margin-left:17px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-17px;
+}
+p.Head-C {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"StoneSansITCStd SemiBold", sans-serif;
+	font-size:13px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:500;
+	line-height:1.154;
+	margin-bottom:8px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+li.Body-content-bullet {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.391;
+	margin-bottom:2px;
+	margin-left:17px;
+	margin-right:6px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-11px;
+}
+p.Table-header-left {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"StoneSansITCStd SemiBold", sans-serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:500;
+	line-height:1.05;
+	margin-bottom:3px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Table-text-centred {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.304;
+	margin-bottom:3px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Table-text-left {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.304;
+	margin-bottom:3px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Body-investigation-spaced {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.391;
+	margin-bottom:9px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Body-opener-no-indent {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"ITC Stone Sans Std Medium", sans-serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:450;
+	line-height:1.391;
+	margin-bottom:2px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Table-header-centred {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"StoneSansITCStd SemiBold", sans-serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:500;
+	line-height:1.05;
+	margin-bottom:3px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.M6 {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:0.522;
+	margin-bottom:2px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:11px;
+}
+p.x--Answer-text-dotted-line-below {
+	-epub-ruby-position:over;
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.304;
+	margin-bottom:9px;
+	margin-left:17px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.x--Answer-text-dotted-last-line {
+	-epub-ruby-position:over;
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.304;
+	margin-bottom:28px;
+	margin-left:17px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.x--Answer-text-dotted-line--a--last-line {
+	-epub-ruby-position:over;
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.304;
+	margin-bottom:28px;
+	margin-left:28px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.ques-a- {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.391;
+	margin-bottom:0px;
+	margin-left:17px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-17px;
+}
+p.Side-table-space {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.391;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Body-box-numbers {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"ITC Stone Sans Std Medium", sans-serif;
+	font-size:11px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:450;
+	line-height:1.333;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Head-extension--no-rule- {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"ITC Stone Sans Std Bold", sans-serif;
+	font-size:11px;
+	font-style:normal;
+	font-weight:bold;
+	line-height:1.364;
+	margin-bottom:4px;
+	margin-left:3px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+	text-transform:uppercase;
+}
+p.ques-a--2-space-below {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.391;
+	margin-bottom:6px;
+	margin-left:17px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-17px;
+}
+p.worksheet-text-3-column {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"Tekton Pro", sans-serif;
+	font-size:14px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.071;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.worksheet-text-2-column {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"Tekton Pro", sans-serif;
+	font-size:14px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.071;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Normal {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:11px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.05;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.ABC-labels-for-artwork {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"ITC Stone Sans Std Medium", sans-serif;
+	font-size:11px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:450;
+	line-height:1.182;
+	margin-bottom:5px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Head-example {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"StoneSansITCStd SemiBold", sans-serif;
+	font-size:13px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:500;
+	line-height:1.154;
+	margin-bottom:8px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Example-Solution-head {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.391;
+	margin-bottom:2px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Body-no-indent-space-below {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.391;
+	margin-bottom:6px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Head-A-2-lines {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"StoneSansITCStd SemiBold", sans-serif;
+	font-size:24px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:500;
+	line-height:0.625;
+	margin-bottom:17px;
+	margin-left:57px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-57px;
+}
+p.x--Answer-text-dotted-line-below--right-indent- {
+	-epub-ruby-position:over;
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.304;
+	margin-bottom:9px;
+	margin-left:17px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Body-investigation-hanging--right-indent- {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.391;
+	margin-bottom:2px;
+	margin-left:17px;
+	margin-right:266px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-17px;
+}
+p.Body-no-indent--right-1-3-indent- {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.391;
+	margin-bottom:2px;
+	margin-left:0px;
+	margin-right:162px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Head-investigation--after-b-head- {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"ITC Stone Sans Std Bold", sans-serif;
+	font-size:12px;
+	font-style:normal;
+	font-weight:bold;
+	line-height:1.25;
+	margin-bottom:8px;
+	margin-left:3px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+	text-transform:uppercase;
+}
+p.ques-a--3-columns {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.391;
+	margin-bottom:0px;
+	margin-left:17px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-17px;
+}
+p.x-Answer-text-dotted-last-line--COPY-LINE- {
+	-epub-ruby-position:over;
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.304;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Worksheet-Table-Head {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"Tekton Pro", sans-serif;
+	font-size:14px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.071;
+	margin-bottom:3px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Worksheet-Table-centred {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"Tekton Pro", sans-serif;
+	font-size:14px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.071;
+	margin-bottom:3px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Table-text-centred-ANSWERS {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.304;
+	margin-bottom:3px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.ANSWERS-box-line-text {
+	-epub-ruby-position:over;
+	font-family:"ITC Stone Sans Std Medium", sans-serif;
+	font-size:11px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:450;
+	line-height:1.429;
+	margin-bottom:9px;
+	margin-left:17px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.ANSWERS-Table-text-centred {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	color:#c51f45;
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.304;
+	margin-bottom:3px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.ANSWERS-worksheet--COPY-LINE- {
+	-epub-ruby-position:over;
+	font-family:"Tekton Pro", sans-serif;
+	font-size:14px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.071;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+li.Body-bullet--indented- {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.391;
+	margin-bottom:2px;
+	margin-left:28px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-14px;
+}
+p.x-Answer-text-dotted-line-below--for-EQ- {
+	-epub-ruby-position:over;
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.304;
+	margin-bottom:9px;
+	margin-left:17px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Body-STORY {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.391;
+	margin-bottom:2px;
+	margin-left:28px;
+	margin-right:28px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.x-Answer-text-last-line--EQ- {
+	-epub-ruby-position:over;
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.304;
+	margin-bottom:28px;
+	margin-left:17px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.ques-a--4-column {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.391;
+	margin-bottom:0px;
+	margin-left:17px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-17px;
+}
+p.ANSWERS-worksheet-line {
+	-epub-ruby-position:over;
+	font-family:"Tekton Pro", sans-serif;
+	font-size:14px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.071;
+	margin-bottom:9px;
+	margin-left:17px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.ANSWERS-worksheet-line-with-EQ {
+	-epub-ruby-position:over;
+	font-family:"Tekton Pro", sans-serif;
+	font-size:14px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.071;
+	margin-bottom:20px;
+	margin-left:17px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.ANSWERS-worksheet-last-line {
+	-epub-ruby-position:over;
+	font-family:"Tekton Pro", sans-serif;
+	font-size:14px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.071;
+	margin-bottom:28px;
+	margin-left:17px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.worksheet-text-4-column {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"Tekton Pro", sans-serif;
+	font-size:14px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.071;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.ANSWERS-number-line-text {
+	-epub-ruby-position:over;
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.304;
+	margin-bottom:9px;
+	margin-left:17px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.ANSWERS-no-indent-line-for-EQ {
+	-epub-ruby-position:over;
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.304;
+	margin-bottom:9px;
+	margin-left:9px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+li.Body-opener-bullets {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"ITC Stone Sans Std Medium", sans-serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:450;
+	line-height:1.391;
+	margin-bottom:2px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.Head-A-no-number {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"StoneSansITCStd SemiBold", sans-serif;
+	font-size:24px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:500;
+	line-height:0.625;
+	margin-bottom:23px;
+	margin-left:57px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-57px;
+}
+p.Body-investigation-with-marks {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.391;
+	margin-bottom:2px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0px;
+}
+p.ques-a--with-marks {
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.391;
+	margin-bottom:0px;
+	margin-left:17px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-17px;
+}
+p.Body-investigation-hanging-with-marks {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	color:#000000;
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.391;
+	margin-bottom:2px;
+	margin-left:17px;
+	margin-right:0px;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-17px;
+}
+p.ANSWERS-table-text-centred {
+	-epub-hyphens:none;
+	-epub-ruby-position:over;
+	color:#c31f45;
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.304;
+	margin-bottom:3px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0px;
+}
+span.chapter-no {
+	color:#b25538;
+	font-size:36px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.Chapter-number-colour {
+	color:#b25538;
+	font-family:"ITC Stone Sans Std Bold", sans-serif;
+	font-style:normal;
+	font-weight:bold;
+}
+span.Bodytext-Bold {
+	font-style:normal;
+	font-weight:bold;
+}
+span.Bodytext-Italic {
+	font-style:italic;
+	font-weight:normal;
+}
+span.Body-box-bold {
+	font-style:normal;
+	font-weight:bold;
+}
+span.Math-Pi-3-dot-sign {
+	font-family:"Mathematical Pi LT Std Regular", sans-serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span.Box-variable-italic {
+	font-family:"StoneSerITCStd Medium", serif;
+	font-style:italic;
+	font-weight:normal;
+}
+span.worksheet-regular-italic {
+	font-style:oblique;
+	font-weight:normal;
+}
+table.table-style-override-1 {
+	border-width:0.5px;
+}
+table.table-style-override-2 {
+	border-style:none;
+	border-width:0px;
+}
+td.cell-style-override-1 {
+	background-color:#b25538;
+	padding-bottom:0px;
+	padding-left:3px;
+	padding-right:0px;
+	padding-top:0px;
+}
+td.cell-style-override-2 {
+	padding-bottom:0px;
+	padding-left:6px;
+	padding-right:0px;
+	padding-top:0px;
+}
+td.cell-style-override-3 {
+	padding-bottom:4px;
+	padding-left:0px;
+	padding-right:4px;
+	padding-top:4px;
+}
+td.cell-style-override-4 {
+	background-color:#ebd1c5;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+}
+td.cell-style-override-5 {
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	padding-top:4px;
+}
+td.cell-style-override-6 {
+	padding-bottom:0px;
+	padding-left:4px;
+	padding-right:0px;
+	padding-top:0px;
+}
+td.cell-style-override-7 {
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+}
+td.cell-style-override-8 {
+	padding-bottom:0px;
+	padding-left:40px;
+	padding-right:0px;
+	padding-top:0px;
+}
+td.cell-style-override-9 {
+	padding-bottom:0px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:0px;
+}
+td.cell-style-override-10 {
+	background-color:#e3bfae;
+	padding-bottom:6px;
+	padding-left:6px;
+	padding-right:6px;
+	padding-top:6px;
+}
+td.cell-style-override-11 {
+	padding-bottom:0px;
+	padding-right:0px;
+	padding-top:0px;
+}
+td.cell-style-override-12 {
+	background-color:#f3e5dd;
+	padding-bottom:6px;
+	padding-left:6px;
+	padding-right:6px;
+	padding-top:6px;
+}
+td.cell-style-override-13 {
+	padding-bottom:9px;
+	padding-left:4px;
+	padding-right:9px;
+	padding-top:9px;
+}
+td.cell-style-override-14 {
+	padding-bottom:4px;
+	padding-left:20px;
+	padding-right:4px;
+	padding-top:4px;
+}
+p.para-style-override-1, li.para-style-override-1 {
+	break-after:page;
+}
+p.para-style-override-2 {
+	margin-bottom:23px;
+}
+p.para-style-override-3, li.para-style-override-3 {
+	margin-bottom:0px;
+}
+p.para-style-override-4 {
+	margin-bottom:11px;
+}
+p.para-style-override-5 {
+	margin-bottom:12px;
+}
+p.para-style-override-6 {
+	margin-bottom:14px;
+}
+p.para-style-override-7 {
+	margin-bottom:13px;
+}
+p.para-style-override-8 {
+	margin-left:14px;
+}
+p.para-style-override-9 {
+	margin-bottom:17px;
+}
+p.para-style-override-10 {
+	margin-bottom:3px;
+}
+p.para-style-override-11 {
+	margin-bottom:26px;
+}
+p.para-style-override-12 {
+	margin-left:37px;
+}
+p.para-style-override-13 {
+	margin-left:17px;
+}
+p.para-style-override-14 {
+	margin-bottom:4px;
+}
+p.para-style-override-15 {
+	margin-bottom:20px;
+}
+p.para-style-override-16 {
+	margin-bottom:6px;
+}
+p.para-style-override-17 {
+	color:#ff0000;
+}
+p.para-style-override-18 {
+	break-after:page;
+	margin-bottom:17px;
+}
+p.para-style-override-19 {
+	margin-bottom:9px;
+}
+p.para-style-override-20 {
+	color:#c31f45;
+}
+p.para-style-override-21 {
+	font-family:"Tekton Pro", sans-serif;
+	font-size:14px;
+	font-style:normal;
+	font-weight:normal;
+}
+p.para-style-override-22 {
+	color:#c31f45;
+	margin-bottom:6px;
+}
+li.para-style-override-23 {
+	margin-left:31px;
+}
+p.para-style-override-24 {
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	text-align:center;
+	text-indent:0px;
+}
+p.para-style-override-25 {
+	text-decoration:underline;
+}
+p.para-style-override-26 {
+	margin-left:40px;
+}
+p.para-style-override-27 {
+	break-after:page;
+	margin-left:40px;
+}
+p.para-style-override-28 {
+	color:#c31f45;
+	text-align:center;
+}
+p.para-style-override-29 {
+	text-align:center;
+}
+p.para-style-override-30 {
+	color:#008fd5;
+	font-family:"ITC Zapf Dingbats", sans-serif;
+	font-style:normal;
+	font-weight:normal;
+	text-align:center;
+}
+p.para-style-override-31 {
+	margin-left:48px;
+}
+p.para-style-override-32 {
+	margin-left:0px;
+}
+p.para-style-override-33 {
+	margin-left:71px;
+}
+p.para-style-override-34 {
+	margin-left:43px;
+}
+p.para-style-override-35 {
+	margin-left:130px;
+}
+p.para-style-override-36 {
+	margin-left:34px;
+}
+p.para-style-override-37 {
+	margin-left:28px;
+}
+p.para-style-override-38 {
+	font-style:italic;
+	font-weight:normal;
+}
+p.para-style-override-39 {
+	font-size:12px;
+	margin-bottom:0px;
+}
+p.para-style-override-40 {
+	text-align:left;
+}
+p.para-style-override-41 {
+	margin-bottom:1px;
+}
+p.para-style-override-42 {
+	break-after:page;
+	margin-bottom:0px;
+}
+p.para-style-override-43 {
+	margin-left:14px;
+	text-indent:0px;
+}
+p.para-style-override-44 {
+	margin-bottom:0px;
+	margin-left:20px;
+}
+p.para-style-override-45 {
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:normal;
+	font-weight:normal;
+}
+p.para-style-override-46 {
+	font-family:"StoneSerITCStd Medium", serif;
+	font-style:normal;
+	font-weight:normal;
+}
+p.para-style-override-47 {
+	margin-bottom:3px;
+	margin-left:0px;
+	text-indent:0px;
+}
+p.para-style-override-48 {
+	margin-bottom:28px;
+}
+p.para-style-override-49 {
+	margin-left:11px;
+}
+p.para-style-override-50 {
+	margin-left:255px;
+}
+p.para-style-override-51 {
+	margin-bottom:14px;
+	margin-left:255px;
+}
+p.para-style-override-52 {
+	margin-left:247px;
+}
+p.para-style-override-53 {
+	margin-left:221px;
+}
+p.para-style-override-54 {
+	margin-bottom:17px;
+	margin-left:221px;
+}
+p.para-style-override-55 {
+	color:#c31f45;
+	font-family:"ITC Zapf Dingbats Std", sans-serif;
+	font-style:normal;
+	font-weight:normal;
+}
+p.para-style-override-56 {
+	vertical-align:super;
+}
+p.para-style-override-57 {
+	margin-left:184px;
+	text-indent:0px;
+}
+span.char-style-override-1 {
+	font-family:"ITC Stone Sans Std Bold", sans-serif;
+	font-style:normal;
+	font-weight:bold;
+}
+span.char-style-override-2 {
+	color:#ff0000;
+}
+span.char-style-override-3 {
+	display:inline-block;
+	text-indent:0;
+	white-space:pre-wrap;
+	width:14.173228346456694px;
+}
+span.char-style-override-4 {
+	font-family:"Caecilia LT Std Roman", serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-5 {
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-6 {
+	color:#000000;
+}
+span.char-style-override-7 {
+	color:#c31f45;
+}
+span.char-style-override-8 {
+	font-size:10px;
+}
+span.char-style-override-9 {
+	font-size:12px;
+}
+span.char-style-override-10 {
+	font-family:Cambria, serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-11 {
+	font-family:Cambria, serif;
+	font-size:11px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-12 {
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:11px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-13 {
+	font-family:"CG Times", serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-14 {
+	color:#c51f45;
+	font-family:"Tekton Pro", sans-serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-15 {
+	text-transform:uppercase;
+}
+span.char-style-override-16 {
+	font-style:italic;
+	font-weight:normal;
+}
+span.char-style-override-17 {
+	font-style:normal;
+	font-weight:bold;
+}
+span.char-style-override-18 {
+	text-decoration:underline;
+}
+span.char-style-override-19 {
+	font-family:"StoneSerITCStd Medium", serif;
+	font-size:12px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-20 {
+	color:#008fd5;
+	font-family:"ITC Zapf Dingbats", sans-serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-21 {
+	font-family:"ITC Zapf Dingbats", sans-serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-22 {
+	color:#c51f45;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-23 {
+	display:inline-block;
+	text-indent:0;
+	white-space:pre-wrap;
+	width:11.338582677165356px;
+}
+span.char-style-override-24 {
+	font-size:16px;
+}
+span.char-style-override-25 {
+	font-size:7px;
+	vertical-align:sub;
+}
+span.char-style-override-26 {
+	font-size:7px;
+	vertical-align:super;
+}
+span.char-style-override-27 {
+	vertical-align:super;
+}
+span.char-style-override-28 {
+	font-style:oblique;
+	font-weight:normal;
+}
+span.char-style-override-29 {
+	color:#231f20;
+	font-family:"Tekton Pro", serif;
+	font-size:14px;
+	font-style:italic;
+	font-weight:normal;
+}
+span.char-style-override-30 {
+	color:#231f20;
+	font-family:"Tekton Pro", sans-serif;
+	font-size:14px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-31 {
+	font-size:6px;
+	vertical-align:super;
+}
+span.char-style-override-32 {
+	font-family:"Comic Sans MS", sans-serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-33 {
+	font-family:"Cambria Math", serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-34 {
+	font-size:8px;
+	vertical-align:super;
+}
+span.char-style-override-35 {
+	display:inline-block;
+	text-indent:0;
+	white-space:pre-wrap;
+}
+span.char-style-override-36 {
+	font-family:"Mathematical Pi LT Std Regular", sans-serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-37 {
+	color:#231f20;
+	font-family:"ITC Stone Sans Std Bold", sans-serif;
+	font-size:12px;
+	font-style:normal;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+span.char-style-override-38 {
+	color:#231f20;
+}
+span.char-style-override-39 {
+	color:#231f20;
+	font-family:Cambria, serif;
+	font-size:11px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-40 {
+	color:#c31f45;
+	font-style:italic;
+	font-weight:normal;
+}
+img.frame-1 {
+	height:25px;
+	width:192px;
+}
+img.frame-2 {
+	height:39px;
+	width:366px;
+}
+img.frame-3 {
+	height:40px;
+	width:367px;
+}
+img.frame-4 {
+	height:27px;
+	width:188px;
+}
+div.frame-5 {
+	height:17px;
+	width:32px;
+}
+img.frame-6 {
+	height:48px;
+	width:368px;
+}
+img.frame-7 {
+	height:25px;
+	width:185px;
+}
+div.frame-8 {
+	margin:0px auto 0px 0px;
+	text-align:left;
+}
+img.frame-9 {
+	height:389px;
+	width:189px;
+}
+div.frame-10 {
+	height:17px;
+	width:199px;
+}
+div.frame-11 {
+	height:17px;
+	width:184px;
+}
+div.frame-12 {
+	height:17px;
+	width:241px;
+}
+img.frame-13 {
+	height:122px;
+	width:371px;
+}
+div.frame-14 {
+	height:17px;
+	width:238px;
+}
+img.frame-15 {
+	height:118px;
+	width:371px;
+}
+div.frame-16 {
+	height:17px;
+	width:283px;
+}
+div.frame-17 {
+	height:17px;
+	width:286px;
+}
+img.frame-18 {
+	height:25px;
+	width:187px;
+}
+img.frame-19 {
+	height:55px;
+	width:187px;
+}
+col.Row-Column-20 {
+	width:5px;
+}
+col.Row-Column-21 {
+	width:301px;
+}
+tr.Row-Column-22 {
+	min-height:24px;
+}
+div.frame-23 {
+	height:17px;
+	width:99px;
+}
+img.frame-24 {
+	height:27px;
+	width:189px;
+}
+div.frame-25 {
+	height:17px;
+	width:169px;
+}
+div.frame-26 {
+	height:17px;
+	width:167px;
+}
+col.Row-Column-27 {
+	width:45px;
+}
+col.Row-Column-28 {
+	width:54px;
+}
+col.Row-Column-29 {
+	width:47px;
+}
+col.Row-Column-30 {
+	width:52px;
+}
+col.Row-Column-31 {
+	width:66px;
+}
+tr.Row-Column-32 {
+	min-height:22px;
+}
+col.Row-Column-33 {
+	width:53px;
+}
+col.Row-Column-34 {
+	width:64px;
+}
+col.Row-Column-35 {
+	width:68px;
+}
+col.Row-Column-36 {
+	width:75px;
+}
+col.Row-Column-37 {
+	width:71px;
+}
+tr.Row-Column-38 {
+	min-height:34px;
+}
+tr.Row-Column-39 {
+	min-height:19px;
+}
+img.frame-40 {
+	height:55px;
+	width:189px;
+}
+col.Row-Column-41 {
+	width:65px;
+}
+col.Row-Column-42 {
+	width:15px;
+}
+col.Row-Column-43 {
+	width:59px;
+}
+div.frame-44 {
+	height:17px;
+	width:187px;
+}
+div.frame-45 {
+	height:17px;
+	width:209px;
+}
+div.frame-46 {
+	height:17px;
+	width:201px;
+}
+img.frame-47 {
+	height:34px;
+	width:232px;
+}
+div.frame-48 {
+	height:17px;
+	width:221px;
+}
+img.frame-49 {
+	height:34px;
+	width:147px;
+}
+img.frame-50 {
+	height:31px;
+	width:147px;
+}
+img.frame-51 {
+	height:31px;
+	width:288px;
+}
+img.frame-52 {
+	height:31px;
+	width:345px;
+}
+div.frame-53 {
+	background-color:#f3e5dd;
+	border-style:solid;
+	border-width:1px;
+	height:131px;
+	padding:6px 4px 6px 4px;
+	width:146px;
+}
+img.frame-54 {
+	height:27px;
+	width:9px;
+}
+img.frame-55 {
+	height:27px;
+	width:10px;
+}
+img.frame-56 {
+	height:27px;
+	width:11px;
+}
+img.frame-57 {
+	height:27px;
+	width:27px;
+}
+img.frame-58 {
+	height:28px;
+	width:37px;
+}
+tr.Row-Column-59 {
+	min-height:170px;
+}
+img.frame-60 {
+	height:56px;
+	width:189px;
+}
+img.frame-61 {
+	height:27px;
+	width:16px;
+}
+img.frame-62 {
+	height:27px;
+	width:14px;
+}
+img.frame-63 {
+	height:28px;
+	width:10px;
+}
+img.frame-64 {
+	height:27px;
+	width:17px;
+}
+img.frame-65 {
+	height:27px;
+	width:15px;
+}
+img.frame-66 {
+	height:31px;
+	width:431px;
+}
+div.frame-67 {
+	height:17px;
+	width:168px;
+}
+img.frame-68 {
+	height:61px;
+	width:431px;
+}
+img.frame-69 {
+	height:27px;
+	width:22px;
+}
+img.frame-70 {
+	height:80px;
+	width:428px;
+}
+tr.Row-Column-71 {
+	min-height:98px;
+}
+img.frame-72 {
+	height:30px;
+	width:29px;
+}
+img.frame-73 {
+	height:25px;
+	width:29px;
+}
+img.frame-74 {
+	height:25px;
+	width:22px;
+}
+img.frame-75 {
+	height:26px;
+	width:29px;
+}
+img.frame-76 {
+	height:30px;
+	width:16px;
+}
+img.frame-77 {
+	height:30px;
+	width:22px;
+}
+img.frame-78 {
+	height:27px;
+	width:29px;
+}
+img.frame-79 {
+	height:27px;
+	width:23px;
+}
+div.frame-80 {
+	height:17px;
+	width:262px;
+}
+div.frame-81 {
+	height:17px;
+	width:255px;
+}
+div.frame-82 {
+	height:17px;
+	width:251px;
+}
+div.frame-83 {
+	height:17px;
+	width:250px;
+}
+div.frame-84 {
+	height:17px;
+	width:243px;
+}
+div.frame-85 {
+	height:17px;
+	width:124px;
+}
+div.frame-86 {
+	height:17px;
+	width:110px;
+}
+div.frame-87 {
+	height:17px;
+	width:104px;
+}
+div.frame-88 {
+	height:17px;
+	width:309px;
+}
+div.frame-89 {
+	height:17px;
+	width:303px;
+}
+img.frame-90 {
+	height:137px;
+	width:443px;
+}
+div.frame-91 {
+	height:17px;
+	width:87px;
+}
+div.frame-92 {
+	height:17px;
+	width:53px;
+}
+img.frame-93 {
+	height:88px;
+	width:293px;
+}
+div.frame-94 {
+	height:17px;
+	width:69px;
+}
+img.frame-95 {
+	height:326px;
+	width:454px;
+}
+img.frame-96 {
+	height:27px;
+	width:28px;
+}
+img.frame-97 {
+	height:24px;
+	width:28px;
+}
+col.Row-Column-98 {
+	width:333px;
+}
+tr.Row-Column-99 {
+	min-height:82px;
+}
+img.frame-100 {
+	height:30px;
+	width:87px;
+}
+img.frame-101 {
+	height:5px;
+	width:467px;
+}
+img.frame-102 {
+	height:27px;
+	width:13px;
+}
+div.frame-103 {
+	background-color:#e6dbd4;
+	height:14px;
+	width:14px;
+}
+img.frame-104 {
+	height:28px;
+	width:19px;
+}
+img.frame-105 {
+	height:28px;
+	width:18px;
+}
+img.frame-106 {
+	height:28px;
+	width:12px;
+}
+img.frame-107 {
+	height:28px;
+	width:13px;
+}
+img.frame-108 {
+	height:28px;
+	width:16px;
+}
+img.frame-109 {
+	height:28px;
+	width:17px;
+}
+img.frame-110 {
+	height:14px;
+	width:14px;
+}
+img.frame-111 {
+	height:28px;
+	width:25px;
+}
+img.frame-112 {
+	height:28px;
+	width:11px;
+}
+img.frame-113 {
+	height:28px;
+	width:26px;
+}
+img.frame-114 {
+	height:29px;
+	width:36px;
+}
+img.frame-115 {
+	height:490px;
+	width:49px;
+}
+img.frame-116 {
+	height:652px;
+	width:468px;
+}
+img.frame-117 {
+	height:32px;
+	width:433px;
+}
+img.frame-118 {
+	height:24px;
+	width:14px;
+}
+img.frame-119 {
+	height:24px;
+	width:19px;
+}
+tr.Row-Column-120 {
+	min-height:100px;
+}
+tr.Row-Column-121 {
+	min-height:190px;
+}
+img.frame-122 {
+	height:27px;
+	width:20px;
+}
+img.frame-123 {
+	height:22px;
+	width:27px;
+}
+img.frame-124 {
+	height:30px;
+	width:28px;
+}
+tr.Row-Column-125 {
+	min-height:42px;
+}
+tr.Row-Column-126 {
+	min-height:70px;
+}
+div.frame-127 {
+	background-color:#f3e5dd;
+	border-style:solid;
+	border-width:1px;
+	height:62px;
+	padding:6px 4px 6px 4px;
+	width:160px;
+}
+tr.Row-Column-128 {
+	min-height:38px;
+}
+img.frame-129 {
+	height:136px;
+	width:178px;
+}
+col.Row-Column-130 {
+	width:50px;
+}
+tr.Row-Column-131 {
+	min-height:31px;
+}
+img.frame-132 {
+	height:77px;
+	width:451px;
+}
+img.frame-133 {
+	height:77px;
+	width:449px;
+}
+img.frame-134 {
+	height:64px;
+	width:449px;
+}
+img.frame-135 {
+	height:77px;
+	width:253px;
+}
+img.frame-136 {
+	height:42px;
+	width:449px;
+}
+div.frame-137 {
+	height:17px;
+	width:355px;
+}
+img.frame-138 {
+	height:59px;
+	width:449px;
+}
+div.frame-139 {
+	height:17px;
+	width:291px;
+}
+div.frame-140 {
+	height:28px;
+	width:273px;
+}
+div.frame-141 {
+	height:17px;
+	width:374px;
+}
+img.frame-142 {
+	height:59px;
+	width:409px;
+}
+div.frame-143 {
+	height:17px;
+	width:285px;
+}
+div.frame-144 {
+	height:28px;
+	width:266px;
+}
+div.frame-145 {
+	border-color:#231f20;
+	border-style:solid;
+	border-width:0px;
+	height:11px;
+	width:9px;
+}
+tr.Row-Column-146 {
+	min-height:92px;
+}
+div.frame-147 {
+	height:17px;
+	width:356px;
+}
+div.frame-148 {
+	height:17px;
+	width:310px;
+}
+tr.Row-Column-149 {
+	min-height:90px;
+}
+col.Row-Column-150 {
+	width:135px;
+}
+col.Row-Column-151 {
+	width:85px;
+}
+col.Row-Column-152 {
+	width:73px;
+}
+col.Row-Column-153 {
+	width:132px;
+}
+col.Row-Column-154 {
+	width:88px;
+}
+col.Row-Column-155 {
+	width:141px;
+}
+div.frame-156 {
+	background-color:#e6dbd4;
+	height:14px;
+	padding:3px 0px 0px 0px;
+	width:14px;
+}
+col.Row-Column-157 {
+	width:48px;
+}
+col.Row-Column-158 {
+	width:18px;
+}
+col.Row-Column-159 {
+	width:56px;
+}
+col.Row-Column-160 {
+	width:19px;
+}
+col.Row-Column-161 {
+	width:51px;
+}
+div.frame-162 {
+	border-style:solid;
+	border-width:1px;
+	height:12px;
+	width:8px;
+}
+div.frame-163 {
+	border-style:solid;
+	border-width:1px;
+	height:8px;
+	width:12px;
+}
+tr.Row-Column-164 {
+	min-height:147px;
+}
+img.frame-165 {
+	height:96px;
+	width:100px;
+}
+div.frame-166 {
+	height:17px;
+	width:139px;
+}
+div.frame-167 {
+	height:17px;
+	width:138px;
+}
+col.Row-Column-168 {
+	width:17px;
+}
+col.Row-Column-169 {
+	width:37px;
+}
+col.Row-Column-170 {
+	width:34px;
+}
+col.Row-Column-171 {
+	width:55px;
+}
+col.Row-Column-172 {
+	width:61px;
+}
+tr.Row-Column-173 {
+	min-height:28px;
+}
+img.frame-174 {
+	height:27px;
+	width:21px;
+}
+img.frame-175 {
+	height:30px;
+	width:37px;
+}
+img.frame-176 {
+	height:30px;
+	width:36px;
+}
+img.frame-177 {
+	height:29px;
+	width:29px;
+}
+img.frame-178 {
+	height:28px;
+	width:36px;
+}
+div.frame-179 {
+	height:17px;
+	width:93px;
+}
+div.frame-180 {
+	height:17px;
+	width:20px;
+}
+div.frame-181 {
+	height:17px;
+	width:40px;
+}
+div.frame-182 {
+	height:17px;
+	width:78px;
+}
+div.frame-183 {
+	height:17px;
+	width:65px;
+}
+div.frame-184 {
+	height:17px;
+	width:95px;
+}
+div.frame-185 {
+	height:17px;
+	width:57px;
+}
+tr.Row-Column-186 {
+	min-height:88px;
+}
+col.Row-Column-187 {
+	width:310px;
+}
+img.frame-188 {
+	height:49px;
+	width:236px;
+}
+div.frame-189 {
+	height:17px;
+	width:109px;
+}
+div.frame-190 {
+	height:17px;
+	width:119px;
+}
+div.frame-191 {
+	height:17px;
+	width:123px;
+}
+col.Row-Column-192 {
+	width:321px;
+}
+col.Row-Column-193 {
+	width:146px;
+}
+img.frame-194 {
+	height:114px;
+	width:192px;
+}
+tr.Row-Column-195 {
+	min-height:114px;
+}
+div.frame-196 {
+	height:17px;
+	width:98px;
+}
+tr.Row-Column-197 {
+	min-height:56px;
+}
+div.frame-198 {
+	background-color:#f3e5dd;
+	border-style:solid;
+	border-width:1px;
+	height:119px;
+	padding:6px 4px 6px 4px;
+	width:146px;
+}
+img.frame-199 {
+	height:157px;
+	width:202px;
+}
+div.frame-200 {
+	height:17px;
+	width:29px;
+}
+col.Row-Column-201 {
+	width:283px;
+}
+col.Row-Column-202 {
+	width:184px;
+}
+img.frame-203 {
+	height:108px;
+	width:202px;
+}
+tr.Row-Column-204 {
+	min-height:108px;
+}
+img.frame-205 {
+	height:152px;
+	width:411px;
+}
+img.frame-206 {
+	height:114px;
+	width:195px;
+}
+tr.Row-Column-207 {
+	min-height:76px;
+}
+col.Row-Column-208 {
+	width:153px;
+}
+col.Row-Column-209 {
+	width:62px;
+}
+col.Row-Column-210 {
+	width:273px;
+}
+col.Row-Column-211 {
+	width:194px;
+}
+img.frame-212 {
+	height:114px;
+	width:200px;
+}
+tr.Row-Column-213 {
+	min-height:122px;
+}
+col.Row-Column-214 {
+	width:154px;
+}
+img.frame-215 {
+	height:107px;
+	width:207px;
+}
+col.Row-Column-216 {
+	width:152px;
+}
+img.frame-217 {
+	height:95px;
+	width:158px;
+}
+img.frame-218 {
+	height:114px;
+	width:242px;
+}
+col.Row-Column-219 {
+	width:145px;
+}
+img.frame-220 {
+	height:89px;
+	width:200px;
+}
+img.frame-221 {
+	height:79px;
+	width:291px;
+}
+col.Row-Column-222 {
+	width:86px;
+}
+col.Row-Column-223 {
+	width:42px;
+}
+col.Row-Column-224 {
+	width:467px;
+}
+tr.Row-Column-225 {
+	height:3px;
+}
+img.frame-226 {
+	height:108px;
+	width:163px;
+}
+img.frame-227 {
+	height:108px;
+	width:166px;
+}
+img.frame-228 {
+	height:114px;
+	width:173px;
+}
+img.frame-229 {
+	height:108px;
+	width:143px;
+}
+tr.Row-Column-230 {
+	min-height:471px;
+}
+col.Row-Column-231 {
+	width:113px;
+}
+tr.Row-Column-232 {
+	min-height:173px;
+}
+img.frame-233 {
+	height:108px;
+	width:429px;
+}
+img.frame-234 {
+	height:50px;
+	width:435px;
+}
+img.frame-235 {
+	height:81px;
+	width:397px;
+}
+img.frame-236 {
+	height:90px;
+	width:97px;
+}
+img.frame-237 {
+	height:86px;
+	width:131px;
+}
+img.frame-238 {
+	height:59px;
+	width:93px;
+}
+col.Row-Column-239 {
+	width:83px;
+}
+img.frame-240 {
+	height:212px;
+	width:306px;
+}
+div.frame-241 {
+	height:17px;
+	width:77px;
+}
+img.frame-242 {
+	height:238px;
+	width:398px;
+}
+img.frame-243 {
+	height:103px;
+	width:82px;
+}
+col.Row-Column-244 {
+	width:233px;
+}
+div.frame-245 {
+	height:17px;
+	width:37px;
+}
+div.frame-246 {
+	height:17px;
+	width:71px;
+}
+col.Row-Column-247 {
+	width:4px;
+}
+col.Row-Column-248 {
+	width:231px;
+}
+tr.Row-Column-249 {
+	min-height:17px;
+}
+tr.Row-Column-250 {
+	min-height:26px;
+}
+img.frame-251 {
+	height:28px;
+	width:28px;
+}
+img.frame-252 {
+	height:128px;
+	width:390px;
+}
+div.frame-253 {
+	height:17px;
+	width:134px;
+}
+div.frame-254 {
+	height:17px;
+	width:118px;
+}
+div.frame-255 {
+	height:17px;
+	width:158px;
+}
+div.frame-256 {
+	height:17px;
+	width:145px;
+}
+div.frame-257 {
+	height:17px;
+	width:74px;
+}
+img.frame-258 {
+	height:83px;
+	width:95px;
+}
+col.Row-Column-259 {
+	width:306px;
+}
+img.frame-260 {
+	height:79px;
+	width:177px;
+}
+col.Row-Column-261 {
+	width:462px;
+}
+tr.Row-Column-262 {
+	min-height:124px;
+}
+col.Row-Column-263 {
+	width:46px;
+}
+img.frame-264 {
+	height:77px;
+	width:81px;
+}
+img.frame-265 {
+	height:77px;
+	width:220px;
+}
+img.frame-266 {
+	height:77px;
+	width:130px;
+}
+img.frame-267 {
+	height:109px;
+	width:153px;
+}
+img.frame-268 {
+	height:421px;
+	width:397px;
+}
+img.frame-269 {
+	height:119px;
+	width:431px;
+}
+img.frame-270 {
+	height:120px;
+	width:448px;
+}
+img.frame-271 {
+	height:115px;
+	width:449px;
+}
+img.frame-272 {
+	height:105px;
+	width:452px;
+}
+img.frame-273 {
+	height:109px;
+	width:507px;
+}
+img.frame-274 {
+	height:31px;
+	width:12px;
+}
+div.frame-275 {
+	background-color:#f3e5dd;
+	border-style:solid;
+	border-width:1px;
+	height:76px;
+	padding:6px 4px 6px 4px;
+	width:146px;
+}
+tr.Row-Column-276 {
+	min-height:67px;
+}
+img.frame-277 {
+	height:143px;
+	width:409px;
+}
+img.frame-278 {
+	height:141px;
+	width:453px;
+}
+img.frame-279 {
+	height:193px;
+	width:397px;
+}
+img.frame-280 {
+	height:96px;
+	width:198px;
+}
+img.frame-281 {
+	height:114px;
+	width:461px;
+}
+img.frame-282 {
+	height:109px;
+	width:210px;
+}
+img.frame-283 {
+	height:279px;
+	width:200px;
+}
+img.frame-284 {
+	height:652px;
+	width:467px;
+}
+img.frame-285 {
+	height:61px;
+	width:223px;
+}
+img.frame-286 {
+	height:64px;
+	width:205px;
+}
+tr.Row-Column-287 {
+	min-height:120px;
+}
+img.frame-288 {
+	height:78px;
+	width:196px;
+}
+img.frame-289 {
+	height:69px;
+	width:217px;
+}
+tr.Row-Column-290 {
+	min-height:143px;
+}
+div.frame-291 {
+	height:17px;
+	width:108px;
+}
+div.frame-292 {
+	height:17px;
+	width:204px;
+}
+col.Row-Column-293 {
+	width:331px;
+}
+tr.Row-Column-294 {
+	min-height:62px;
+}
+img.frame-295 {
+	height:87px;
+	width:372px;
+}
+img.frame-296 {
+	height:109px;
+	width:496px;
+}
+img.frame-297 {
+	height:151px;
+	width:140px;
+}
+img.frame-298 {
+	height:78px;
+	width:399px;
+}
+div.frame-299 {
+	height:17px;
+	width:46px;
+}
+div.frame-300 {
+	height:17px;
+	width:68px;
+}
+img.frame-301 {
+	height:79px;
+	width:121px;
+}
+img.frame-302 {
+	height:79px;
+	width:143px;
+}
+img.frame-303 {
+	height:115px;
+	width:160px;
+}
+img.frame-304 {
+	height:115px;
+	width:119px;
+}
+img.frame-305 {
+	height:225px;
+	width:437px;
+}
+img.frame-306 {
+	height:111px;
+	width:204px;
+}
+img.frame-307 {
+	height:149px;
+	width:256px;
+}
+div.frame-308 {
+	background-color:#f3e5dd;
+	border-style:solid;
+	border-width:1px;
+	height:63px;
+	padding:6px 4px 6px 4px;
+	width:146px;
+}
+img.frame-309 {
+	height:150px;
+	width:410px;
+}
+img.frame-310 {
+	height:226px;
+	width:501px;
+}
+div.frame-311 {
+	height:17px;
+	width:83px;
+}
+col.Row-Column-312 {
+	width:315px;
+}
+tr.Row-Column-313 {
+	min-height:74px;
+}
+img.frame-314 {
+	height:142px;
+	width:101px;
+}
+img.frame-315 {
+	height:110px;
+	width:335px;
+}
+img.frame-316 {
+	height:49px;
+	width:216px;
+}
+img.frame-317 {
+	height:63px;
+	width:262px;
+}
+img.frame-318 {
+	height:108px;
+	width:247px;
+}
+tr.Row-Column-319 {
+	min-height:80px;
+}
+img.frame-320 {
+	height:94px;
+	width:166px;
+}
+img.frame-321 {
+	height:94px;
+	width:120px;
+}
+img.frame-322 {
+	height:80px;
+	width:118px;
+}
+img.frame-323 {
+	height:59px;
+	width:91px;
+}
+img.frame-324 {
+	height:169px;
+	width:192px;
+}
+div.frame-325 {
+	height:17px;
+	width:28px;
+}
+tr.Row-Column-326 {
+	min-height:176px;
+}
+div.frame-327 {
+	height:17px;
+	width:52px;
+}
+div.frame-328 {
+	height:17px;
+	width:85px;
+}
+div.frame-329 {
+	height:17px;
+	width:86px;
+}
+img.frame-330 {
+	height:101px;
+	width:352px;
+}
+img.frame-331 {
+	height:145px;
+	width:204px;
+}
+div.frame-332 {
+	height:17px;
+	width:194px;
+}
+img.frame-333 {
+	height:146px;
+	width:227px;
+}
+div.frame-334 {
+	background-color:#f3e5dd;
+	border-style:solid;
+	border-width:1px;
+	height:62px;
+	padding:6px 4px 6px 4px;
+	width:164px;
+}
+img.frame-335 {
+	height:22px;
+	width:70px;
+}
+img.frame-336 {
+	height:23px;
+	width:95px;
+}
+img.frame-337 {
+	height:22px;
+	width:75px;
+}
+img.frame-338 {
+	height:21px;
+	width:96px;
+}
+tr.Row-Column-339 {
+	min-height:44px;
+}
+img.frame-340 {
+	height:116px;
+	width:103px;
+}
+img.frame-341 {
+	height:182px;
+	width:293px;
+}
+img.frame-342 {
+	height:33px;
+	width:51px;
+}
+div.frame-343 {
+	height:17px;
+	width:54px;
+}
+div.frame-344 {
+	height:17px;
+	width:31px;
+}
+div.frame-345 {
+	height:17px;
+	width:61px;
+}
+div.frame-346 {
+	height:17px;
+	width:43px;
+}
+div.frame-347 {
+	height:17px;
+	width:47px;
+}
+col.Row-Column-348 {
+	width:69px;
+}
+col.Row-Column-349 {
+	width:134px;
+}
+tr.Row-Column-350 {
+	min-height:25px;
+}
+div.frame-351 {
+	height:17px;
+	width:76px;
+}
+div.frame-352 {
+	border-style:solid;
+	border-width:1px;
+	height:24px;
+	width:107px;
+}
+div.frame-353 {
+	height:17px;
+	width:362px;
+}
+div.frame-354 {
+	border-color:#231f20;
+	border-style:solid;
+	border-width:0px;
+	height:20px;
+	width:65px;
+}
+img.frame-355 {
+	height:0px;
+	width:154px;
+}
+img.frame-356 {
+	height:6px;
+	width:0px;
+}
+div.frame-357 {
+	border-color:#231f20;
+	border-style:solid;
+	border-width:0px;
+	height:20px;
+	width:62px;
+}
+img.frame-358 {
+	height:123px;
+	width:188px;
+}
+img.frame-359 {
+	height:126px;
+	width:126px;
+}
+img.frame-360 {
+	height:113px;
+	width:188px;
+}
+img.frame-361 {
+	height:112px;
+	width:210px;
+}
+img.frame-362 {
+	height:112px;
+	width:227px;
+}
+img.frame-363 {
+	height:26px;
+	width:11px;
+}
+img.frame-364 {
+	height:117px;
+	width:136px;
+}
+img.frame-365 {
+	height:26px;
+	width:16px;
+}
+tr.Row-Column-366 {
+	min-height:36px;
+}
+img.frame-367 {
+	height:112px;
+	width:216px;
+}
+img.frame-368 {
+	height:108px;
+	width:220px;
+}
+img.frame-369 {
+	height:144px;
+	width:198px;
+}
+img.frame-370 {
+	height:10px;
+	width:10px;
+}
+div.frame-371 {
+	border-color:#231f20;
+	border-style:solid;
+	border-width:0px;
+	height:10px;
+	width:10px;
+}
+img.frame-372 {
+	height:293px;
+	width:414px;
+}
+img.frame-373 {
+	height:194px;
+	width:198px;
+}
+div.frame-374 {
+	background-color:#f3e5dd;
+	border-style:solid;
+	border-width:1px;
+	height:36px;
+	padding:6px 4px 6px 4px;
+	width:146px;
+}
+img.frame-375 {
+	height:109px;
+	width:109px;
+}
+img.frame-376 {
+	height:67px;
+	width:209px;
+}
+img.frame-377 {
+	height:143px;
+	width:183px;
+}
+img.frame-378 {
+	height:68px;
+	width:151px;
+}
+img.frame-379 {
+	height:106px;
+	width:185px;
+}
+col.Row-Column-380 {
+	width:143px;
+}
+img.frame-381 {
+	height:160px;
+	width:134px;
+}
