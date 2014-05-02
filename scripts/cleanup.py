@@ -90,12 +90,15 @@ def delete_empty_elements(element):
 
     elements_to_ignore = ['table', 'hr', 'td', 'col', 'img', 'figure', 'tbody', 'tr']
 
-    if element.tag not in elements_to_ignore:
-        text = "".join([t for t in element.itertext(with_tail=True)]).strip() 
-        if element.tail is not None:
-            text = text + element.tail.strip()
-        if text == "":
-            _elements_to_remove.append(element)
+    children = [c.tag not in elements_to_ignore for c in element.iter()]
+    
+    if all(children):
+        if element.tag not in elements_to_ignore:
+            text = "".join([t for t in element.itertext(with_tail=True)]).strip() 
+            if element.tail is not None:
+                text = text + element.tail.strip()
+            if text == "":
+                _elements_to_remove.append(element)
 
     
 
