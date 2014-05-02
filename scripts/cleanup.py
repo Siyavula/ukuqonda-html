@@ -50,13 +50,26 @@ def replace_elements(element):
 
             if len(bulletitems) > 0:
                 contents = [p for p in element.iter('p') if p.attrib['class'] == "Body-content-no-indent"]
+                if len(contents) > 0:
+                    note = etree.Element('div')
+                    note.attrib['class'] = 'note'
+                    for p in contents:
+                        note.append(copy.deepcopy(p))
+                    element.addprevious(note)
+                    _elements_to_remove.append(element)
 
-                note = etree.Element('div')
-                note.attrib['class'] = 'note'
-                for p in contents:
-                    note.append(copy.deepcopy(p))
-                element.addprevious(note)
-                _elements_to_remove.append(element)
+                else:
+                    contents = [ul for ul in element.iter('ul')]
+                    if len(contents) > 0:
+                        note = etree.Element('div')
+                        note.attrib['class'] = 'note'
+                        for p in contents:
+                            note.append(copy.deepcopy(p))
+                        element.addprevious(note)
+                        _elements_to_remove.append(element)
+
+
+
 
 
   
