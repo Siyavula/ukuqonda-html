@@ -69,11 +69,6 @@ def replace_elements(element):
                         _elements_to_remove.append(element)
 
 
-
-
-
-  
-
     # headers
     if (element.tag == 'p'):
         if element.attrib['class'] is not None:
@@ -86,6 +81,9 @@ def replace_elements(element):
                 del element.attrib['class']
 
             elif "Head-investigation--after-b-head-" in element.attrib['class']:
+                element.tag = 'h3'
+
+            elif element.attrib['class'] == 'Head-investigation':
                 element.tag = 'h3'
 
 def delete_empty_elements(element):
@@ -124,6 +122,9 @@ def string_replace(html_as_string):
     html_as_string = html_as_string.replace("&#226;&#128;&#153;" ,"'")
     html_as_string = html_as_string.replace(' xml:lang="en-US"' ,'')
     html_as_string = html_as_string.replace('<b/>' ,'')
+    html_as_string = html_as_string.replace('<td class="cell-style-override-2">' ,'<td class="red">')
+    html_as_string = html_as_string.replace('<td class="cell-style-override-3">' ,'<td class="blue">')
+    html_as_string = html_as_string.replace('<td class="cell-style-override-4">' ,'<td class="yellow">')
 
 
 
