@@ -11,6 +11,10 @@ def replace_elements(element):
     # replace some elements with <hr/> only.
     hr = etree.Element('hr')
     hr.tail = '\n'
+    
+
+
+
     if 'class' in element.attrib.keys():
         if (element.tag == "div") and ("Basic-Text-Frame" in element.attrib['class']):
             if (element[0].tag == 'p'):
@@ -55,17 +59,7 @@ def replace_elements(element):
                 _elements_to_remove.append(element)
 
 
-
-    if element.tag == 'span':
-        if 'class' in element.attrib.keys():
-            if 'Bodytext-Bold' in element.attrib['class']:
-                element.tag = 'b'
-                element.attrib['class'] = ''
-
-            elif 'Bodytext-Italic' in element.attrib['class']:
-                element.tag = 'i'
-                element.attrib['class'] = ''
-
+  
 
     # headers
     if (element.tag == 'p'):
@@ -95,7 +89,15 @@ def delete_empty_elements(element):
     
 
 
+def delete_en_masse(html):
+    ''' html as full etree element'''
 
+
+    # strip <br/>
+    etree.strip_tags(html, 'br')
+
+
+    return html
 
 
 def string_replace(html_as_string):
@@ -115,6 +117,27 @@ def string_replace(html_as_string):
    
 
 
+def fix_bold_italics(element):
+    #  fix bold / italics
+    if element.tag == 'span':
+        if 'class' in element.attrib.keys():
+            if 'Bodytext-Bold' in element.attrib['class']:
+                element.tag = 'b'
+                etree.strip_attributes(element, 'class')
+            
+            elif 'Body-box-bold' in element.attrib['class']:
+                element.tag = 'b'
+                etree.strip_attributes(element, 'class')
+
+            elif 'Bodytext-Italic' in element.attrib['class']:
+                element.tag = 'i'
+                etree.strip_attributes(element, 'class')
+
+    if element.tag == 'p':
+        if 'class' in element.attrib.keys():
+            if 'Body-text-bold-head' in element.attrib['class']:
+                element.tag = 'b'
+
 if __name__ == "__main__":
     filename = sys.argv[1]
 
@@ -123,12 +146,17 @@ if __name__ == "__main__":
     for e in html.iter():
         replace_elements(e)
         delete_empty_elements(e)
+
+    for e in html.iter():
+        fix_bold_italics(e)
     
     # remove the marked elements
     for element in _elements_to_remove:
         parent = element.getparent()
         if parent is not None:
             parent.remove(element)
+
+    html = delete_en_masse(html)
 
     html_as_string = etree.tostring(html)
     html_as_string = string_replace(html_as_string)
