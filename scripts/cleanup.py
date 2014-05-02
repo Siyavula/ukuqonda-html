@@ -110,6 +110,7 @@ def string_replace(html_as_string):
     html_as_string = html_as_string.replace("&#226;&#136;&#146;" ,'-')
     html_as_string = html_as_string.replace("&#226;&#128;&#153;" ,"'")
     html_as_string = html_as_string.replace(' xml:lang="en-US"' ,'')
+    html_as_string = html_as_string.replace('<b/>' ,'')
 
 
 
