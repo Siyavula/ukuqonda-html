@@ -30,6 +30,30 @@ def replace_elements(element):
                         if element[0].tag == 'span':
                             element.addprevious(copy.deepcopy(hr))
                             _elements_to_remove.append(element)
+        
+        # Notes
+        if (element.tag == 'div') and (element.attrib['class'].startswith('frame-')):
+            if (element[0].tag == 'p') and (element[0].attrib['class'].startswith('Body-box-no-indent')):
+                element.attrib['class'] = 'aside'
+
+        # find these tables that contains bullets
+        if (element.tag == 'table') and (element.attrib['class'] == 'Basic-Table'):
+            bulletitems = []
+            for li in element.iter('li'):
+                if li.attrib['class'] == 'Body-bullet':
+                    if (li[0].tag == 'span'):
+                        bulletitems.append(li)
+
+            if len(bulletitems) > 0:
+                contents = [p for p in element.iter('p') if p.attrib['class'] == "Body-content-no-indent"]
+
+                note = etree.Element('div')
+                note.attrib['class'] = 'note'
+                for p in contents:
+                    note.append(copy.deepcopy(p))
+                element.addprevious(note)
+                _elements_to_remove.append(element)
+
 
 
     if element.tag == 'span':
@@ -81,6 +105,8 @@ def string_replace(html_as_string):
     html_as_string = html_as_string.replace("&#226;&#128;&#156;" ,'"')
     html_as_string = html_as_string.replace("&#226;&#128;&#157;" ,'"')
     html_as_string = html_as_string.replace("&#239;&#131;&#149;" ,'\\rightarrow')
+    html_as_string = html_as_string.replace("&#226;&#136;&#146;" ,'-')
+    html_as_string = html_as_string.replace("&#226;&#128;&#153;" ,"'")
     html_as_string = html_as_string.replace(' xml:lang="en-US"' ,'')
 
 
@@ -107,4 +133,4 @@ if __name__ == "__main__":
     html_as_string = etree.tostring(html)
     html_as_string = string_replace(html_as_string)
 
-    print(html_as_string)
+    print(html_as_string.encode('utf-8'))
