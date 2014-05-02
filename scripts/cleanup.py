@@ -123,11 +123,15 @@ def string_replace(html_as_string):
     html_as_string = html_as_string.replace("&#239;&#131;&#149;" ,'\\rightarrow')
     html_as_string = html_as_string.replace("&#226;&#136;&#146;" ,'-')
     html_as_string = html_as_string.replace("&#226;&#128;&#153;" ,"'")
+    html_as_string = html_as_string.replace("&#194;&#176;" ,"^{\circ}")
     html_as_string = html_as_string.replace(' xml:lang="en-US"' ,'')
     html_as_string = html_as_string.replace('<b/>' ,'')
     html_as_string = html_as_string.replace('<td class="cell-style-override-2">' ,'<td class="red">')
     html_as_string = html_as_string.replace('<td class="cell-style-override-3">' ,'<td class="blue">')
     html_as_string = html_as_string.replace('<td class="cell-style-override-4">' ,'<td class="yellow">')
+    html_as_string = html_as_string.replace('<span class="char-style-override-3">&#226;&#128;&#162;	</span>' ,'')
+    html_as_string = html_as_string.replace('<span class="char-style-override-29">&#226;&#128;&#162;	</span>' ,'')
+    html_as_string = html_as_string.replace('<span class="char-style-override-37">&#226;&#128;&#162;	</span>' ,'')
 
 
 
