@@ -88,10 +88,10 @@ def replace_elements(element):
 
 def delete_empty_elements(element):
 
-    elements_to_ignore = ['table', 'hr', 'td', 'col', 'img', 'figure', 'tbody', 'tr']
+    elements_to_ignore = ['table', 'hr', 'td', 'col', 'img', 'figure', 'tbody', 'tr', 'head', 'link', 'meta', 'script']
 
     children = [c.tag not in elements_to_ignore for c in element.iter()]
-    
+
     if all(children):
         if element.tag not in elements_to_ignore:
             text = "".join([t for t in element.itertext(with_tail=True)]).strip() 
@@ -181,7 +181,7 @@ if __name__ == "__main__":
 
     html = delete_en_masse(html)
 
-    html_as_string = etree.tostring(html)
+    html_as_string = etree.tostring(html, method='html')
     html_as_string = string_replace(html_as_string)
 
     print(html_as_string.encode('utf-8'))
