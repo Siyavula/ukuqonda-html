@@ -118,6 +118,8 @@ def string_replace(html_as_string):
 
     # multiplication
     html_as_string = html_as_string.replace("&#195;&#151;" ,"\\times")
+    html_as_string = html_as_string.replace("&#195;&#183;" ,"\\div")
+    html_as_string = html_as_string.replace("<hr>" ,"<hr/>")
     html_as_string = html_as_string.replace("&#226;&#128;&#156;" ,'"')
     html_as_string = html_as_string.replace("&#226;&#128;&#157;" ,'"')
     html_as_string = html_as_string.replace("&#239;&#131;&#149;" ,'\\rightarrow')
