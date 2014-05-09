@@ -35,3 +35,7 @@ div.note{
 div.aside{
     background-color:#EADDD4;
 }
+
+ol > li > ol{
+    list-style-type:lower-alpha;
+}
