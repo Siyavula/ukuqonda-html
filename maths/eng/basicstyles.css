@@ -42,3 +42,11 @@ div.aside{
 ol > li > ol{
     list-style-type:lower-alpha;
 }
+
+div.worksheet{
+    background-color:#F3DBD1;
+}
+
+div.worksheet:before{
+    content:"WORKSHEET";
+}
