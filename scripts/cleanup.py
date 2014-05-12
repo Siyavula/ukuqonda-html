@@ -163,6 +163,15 @@ def fix_bold_italics(element):
             if 'Body-text-bold-head' in element.attrib['class']:
                 element.tag = 'b'
 
+def addStuff(html):
+    head = html.find('.//head')
+    css = etree.fromstring('<link href="basicstyles.css" rel="stylesheet" type="text/css"></link>')
+    mathjax = etree.fromstring('<script type="text/javascript" src="mathjax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>')
+    head.append(css)
+    head.append(mathjax)
+
+    return html
+
 if __name__ == "__main__":
     filename = sys.argv[1]
 
@@ -182,6 +191,8 @@ if __name__ == "__main__":
             parent.remove(element)
 
     html = delete_en_masse(html)
+
+    html = addStuff(html)
 
     html_as_string = etree.tostring(html, method='html')
     html_as_string = string_replace(html_as_string)
