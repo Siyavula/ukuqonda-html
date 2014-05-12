@@ -26,7 +26,10 @@ td.red{
     background-color:#D96773;
 }
 
+td.brown{
+    background-color:#EFD0C2;
 
+}
 div.note{
     border: 1px solid black;
     border-left: 10px solid #5E2615;
