@@ -21,7 +21,7 @@
 
 <li>						<p class="ques-a--2-space-below">\(	8 \text{ thousands} + 7 \text{ hundreds} + 8 \text{ units}\) </p>
 			<hr/> </li>
-<li><p class="ques-a--2-space-below">\(4 \text{ hundred thousands} + 8 \text{ ten thousands} + 	4 \text{ hundreds} + 9 \text{ tens}\) </p> <hr/></li>
+<li><p class="ques-a--2-space-below">\(4 \text{ hundred thousands} + 8 \text{ ten thousands} + 	4 \text{ hundreds} + 9 {\text{ tens} </p> <hr/></li>
                     </ol>
 
             </li>
@@ -55,7 +55,7 @@
 <li><p class="ques-a--2-space-below para-style-override-8">\(490 032 \)</p>
 			<hr/></li>
 <li><p class="ques-a--2-space-below">\(400 932\) </p>
-			<hr/></li></ol>
+			<hr/><li></ol>
 
             </li>
 <li><p class="Body-investigation">Arrange the numbers in question 5 from biggest to smallest.</p>
@@ -69,7 +69,7 @@
 <li><p class="ques-a--2-space-below">\(	500 000 + 280 000 + 7 000 + 300 + 170 + 38\) </p>
 			<hr/></li>
 <li><p class="ques-a-">	\(	4 \text{ hundred thousands} + 18 \text{ ten thousands} + 4 \text{ hundreds} + 29 \text{ tens} + 5 \text{ units}\)</p>
-			<hr/></li>
+			<hr/><li>
             </ol>
 
 </li>
@@ -931,8 +931,8 @@
 <li><p class="Body-investigation-hanging">How many yellow dots are there in the arrangement on page 6? Describe the method that you use to find this out.</p>
 		<hr/></li>
 <li><p class="ques-a-">
-<ol/><li>Cross out all the multiples of 9 in the table in question 3.</p></li>
-<li>			<p class="ques-a-">	Which numbers in the table in question 3 are common multiples of 7 and 9?</p>
+<ol/><li>(a)	Cross out all the multiples of 9 in the table in question 3.</p></li>
+<li>			<p class="ques-a-">	(b)	Which numbers in the table in question 3 are common multiples of 7 and 9?</p>
 			<hr/>
 <hr/></li></ol></li>
 <li><p class="ques-a-">
@@ -1839,7 +1839,7 @@
 <li><ol><li><p class="ques-a-">	How many very small white spots are there on 10 pages like page 11?</p>
 			<hr/></li>
 <li><p class="ques-a-">How many very small white spots are there on 100 pages like page 11?</p>
-		
+			<hr/>
 <hr/></li></ol>
 <div class="note"><p class="Body-content-no-indent">10 tens are a <b>hundred</b>: \(10 \times 10 = 100\)</p>
 							<p class="Body-content-no-indent">10 hundreds are a <b>thousand</b>:\( 10 \times 100 = 1 000\)</p>
