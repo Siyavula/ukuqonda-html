@@ -8826,8 +8826,14 @@ following without using a calculator:</p><ol><li>
 \sqrt{25})^3\)</p><hr/></li><li><p class="ques-a-">\(\frac{28 - 24 \div
 \sqrt{4}}{(\sqrt[3]{27}+1)^2}\)</p><hr/></li></ol></li>
 </ol>
+<<<<<<< HEAD
 
 <div class="worksheet">
+=======
+<div class= "worksheet">
+<h3>WORKSHEET</h3>
+
+>>>>>>> 15c6605f174f144b5975f8ccf278fd9033e8d1f0
 
 <ol><li>
 			<p class="worksheet-text-2-column">	Write in
@@ -8862,9 +8868,12 @@ class="worksheet-text-2-column">\((\sqrt{16+9} \div 5^1) \times
 class="worksheet-text-2-column">\(\frac{6^3 -(\sqrt{169})^2 + \sqrt{8}}{7^2
 \times1^9}\)</p><hr/></li></ol></li>
 </div>
+<<<<<<< HEAD
 </div>
 
 <div>
+=======
+>>>>>>> 15c6605f174f144b5975f8ccf278fd9033e8d1f0
 <h1>Chapter 3</h1>
 
 			
@@ -9999,7 +10008,8 @@ class="ANSWERS-table-text-left"></p>
 							<p
 class="ANSWERS-table-text-left"></p>
 						</td>
-					</tr></tbody></table><h3 class="Head-investigation">construct some more figures</h3>
+					</tr></tbody></table></ol><h3
+class="Head-investigation">construct some more figures</h3>
 			<p class="Body-no-indent">Read the instructions carefully and follow them exactly.</p>
 			<ol><li><ol><li><p class="ques-a-">	Draw a line in
 your exercise book. The line should be between 3 and 6 cm long.	Draw it in the
@@ -10661,6 +10671,7 @@ Group D: </p>
 			<p class="Head-C"><b>Group G</b></p>
 			<p class="Body-no-indent"><span class="char-style-override-35"><span><img class="frame-461" src="Maths_English_LG_gr7_term1-web-resources/image/49573.png" alt="49573.png"></span></span></p>
 		</div>
+<<<<<<< HEAD
 		<div>
 			<h1>Revision</h1>
 			<p class="Body-no-indent">You should not use a
@@ -10668,6 +10679,14 @@ calculator for any of the questions in this section. Do show your steps of
 working.</p>
 			<h3 class="Head-investigation">wORKING WITH Whole
 numbers</h3>
+=======
+		
+			</ol>
+		
+			<h1>Revision</h1>
+			<p class="Body-no-indent">You should not use a calculator for any of the questions in this section. Do show your steps of working.</p>
+			<h3 class="Head-investigation">wORKING WITH Whole numbers</h3>
+>>>>>>> 15c6605f174f144b5975f8ccf278fd9033e8d1f0
 			<ol><li><p class="Body-investigation-hanging">
 Make the number sentences below true. Into the first block in each question,
 write a multiplication or division sign. Into the second block, write either 10,
@@ -10714,11 +10733,16 @@ missing. Fill in the missing digits so as to make the calculation correct. </p>
 			<li>
 			<p class="Body-investigation">	Ismail has the following
 numbers: </p>
+<<<<<<< HEAD
 			<p class="Body-investigation">		71; 72; 73; 74;
 75; 76; 77; 78; 79; 80</p>
 			<p class="Body-investigation">	He wishes to sort them
 by placing them in the sorting diagram below. Help Ismail 	by placing the
 numbers in the correct blocks.</p>
+=======
+			<p class="Body-investigation">		71; 72; 73; 74; 75; 76; 77; 78; 79; 80</p>
+			<p class="Body-investigation">	He wishes to sort them by placing them in the sorting diagram below. Help Ismail 	by placing the numbers in the correct blocks.</p>
+>>>>>>> 15c6605f174f144b5975f8ccf278fd9033e8d1f0
 </li>			<table id="table-113"
 class="No-Table-Style"><colgroup><col class="Row-Column-466"><col
 class="Row-Column-466"><col class="Row-Column-466"></colgroup><tbody><tr
@@ -10748,8 +10772,12 @@ class="Table-header-centred">of 4</p>
 						<td
 class="cell-style-override-1">
 							</td>
+<<<<<<< HEAD
 						<td
 class="cell-style-override-1">
+=======
+						<td class="cell-style-override-1">
+>>>>>>> 15c6605f174f144b5975f8ccf278fd9033e8d1f0
 							<p
 class="ANSWERS-table-text-centred"></p>
 						</td>
@@ -10760,6 +10788,7 @@ class="Table-header-centred">Not a multiple</p>
 							<p
 class="Table-header-centred">of 4</p>
 						</td>
+<<<<<<< HEAD
 						<td
 class="cell-style-override-1">
 							<p
@@ -10767,6 +10796,13 @@ class="ANSWERS-table-text-centred"></p>
 						</td>
 						<td
 class="cell-style-override-1">
+=======
+						<td class="cell-style-override-1">
+							<p
+class="ANSWERS-table-text-centred"></p>
+						</td>
+						<td class="cell-style-override-1">
+>>>>>>> 15c6605f174f144b5975f8ccf278fd9033e8d1f0
 							<p
 class="ANSWERS-table-text-centred"></p>
 						</td>
@@ -10786,8 +10822,12 @@ multiples of 8</p><hr/></li><li>
 8</p><hr/></li></ol></li><li>
 			<p class="Body-investigation">	Teacher
 Ramushwana states: </p>
+<<<<<<< HEAD
 			<p class="Body-investigation">	"Every <b>even
 number</b> (greater than or equal to 6) can be written as the sum of a</p>
+=======
+			<p class="Body-investigation">	"Every <b>even number</b> (greater than or equal to 6) can be written as the sum of a</p>
+>>>>>>> 15c6605f174f144b5975f8ccf278fd9033e8d1f0
 			<p class="Body-investigation">	<b>pair of odd prime
 numbers</b>, for example \(10 = 3 + 7\)."</p><ol><li>
 			<p class="ques-a-">		Write down <i>two</i>
@@ -10883,6 +10923,7 @@ Calculate.</p><ol><li>
 			<hr/></li></ol></li><li>
 <p class="Body-investigation">	Explain the difference between \(4 \times 3\)
 and \(4^3\).</p>
+<<<<<<< HEAD
 			<hr/>
 </li><li>
 <p class="Body-investigation">	Write \(
@@ -10927,6 +10968,52 @@ written both as a square and a cube.</p>
 <p class="ques-a-">	\(	2^5\) 
 is smaller than \(30^1\). </p>
 			<hr/>
+=======
+			<hr/>
+</li><li>
+<p class="Body-investigation">	Write \(
+5^5\) in expanded form.  	</p>
+			<hr/>
+</li><li>
+<p class="Body-investigation">	Write the following in exponential
+form:</p><ol><li>
+			<p class="ques-a--2-space-below">	\(	2 \times
+2 \times 2		\)</p>
+			<hr/></li><li>
+<p class="ques-a--2-space-below">				\(	3 \times
+3 \times 3 \times 3 \times 3 \times 3 \times 3 \times 3	\)	</p>
+			<hr/></li></ol></li><li>
+<p class="Body-investigation">	Write the numbers in exponential form. Check
+your answers.</p><ol><li>
+			<p class="ques-a--2-space-below">		81	
+	</p>
+			<hr/></li><li>
+<p class="ques-a--2-space-below">		10 000		</p>
+			<hr/></li></ol></li><li>
+<p class="Body-investigation">	Complete:<ol><li>		5 squared is
+</p>
+			<hr/></li><li>
+<p class="ques-a-">			5 cubed is		</p>
+			<hr/></li></ol></li><li>
+<p class="Body-investigation">	Calculate:</p><ol><li>
+			<p class="ques-a-">\(
+7^2\)		</p><hr/></li><li>	<p class="ques-a-">		
+			\(	15^2\)</p></li><hr/><li>
+			
+			<p class="ques-a-">
+\(3^2 \times 4^2 \)</p><hr/></li><li><p
+class="ques-a-">\(\sqrt{16}\)</p>
+</li></ol></li><li>
+			<p class="Body-investigation">	Are the following
+statements true or false? Explain your answers.</p><ol><li>
+			<p class="ques-a-">		The number 64 can be
+written both as a square and a cube.</p>
+			<hr/>
+</li><li>
+<p class="ques-a-">	\(	2^5\) 
+is smaller than \(30^1\). </p>
+			<hr/>
+>>>>>>> 15c6605f174f144b5975f8ccf278fd9033e8d1f0
 </li>
 </ol><li>
 <p class= "Body-investigation">	Calculate the following and give reasons
@@ -10951,8 +11038,12 @@ class="ques-a-">\(10 \times \sqrt{81}\)</p><hr/></li><li>\(\sqrt{2
 			<p class="Body-investigation">	\(13=169; 14^2
 =196; 15^2=225; 16^2=256; 7^3=343; 8^3=512;
 3^3=27\)
+<<<<<<< HEAD
 			<p class="Body-investigation para-style-override-5">
 Use these facts to calculate the value of each of the following:</p>
+=======
+			<p class="Body-investigation para-style-override-5">	Use these facts to calculate the value of each of the following:</p>
+>>>>>>> 15c6605f174f144b5975f8ccf278fd9033e8d1f0
 <ol><li>			<p
 class="ques-a-">\(\sqrt{196}-\sqrt[3]{512}\)</p><hr/></li><li><p
 class="ques-a-">\(\sqrt{169 \times 225}\)
@@ -10966,9 +11057,13 @@ alongside.</p><ol><li>
 			<p class="ques-a-">	Is PS a line, ray or
 line segment? </p></li>
 			<div class="frame-2">
+<<<<<<< HEAD
 				<img class="frame-492"
 src="Maths_English_LG_gr7_term1-web-resources/image/91957.png"
 alt="91957.png"></div>
+=======
+				<img class="frame-492" src="Maths_English_LG_gr7_term1-web-resources/image/91957.png" alt="91957.png"></div>
+>>>>>>> 15c6605f174f144b5975f8ccf278fd9033e8d1f0
 			<hr/><li>
 <p class="ques-a-">		Draw on the grid a line segment through R 
 that will be perpendicular to PS. Label it TU.</p></li><li>
@@ -10978,29 +11073,42 @@ that is parallel 	to PS. Label it WX.</p></li></ol></li><li>
 correct name for each of the geometric features AB and CD, shown on the
 diagram:</p>
 			<div class="frame-2">
+<<<<<<< HEAD
 				<img class="frame-493"
 src="Maths_English_LG_gr7_term1-web-resources/image/91946.png"
 alt="91946.png"></div>
+=======
+				<img class="frame-493" src="Maths_English_LG_gr7_term1-web-resources/image/91946.png" alt="91946.png"></div>
+>>>>>>> 15c6605f174f144b5975f8ccf278fd9033e8d1f0
 			<p class="ques-a-">AB:<hr/><p><p class="ques-a-">CD:
 <hr/></p></li><li>
 <p class="Body-investigation-hanging">	There is a geometric relationship
 between line segments PR and QS shown in the diagram. Describe the relationship
 by adding the correct word on the dotted line:</p>
 			<div class="frame-2">
+<<<<<<< HEAD
 				<img class="frame-494"
 src="Maths_English_LG_gr7_term1-web-resources/image/91936.png"
 alt="91936.png"></div>
+=======
+				<img class="frame-494" src="Maths_English_LG_gr7_term1-web-resources/image/91936.png" alt="91936.png"></div>
+>>>>>>> 15c6605f174f144b5975f8ccf278fd9033e8d1f0
 			<p class="Body-no-indent">	PR is
 			<hr/> to QS.</p></li><li>
 			<p class="Body-investigation">	Draw a ray and a line
 that will never meet.</p></li></ol>
 			
+<<<<<<< HEAD
 			<p class="Body-no-indent
 para-style-override-1"><span><img class="frame-495"
 src="Maths_English_LG_gr7_term1-web-resources/image/91910.jpg"
 alt="91910.jpg"></span></p>
 			<h3 class="Head-investigation">CONSTRUCTION OF geometric
 figures</h3>
+=======
+			<p class="Body-no-indent para-style-override-1"><span><img class="frame-495" src="Maths_English_LG_gr7_term1-web-resources/image/91910.jpg" alt="91910.jpg"></span></p>
+			<h3 class="Head-investigation">CONSTRUCTION OF geometric figures</h3>
+>>>>>>> 15c6605f174f144b5975f8ccf278fd9033e8d1f0
 			<ol><li><p class="Body-investigation-hanging">
 Use a protractor to accurately measure the following angles, as shown on the
 diagram below, and write the answers in the table provided:</p><ol><li>
@@ -11017,6 +11125,7 @@ C\(\hat{A}\)B</p></li>
 </ol></li><p class="Body-no-indent"><span><img
 class="frame-497" src="Maths_English_LG_gr7_term1-web-resources/image/53973.png"
 alt="53973.png"></span>&#160;</p>
+<<<<<<< HEAD
 			<table id="table-114"
 class="No-Table-Style"><colgroup><col class="Row-Column-466"><col
 class="Row-Column-466"><col class="Row-Column-466"></colgroup><tbody><tr
@@ -11097,6 +11206,66 @@ class="Table-text-centred">Reflex
 C\(\hat{A}\)B</td>
 						<td
 class="cell-style-override-1">
+=======
+			<table id="table-114" class="No-Table-Style"><colgroup><col class="Row-Column-466"><col class="Row-Column-466"><col class="Row-Column-466"></colgroup><tbody><tr class="Row-Column-200"><td class="cell-style-override-1">
+							<p class="Table-header-centred">Angle name</p>
+						</td>
+						<td class="cell-style-override-1">
+							<p class="Table-header-centred">Size</p>
+						</td>
+						<td class="cell-style-override-1">
+							<p class="Table-header-centred">Classification</p>
+						</td>
+					</tr><tr class="Row-Column-200"><td class="cell-style-override-1">
+							<p class="ques-a-
+para-style-override-2">\(\hat{B}\)</td>
+						<td class="cell-style-override-1">
+							<p
+class="ANSWERS-table-text-centred"></p>
+						</td>
+						<td class="cell-style-override-1">
+							<p
+class="ANSWERS-table-text-centred"></p>
+						</td>
+					</tr><tr class="Row-Column-200"><td class="cell-style-override-1">
+							<p
+class="Table-text-centred">A\(\hat{D}\)B</td>
+						<td class="cell-style-override-1">
+							<p
+class="ANSWERS-table-text-centred"></p>
+						</td>
+						<td class="cell-style-override-1">
+							<p
+class="ANSWERS-table-text-centred"></p>
+						</td>
+					</tr><tr class="Row-Column-200"><td class="cell-style-override-1">
+							<p
+class="Table-text-centred">D\(\hat{A}\)B</td>
+						<td class="cell-style-override-1">
+							<p
+class="ANSWERS-table-text-centred"></p>
+						</td>
+						<td class="cell-style-override-1">
+							<p
+class="ANSWERS-table-text-centred"></p>
+						</td>
+					</tr><tr class="Row-Column-200"><td class="cell-style-override-1">
+							<p
+class="Table-text-centred">C\(\hat{D}\)B</td>
+						<td class="cell-style-override-1">
+							<p
+class="ANSWERS-table-text-centred"></p>
+						</td>
+						<td class="cell-style-override-1">
+							<p
+class="ANSWERS-table-text-centred"></p>
+						</td>
+					</tr><tr class="Row-Column-200"><td class="cell-style-override-1">
+							<p
+class="Table-text-centred">Reflex
+C\(\hat{A}\)B</td>
+						<td class="cell-style-override-1">
+>>>>>>> 15c6605f174f144b5975f8ccf278fd9033e8d1f0
 							<p
 class="ANSWERS-table-text-centred"></p>
 						</td>
@@ -11108,10 +11277,14 @@ class="Table-text-centred">Reflex</p>
 					</tr></tbody></table><li><p
 class="Body-investigation">	Construct a semi-circle with a radius of 3
 cm.</p></li>
+<<<<<<< HEAD
 			<p class="Body-no-indent
 para-style-override-1"><span><img class="frame-498"
 src="Maths_English_LG_gr7_term1-web-resources/image/53917.jpg"
 alt="53917.jpg"></span></p>
+=======
+			<p class="Body-no-indent para-style-override-1"><span><img class="frame-498" src="Maths_English_LG_gr7_term1-web-resources/image/53917.jpg" alt="53917.jpg"></span></p>
+>>>>>>> 15c6605f174f144b5975f8ccf278fd9033e8d1f0
 		<li>	<p class="Body-investigation-hanging">	Use a
 ruler and protractor to construct angles that are the given sizes. Label the
 angles correctly.</p><ol><li>
@@ -11120,16 +11293,24 @@ angles correctly.</p><ol><li>
 <span>&#176;</p></li></ol>
 			<div>
 				<div class="frame-2">
+<<<<<<< HEAD
 					<img class="frame-500"
 src="Maths_English_LG_gr7_term1-web-resources/image/53891.png"
 alt="53891.png"></div>
+=======
+					<img class="frame-500" src="Maths_English_LG_gr7_term1-web-resources/image/53891.png" alt="53891.png"></div>
+>>>>>>> 15c6605f174f144b5975f8ccf278fd9033e8d1f0
 				</div><li>
 			<p class="Body-investigation-hanging">	Use circles to
 construct two lines, CD and EF, that are parallel to line AB below. Line CD
 should be above line AB, and line EF below line AB. Label both lines.</p></li>
+<<<<<<< HEAD
 			<p class="Body-no-indent"><span><img class="frame-502"
 src="Maths_English_LG_gr7_term1-web-resources/image/56451.png"
 alt="56451.png"></span>&#160;</p>
+=======
+			<p class="Body-no-indent"><span><img class="frame-502" src="Maths_English_LG_gr7_term1-web-resources/image/56451.png" alt="56451.png"></span>&#160;</p>
+>>>>>>> 15c6605f174f144b5975f8ccf278fd9033e8d1f0
 			<li><p class="Body-investigation-hanging">	Consider
 the diagram alongside.Write down the names of the pair of perpendicular
 lines.</p>
@@ -11155,9 +11336,13 @@ opposite sides parallel</p>
 <p class="Body-investigation-hanging">	What is the correct term for each of the
 following parts of the circle with centre B, as shown alongside?</p>
 			<div class="frame-2">
+<<<<<<< HEAD
 				<img class="frame-504"
 src="Maths_English_LG_gr7_term1-web-resources/image/53851.png"
 alt="53851.png"></div>
+=======
+				<img class="frame-504" src="Maths_English_LG_gr7_term1-web-resources/image/53851.png" alt="53851.png"></div>
+>>>>>>> 15c6605f174f144b5975f8ccf278fd9033e8d1f0
 			<ol><li><p class="ques-a-">		Line AB</p>
 			<hr/></li><li>
 <p class="ques-a-">	The shaded area</p>
@@ -11167,9 +11352,13 @@ alt="53851.png"></div>
 grid alongside, two sides of a kite have been drawn. Use a ruler and complete
 the kite on the grid.</p>
 			<div class="frame-2">
+<<<<<<< HEAD
 				<img class="frame-503"
 src="Maths_English_LG_gr7_term1-web-resources/image/53841.png"
 alt="53841.png"></div>
+=======
+				<img class="frame-503" src="Maths_English_LG_gr7_term1-web-resources/image/53841.png" alt="53841.png"></div>
+>>>>>>> 15c6605f174f144b5975f8ccf278fd9033e8d1f0
 		</li><li>	<p class="Body-investigation-hanging"><a
 id="Anchor-16"></a>	Darrel says, "The four-sided shapes I am thinking of
 have at least one pair of adjacent sides equal. What are they?" Write down the
@@ -11191,9 +11380,13 @@ reason for your answer.</p>
 <li>
 <p class="Body-investigation">	Consider the diagram alongside.</p>
 			<div class="frame-2">
+<<<<<<< HEAD
 				<img class="frame-505"
 src="Maths_English_LG_gr7_term1-web-resources/image/53817.png"
 alt="53817.png"></div>
+=======
+				<img class="frame-505" src="Maths_English_LG_gr7_term1-web-resources/image/53817.png" alt="53817.png"></div>
+>>>>>>> 15c6605f174f144b5975f8ccf278fd9033e8d1f0
 			<ol><li><p class="ques-a-">	Write down the
 letters of all the 	shape(s) that are <i>congruent</i> to shape B.</p>
 			<hr/></li><li>
@@ -11209,9 +11402,13 @@ lengths of MN and LN.</p>
 <p class="Body-investigation-hanging">	In each case say whether the two sides
 are opposite sides or adjacent sides of quadrilateral DEFG.</p>
 			<div class="frame-2">
+<<<<<<< HEAD
 				<img class="frame-506"
 src="Maths_English_LG_gr7_term1-web-resources/image/53808.png"
 alt="53808.png"></div>
+=======
+				<img class="frame-506" src="Maths_English_LG_gr7_term1-web-resources/image/53808.png" alt="53808.png"></div>
+>>>>>>> 15c6605f174f144b5975f8ccf278fd9033e8d1f0
 			<ol><li><p class="ques-a-">		GD and DE</p>
 			<hr/></li><li>
 <p class="ques-a-">	DE and GF</p>
@@ -11228,6 +11425,7 @@ the assessment is 60.</p>
 				<p class="Body-box-no-indent">Do not use your
 calculator!</p>
 			</div>
+<<<<<<< HEAD
 			<p class="Body-no-indent para-style-override-12"><span
 class="Basic-Graphics-Frame"><img class="frame-93"
 src="Maths_English_LG_gr7_term1-web-resources/image/53721.png"
@@ -11242,6 +11440,14 @@ placing two cards next to each other - so, for example, taking the 1 and the 2
 and putting them next to each other will create the number 12 (twelve).</p>
 			<p class="ques-a--with-marks">	Choose two cards each
 time to make the following two-digit numbers:				(4)</p>
+=======
+			<p class="Body-no-indent para-style-override-12"><span class="Basic-Graphics-Frame"><img class="frame-93" src="Maths_English_LG_gr7_term1-web-resources/image/53721.png" alt="53721.png"></span>&#160;</p>
+			<ol><li><p class="Body-investigation">	Here are five
+one-digit cards: </p>
+			<p class="Body-no-indent"><span><img class="frame-508" src="Maths_English_LG_gr7_term1-web-resources/image/53709.png" alt="53709.png"></span>&#160;</p>
+			<p class="ques-a-">	Two-digit numbers can be made by placing two cards next to each other - so, for example, taking the 1 and the 2 and putting them next to each other will create the number 12 (twelve).</p>
+			<p class="ques-a--with-marks">	Choose two cards each time to make the following two-digit numbers:				(4)</p>
+>>>>>>> 15c6605f174f144b5975f8ccf278fd9033e8d1f0
 			<ol><li><p class="ques-a-">		An odd
 number</p>
 			<hr/></li><li>
@@ -11253,6 +11459,7 @@ number</p>
 			<hr/></li></ol></li><li>
 <p class="Body-investigation-hanging">	Ayanda has a pack of cards numbered from
 1 to 16. He chooses four cards at random from the pack:</p></li>
+<<<<<<< HEAD
 			<ul><li class="Body-bullet-indented">One is a factor of
 39.</li>
 				<li class="Body-bullet-indented">Two are
@@ -11264,6 +11471,13 @@ the four numbers is more than 45, but less than 50.</li>
 			</ul><p class="ques-a--with-marks">	Write down the
 values of the four numbers.							
 			(3)</p>
+=======
+			<ul><li class="Body-bullet-indented">One is a factor of 39.</li>
+				<li class="Body-bullet-indented">Two are multiples of 4.</li>
+				<li class="Body-bullet-indented">Three are even.</li>
+				<li class="Body-bullet-indented">The total of the four numbers is more than 45, but less than 50.</li>
+			</ul><p class="ques-a--with-marks">	Write down the values of the four numbers.											(3)</p>
+>>>>>>> 15c6605f174f144b5975f8ccf278fd9033e8d1f0
 			<hr/>
 <li>
 <p class="Body-investigation-hanging">	All 769 learners from the Sibanye
@@ -11277,6 +11491,7 @@ everyone to the meeting?	      (3)</p>
 <p class="Body-investigation-hanging">	Calculate the total number of test
 wickets taken by the top four wicket takers in the Proteas' cricket history
 (figures correct as at June 2013):</p>
+<<<<<<< HEAD
 			<ul><li class="Body-bullet-indented">Shaun Pollock:
 421</li>
 				<li class="Body-bullet-indented">Makhaya Ntini:
@@ -11285,12 +11500,19 @@ wickets taken by the top four wicket takers in the Proteas' cricket history
 332</li>
 				<li class="Body-bullet-indented">Allan Donald:
 330	(2)</li>
+=======
+			<ul><li class="Body-bullet-indented">Shaun Pollock: 421</li>
+				<li class="Body-bullet-indented">Makhaya Ntini: 390</li>
+				<li class="Body-bullet-indented">Dale Steyn: 332</li>
+				<li class="Body-bullet-indented">Allan Donald: 330	(2)</li>
+>>>>>>> 15c6605f174f144b5975f8ccf278fd9033e8d1f0
 			</ul><hr/>
 </li>
 
 <li>
 <p class="Body-investigation">	Use prime factors to find the LCM of 42 and 18.	
 	(2)</p>
+<<<<<<< HEAD
 			<hr/>
 </li>
 <li>
@@ -11301,6 +11523,18 @@ your working.			(3)</p>
 			<hr/>
 </li>
 <li>
+=======
+			<hr/>
+</li>
+<li>
+<p class="Body-investigation-hanging">	Dintle's family needs to get to
+Polokwane, 330 km away, by 11 a.m. If they leave at 7.40 a.m. and drive at an
+average speed of 100 km/h, will they reach their destination on time? Show all
+your working.			(3)</p>
+			<hr/>
+</li>
+<li>
+>>>>>>> 15c6605f174f144b5975f8ccf278fd9033e8d1f0
 <p class="Body-investigation">	Determine the value of each of the following:	
 </p><ol><li>
 			<p class="ques-a--with-marks">	\(	6^3 -
@@ -11313,9 +11547,13 @@ class="ques-a--with-marks">\(3\sqrt{64}\)<hr/>(2)</p></li></ol></li><li><ol><li>
 <p class="ques-a--with-marks">	Write down the letters of all
 the acute angles in the diagram.                 		 	
 			<hr/>(2)</p></li>
+<<<<<<< HEAD
 <p class="Body-no-indent"><span><img class="frame-511"
 src="Maths_English_LG_gr7_term1-web-resources/image/56497.png"
 alt="56497.png"></span>&#160;</p>
+=======
+<p class="Body-no-indent"><span><img class="frame-511" src="Maths_English_LG_gr7_term1-web-resources/image/56497.png" alt="56497.png"></span>&#160;</p>
+>>>>>>> 15c6605f174f144b5975f8ccf278fd9033e8d1f0
 			<li><p class="ques-a--with-marks para-style-override-8">
 	Measure the size of angle <i>d</i> in the diagram and write it down.
 
@@ -11327,6 +11565,7 @@ alt="56497.png"></span>&#160;</p>
 			<p class="Body-investigation-with-marks">	Draw and
 correctly label angle KLM = 168 &#176;.			    (3)</p>
 			<div class="frame-2">
+<<<<<<< HEAD
 				<img class="frame-512"
 src="Maths_English_LG_gr7_term1-web-resources/image/53602.jpg"
 alt="53602.jpg"></div>
@@ -11336,6 +11575,13 @@ below, and goes through point H.			(3)</p></li>
 			<p class="Body-no-indent"><span><img class="frame-513"
 src="Maths_English_LG_gr7_term1-web-resources/image/56517.png"
 alt="56517.png"></span>&#160;</p>
+=======
+				<img class="frame-512" src="Maths_English_LG_gr7_term1-web-resources/image/53602.jpg" alt="53602.jpg"></div>
+			<li><p class="Body-investigation-hanging">	Use your
+ruler and protractor to draw a line that is parallel to line segment FG drawn
+below, and goes through point H.			(3)</p></li>
+			<p class="Body-no-indent"><span><img class="frame-513" src="Maths_English_LG_gr7_term1-web-resources/image/56517.png" alt="56517.png"></span>&#160;</p>
+>>>>>>> 15c6605f174f144b5975f8ccf278fd9033e8d1f0
 			<li><p class="Body-investigation-hanging">	Four
 circles are drawn so that they fit neatly into a square with side length of 6
 cm, as shown (<i>not</i> to scale). Write down the radius of each
@@ -11385,6 +11631,7 @@ to the perimeter of a circle?		<hr/>(1)</p>
 the dot grid below. Add appropriate symbols on the diagram to show that the
 opposite sides of a rhombus are parallel.	    (3)</p>
 			
+<<<<<<< HEAD
 			<p class="Body-no-indent"><span><img class="frame-517"
 src="Maths_English_LG_gr7_term1-web-resources/image/56577.png"
 alt="56577.png"></span>&#160;</p>
@@ -11392,12 +11639,19 @@ alt="56577.png"></span>&#160;</p>
 In trapezium JKLM, JK is parallel to the opposite side. </p>
 			<p class="Body-investigation-spaced">	Complete the
 statement: </p>
+=======
+			<p class="Body-no-indent"><span><img class="frame-517" src="Maths_English_LG_gr7_term1-web-resources/image/56577.png" alt="56577.png"></span>&#160;</p>
+			</li><li><p class="Body-investigation-hanging">
+In trapezium JKLM, JK is parallel to the opposite side. </p>
+			<p class="Body-investigation-spaced">	Complete the statement: </p>
+>>>>>>> 15c6605f174f144b5975f8ccf278fd9033e8d1f0
 			<p class="Body-investigation">	JK || </p>
 			<hr/>
 <p class="Body-investigation">					   
 (1)</p></li><li>
 			<p class="Body-investigation">	Study the
 following diagram:</p></li>
+<<<<<<< HEAD
 			<p class="Body-no-indent"><span><img class="frame-503"
 src="Maths_English_LG_gr7_term1-web-resources/image/53519.png"
 alt="53519.png"></span>&#160;</p>
@@ -11406,6 +11660,11 @@ alt="53519.png"></span>&#160;</p>
 			<p class="Body-investigation-spaced">	AD is
 (parallel/perpendicular) to BC. This can be shown in symbols as follows: 
 </p>
+=======
+			<p class="Body-no-indent"><span><img class="frame-503" src="Maths_English_LG_gr7_term1-web-resources/image/53519.png" alt="53519.png"></span>&#160;</p>
+			<p class="Body-investigation-spaced">	Cross out the <i>incorrect</i> word or symbol in each set of brackets:</p>
+			<p class="Body-investigation-spaced">	AD is (parallel/perpendicular) to BC. This can be shown in symbols as follows: 	</p>
+>>>>>>> 15c6605f174f144b5975f8ccf278fd9033e8d1f0
 			<p class="Body-investigation-spaced">	(AD
 \(\perp\) BC 
 / AB || BC).					(2)</p>
