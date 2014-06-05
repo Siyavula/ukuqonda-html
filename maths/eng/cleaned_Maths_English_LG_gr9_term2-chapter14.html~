@@ -28,6 +28,8 @@
     rhombi, kites and trapeziums, as well as investigate the effect
     on the perimeter and area of a shape when its dimensions are
     doubled.</p>
+</ol>
+</div>
 
     <h2>14.1 Area and perimeter of squares and rectangles</h2>
 
@@ -406,6 +408,9 @@
  <hr />
 <li>The perimeter of a rectangle is 28 cm and its breadth is 6 cm. What is its length?</li>
  <hr />
+
+</ol>
+</div>
     
     <h2>14.3 Area and perimeter of circles</h2>
 
@@ -495,21 +500,26 @@
     <li class="Body-investigation">Calculate the radius and
     diameter of a circle with:
 <ol>
-    <li class="ques-a-">an area of 200 \(\text{m}^{2}\) 
-<li>an area of 1 000 \(\text{m}^{2}\)</p>
+    <li class="ques-a-">an area of 200 \(\text{m}^{2}\)</li>
+<hr />
+<li>an area of 1 000 \(\text{m}^{2}\)</li>
+<hr />
 </li>
 </ol>
    
 
     <li class="Body-investigation">Calculate the area of the
     shaded part.</li>
-    <hr />
+    
 
         <div class="frame-35"><img class="frame-324" src=
     "Maths_English_LG_gr9_term2-web-resources/image/76305.png" alt=
     "76305.png" /></div>
     <hr />
-
+</ol>
+</div>
+</ol>
+</div>
     <h2>14.4 Converting between units</h2>
 
     <h3>converting between units used for perimeter and area</h3>
@@ -1207,41 +1217,15 @@
 
   
   <div>
-    <p class="Chapter">T<span class=
-    "char-style-override-34">erm</span> 2</p>
+    <h2 class="Chapter">T<span class=
+    "char-style-override-34">erm</span> 2</h2>
 
     <h1><span class="chapter-no char-style-override-35">Revision
     and assessment</span></h1>
   </div>
 
-  <div>
-    <p class="Body-opener-no-indent">Revision 268</p>
 
-    <ul>
-      <li class="Body-opener-bullets"><span class=
-      "char-style-override-36">&#226;&#8364;&#162;</span>
-      Construction of geometric figures 268</li>
-
-      <li class="Body-opener-bullets"><span class=
-      "char-style-override-36">&#226;&#8364;&#162;</span> Geometry
-      of 2D shapes 270</li>
-
-      <li class="Body-opener-bullets"><span class=
-      "char-style-override-36">&#226;&#8364;&#162;</span> Geometry
-      of straight lines 273</li>
-
-      <li class="Body-opener-bullets"><span class=
-      "char-style-override-36">&#226;&#8364;&#162;</span>
-      Pythagoras' Theorem 275</li>
-
-      <li class="Body-opener-bullets"><span class=
-      "char-style-override-36">&#226;&#8364;&#162;</span> Area and
-      perimeter of 2D shapes 276</li>
-    </ul>
-
-    <p class="Body-opener-no-indent">Assessment 278</p>
-
-    <h1>Revision</h1>
+    <h2>Revision</h2>
 
     <p class="Body-no-indent">Remember to show all your steps of
     your working. Note that the diagrams drawn in this revision and
@@ -1251,70 +1235,74 @@
     "Basic-Graphics-Frame"><img class="frame-22" src=
     "Maths_English_LG_gr9_term2-web-resources/image/86185.png" alt=
     "86185.png" /></span>&nbsp;</p>
-
+</ol>
+</div>
     <h3 class="Head-investigation">construction of geometric
     figures</h3>
 
     <p class="Body-investigation">Do not erase any construction
     arcs in these questions.</p>
+</li>
+</ol>
+<ol>
 
-    <p class="Body-investigation">1. Construct and label the
-    following triangles and quadrilaterals:</p>
+    <li class="Body-investigation">Construct and label the
+    following triangles and quadrilaterals:
+<ol>
 
-    <p class="ques-a-">(a) Triangle FGH where GH = 6,2 cm;
-    <span><img class="frame-75" src=
-    "Maths_English_LG_gr9_term2-web-resources/image/86178.png" alt=
-    "86178.png" /></span> = 36\(^\circ\) and <span><img class=
-    "frame-189" src=
-    "Maths_English_LG_gr9_term2-web-resources/image/86167.png" alt=
-    "86167.png" /></span> = 63\(^\circ\)</p>
+    <li class="ques-a-">Triangle FGH where GH = 6,2 cm;
+    \(\hat{G}\)</span> = 36\(^\circ\) and \(\hat{H}\) = 63\(^\circ\)</li>
 
     <p class="Body-no-indent"><span><img class="frame-364" src=
     "Maths_English_LG_gr9_term2-web-resources/image/86156.jpg" alt=
     "86156.jpg" /></span>&nbsp;</p>
 
-    <p class="ques-a-">(b) Parallelogram PQRS where PQ = 5,7 cm, PS
-    = 7,8 cm and <span><img class="frame-37" src=
-    "Maths_English_LG_gr9_term2-web-resources/image/86146.png" alt=
-    "86146.png" /></span> = 112\(^\circ\)</p>
+    <li class="ques-a-">Parallelogram PQRS where PQ = 5,7 cm, PS
+    = 7,8 cm and \(\hat{R}\) = 112\(^\circ\)</li>
 
     <p class="Body-no-indent"><span><img class="frame-365" src=
     "Maths_English_LG_gr9_term2-web-resources/image/86133.jpg" alt=
     "86133.jpg" /></span>&nbsp;</p>
-
-    <p class="ques-a-">2. (a) Construct &#206;&#8221;KLM where KL =
-    9,4 cm; LM = 7 cm and MK = 7,8 cm.</p>
+</li>
+</ol>
+    <li class="ques-a-">
+<ol>
+<li>Construct \(\triangle\)KLM where KL = 9,4 cm; LM = 7 cm and MK = 7,8 cm.</li>
 
     <p class="ques-a-"><span><img class="frame-366" src=
     "Maths_English_LG_gr9_term2-web-resources/image/86125.jpg" alt=
     "86125.jpg" /></span>&nbsp;</p>
 
-    <p class="ques-a- para-style-override-5">(b) Construct the
+    <li class="ques-a- para-style-override-5">Construct the
     perpendicular bisectors of all three sides of the triangle
     drawn in part (a). You should find that they all go through the
-    same point.</p>
+    same point.</li>
 
-    <p class="ques-a-">(c) Use the point of intersection as the
+    <li class="ques-a-">Use the point of intersection as the
     midpoint of a circle that passes through all three vertices of
-    the triangle. Use your compass to draw this circle.</p>
+    the triangle. Use your compass to draw this circle.</li>
+</li>
+</ol>
+    <li class="Body-investigation">Construct the following angles
+    without using a protractor:
+<ol>
 
-    <p class="Body-investigation">3. Construct the following angles
-    without using a protractor:</p>
-
-    <p class="ques-a-">(a) 45\(^\circ\)</p>
+    <li class="ques-a-">45\(^\circ\)</li>
 
     <p class="ques-a-"><span><img class="frame-367" src=
     "Maths_English_LG_gr9_term2-web-resources/image/86116.jpg" alt=
     "86116.jpg" /></span>&nbsp;</p>
 
-    <p class="ques-a-">(b) 210\(^\circ\)</p>
+    <li class="ques-a-">210\(^\circ\)</li>
+</li>
+</ol>
 
     <p class="Body-no-indent"><span><img class="frame-368" src=
     "Maths_English_LG_gr9_term2-web-resources/image/86107.jpg" alt=
     "86107.jpg" /></span></p>
 
-    <p class="Body-investigation">4. Construct a regular hexagon in
-    your exercise books by following these instructions:</p>
+    <li class="Body-investigation">Construct a regular hexagon in
+    your exercise books by following these instructions:</li>
 
     <ul>
       <li class="Body-bullet-Left-indent"> Construct
@@ -1340,13 +1328,12 @@
       you get back to point A. You have now constructed a regular
       hexagon!</li>
     </ul>
-
+</li>
+</ol>
+</ol>
     <h3 class="Head-investigation">geometry of 2D shapes</h3>
-
-    <p class="Body-investigation-hanging para-style-override-7">1.
-    The following table summarises the properties of diagonals of
-    quadrilaterals. Complete the table by placing ticks in the
-    appropriate blocks.</p>
+<ol>
+    <li class="Body-investigation-hanging para-style-override-7">The following table summarises the properties of diagonals of quadrilaterals. Complete the table by placing ticks in the appropriate blocks.</li>
 
     <table id="table-62" class="No-Table-Style">
       <colgroup>
@@ -1435,8 +1422,8 @@
       </tbody>
     </table>
 
-    <p class="Body-investigation">2. Study the following
-    figure.</p>
+    <li class="Body-investigation">Study the following
+    figure.
 
     <p class="Body-investigation">Note that <span class=
     "char-style-override-9">d</span>, <span class=
@@ -1448,61 +1435,47 @@
     "Maths_English_LG_gr9_term2-web-resources/image/86089.png" alt=
     "86089.png" /></span>&nbsp;</p>
 
-    <p class="ques-a-">(a) Write down an equation that shows the
+  <ol>
+  <li class="ques-a-">Write down an equation that shows the
     relationship between angle <span class=
     "char-style-override-9">d</span> and the sum of two other
-    angles in the image.</p>
+    angles in the image.</li>
     <hr />
 
-    <p class="ques-a-">(b) Determine the size of <span class=
+    <li class="ques-a-"> Determine the size of <span class=
     "char-style-override-9">d</span> + <span class=
     "char-style-override-9">e</span> + <span class=
     "char-style-override-9">f</span>. Give reasons for your
-    answer.</p>
+    answer.</li>
     <hr />
-    <hr />
-    <hr />
-    <hr />
-    <hr />
-    <hr />
-
-    <p class="Body-investigation-hanging">3. Determine the size of
-    <span><img class="frame-38" src=
-    "Maths_English_LG_gr9_term2-web-resources/image/86081.png" alt=
-    "86081.png" /></span>. Show all steps of your working and give
+</li>
+</ol>
+  
+    <li class="Body-investigation-hanging">Determine the size of
+    \(\hat{V}\). Show all steps of your working and give
     reasons when using any geometrical theorem:</p>
 
     <div class="frame-35"><img class="frame-377" src=
     "Maths_English_LG_gr9_term2-web-resources/image/86072.png" alt=
     "86072.png" /></div>
     <hr />
-    <hr />
-    <hr />
-
-    <p class="x--Answer-text-dotted-line-below"><i>x</i> =
-    45\(^\circ\)</p>
-    <hr />
-    <hr />
-
-    <p class="Body-investigation-hanging">4. DEFG is a square with
+    
+    <li class="Body-investigation-hanging">DEFG is a square with
     DF = 12 cm. Determine the length of the side of the square,
     correct to two decimal places. Show all steps of your working.
-    Give reasons when using any geometrical theorem:</p>
+    Give reasons when using any geometrical theorem:</li>
 
     <div class="frame-35"><img class="frame-378" src=
     "Maths_English_LG_gr9_term2-web-resources/image/86053.png" alt=
     "86053.png" /></div>
     <hr />
-    <hr />
-    <hr />
-    <hr />
-    <hr />
+ 
 
-    <p class="Body-investigation-hanging">5. Are the following
+    <li class="Body-investigation-hanging">Are the following
     pairs of triangles congruent? If they are, write down the
-    relationship in the form &#206;&#8221;XYZ <span class=
+    relationship in the form \(\triangle\)XYZ <span class=
     "char-style-override-4">\(\equiv\)</span>
-    &#206;&#8221;ORQ, where X corresponds with O, Y with R, and so
+    \(\triangle\)ORQ, where X corresponds with O, Y with R, and so
     on. Also state the congruency condition (case) that proves the
     two triangles are congruent (for example, sss). If they are not
     congruent, explain why they are not congruent.</p>
@@ -1510,356 +1483,217 @@
     <p class="Body-investigation-hanging"><span class=
     "char-style-override-3">Note</span>: the triangles are not
     drawn to scale.</p>
-
-    <p class="ques-a-">(a)</p>
+<ol>
+    <li class="ques-a-"></li>
 
     <div class="frame-35"><img class="frame-379" src=
     "Maths_English_LG_gr9_term2-web-resources/image/86043.png" alt=
     "86043.png" /></div>
     <hr />
-    <hr />
-    <hr />
+ 
 
-    <p class="ques-a-">(b)</p>
+    <li class="ques-a-"></li>
 
     <div class="frame-35"><img class="frame-380" src=
     "Maths_English_LG_gr9_term2-web-resources/image/86034.png" alt=
     "86034.png" /></div>
     <hr />
-    <hr />
-    <hr />
-    <hr />
 
-    <p class="Body-investigation">6. Provide a formal proof that
-    the two triangles in the diagram below are congruent:</p>
+</li>
+</ol>
+    <li class="Body-investigation">Provide a formal proof that
+    the two triangles in the diagram below are congruent:</li>
 
     <div class="frame-35"><img class="frame-381" src=
     "Maths_English_LG_gr9_term2-web-resources/image/86024.png" alt=
     "86024.png" /></div>
     <hr />
-    <hr />
-    <hr />
-    <hr />
-    <hr />
-
-    <p class=
-    "x--Answer-text-dotted-last-line para-style-override-2">
-    \(\therefore\)
-    \(\triangle\)PQR <span class=
-    "char-style-override-4">\(\equiv\)</span>
-    \(\triangle\)TSR (saa)</p>
-
-    <p class="Body-investigation">7. Study the diagram
-    alongside:</p>
+  
+   
+    <li class="Body-investigation">Study the diagram
+    alongside:</li>
 
     <div class="frame-35"><img class="frame-382" src=
     "Maths_English_LG_gr9_term2-web-resources/image/85996.png" alt=
     "85996.png" /></div>
 
     <p class="ques-a-">Prove that <span class=
-    "char-style-override-37">&#206;&#8221;</span>SRP</p>
-
-    <div>
-      <div class="frame-35"><img class="frame-383" src=
-      "Maths_English_LG_gr9_term2-web-resources/image/86738.png"
-      alt="86738.png" /></div>
-
-      <div class="frame-35"><img class="frame-383" src=
-      "Maths_English_LG_gr9_term2-web-resources/image/86739.png"
-      alt="86739.png" /></div>
-
-      <div class="frame-35"><img class="frame-383" src=
-      "Maths_English_LG_gr9_term2-web-resources/image/86740.png"
-      alt="86740.png" /></div>
-    </div>
-
-    <p class="ques-a-"><span class=
-    "char-style-override-37">&#206;&#8221;</span>SQT.</p>
+    "char-style-override-37">\(\triangle\)</span>SRP \(|||\) \(\triangle\)</span>SQT.</p>
     <hr />
-    <hr />
-    <hr />
-    <hr />
-
-    <p class=
-    "x--Answer-text-dotted-line-below para-style-override-6">
-    \(\therefore\)
-    \(\triangle\)SPR \(|||\) \(\triangle\)STP (aaa)</p>
-
+</li>
+</ol>
+   
     <h3 class="Head-investigation">geometry of straight lines</h3>
 
-    <p class="Body-investigation">1. Determine the size of P
-    <span><img class="frame-67" src=
-    "Maths_English_LG_gr9_term2-web-resources/image/85947.png" alt=
-    "85947.png" /></span>Q.</p>
+<ol>
+    <li class="Body-investigation">Determine the size of P \(\hat{\text{M}}\) Q.</p>
 
     <div class="frame-35"><img class="frame-384" src=
     "Maths_English_LG_gr9_term2-web-resources/image/85939.png" alt=
     "85939.png" /></div>
     <hr />
-    <hr />
-    <hr />
-    <hr />
 
-    <p class="x--Answer-text-dotted-line-below"><i>x</i> =
-    25\(^\circ\)</p>
-    <hr />
-    <hr />
-    <hr />
 
-    <p class="Body-investigation-hanging">2. Determine the size of
+    <li class="Body-investigation-hanging">Determine the size of
     <span class="char-style-override-9">x</span> in each case. Show
     all steps of your working and give reasons when using any
-    geometrical theorem:</p>
-
-    <p class="ques-a-">(a)</p>
+    geometrical theorem:
+<ol>
+    <li class="ques-a-"></li>
 
     <div class="frame-35"><img class="frame-385" src=
     "Maths_English_LG_gr9_term2-web-resources/image/85915.png" alt=
     "85915.png" /></div>
     <hr />
-    <hr />
-    <hr />
-    <hr />
-    <hr />
 
-    <p class="ques-a-">(b) Given: EH = EJ</p>
+
+    <li class="ques-a-">Given: EH = EJ</li>
 
     <div class="frame-35"><img class="frame-386" src=
     "Maths_English_LG_gr9_term2-web-resources/image/85904.png" alt=
     "85904.png" /></div>
     <hr />
-    <hr />
-    <hr />
-    <hr />
-    <hr />
-    <hr />
 
-    <p class="ques-a-">(c) A <span><img class="frame-183" src=
-    "Maths_English_LG_gr9_term2-web-resources/image/85896.png" alt=
-    "85896.png" /></span>G = <i>x</i>; B <span><img class=
-    "frame-259" src=
-    "Maths_English_LG_gr9_term2-web-resources/image/85889.png" alt=
-    "85889.png" /></span>D = 130\(^\circ\) and C
-    <span><img class="frame-387" src=
-    "Maths_English_LG_gr9_term2-web-resources/image/85879.png" alt=
-    "85879.png" /></span>J = 72\(^\circ\)</p>
+
+    <li class="ques-a-">A \(\hat{\text{B}}\) G = <i>x</i>; B \(\hat{\text{C}}\) D = 130\(^\circ\) and C \(\hat{\text{D}}\) J = 72\(^\circ\)</li>
 
     <div class="frame-35"><img class="frame-388" src=
     "Maths_English_LG_gr9_term2-web-resources/image/85870.png" alt=
     "85870.png" /></div>
     <hr />
-    <hr />
-    <hr />
-    <hr />
-    <hr />
-    <hr />
-    <hr />
-    <hr />
-
-    <p class="ques-a-">(d)</p>
+   
+    <li class="ques-a-"></li>
 
     <div class="frame-35"><img class="frame-389" src=
     "Maths_English_LG_gr9_term2-web-resources/image/85862.png" alt=
     "85862.png" /></div>
     <hr />
-    <hr />
-    <hr />
-    <hr />
-    <hr />
-    <hr />
-    <hr />
+</li>
+</ol>
 
-    <p class="Body-investigation-hanging">3. For which value of
+    <li class="Body-investigation-hanging">For which value of
     <i>x</i> are AB and CD parallel? Show all steps of your working
-    and give reasons when using any geometrical theorem.</p>
+    and give reasons when using any geometrical theorem.</li>
 
     <div class="frame-35"><img class="frame-390" src=
     "Maths_English_LG_gr9_term2-web-resources/image/85853.png" alt=
     "85853.png" /></div>
-
-    <p class="x--Answer-text-dotted-line-below"><span class=
-    "char-style-override-4">\(\angle\)</span>BEF =
-    3<i>x</i> <span>-</span> 10\(^\circ\) (vert. opp.
-    <span class="char-style-override-4">\(\angle\)</span>s
-    are equal)</p>
     <hr />
-    <hr />
-    <hr />
-    <hr />
-    <hr />
-    <hr />
-
+</ol>
+</div>
     <h3 class="Head-investigation">pythagoras' THEOREM</h3>
 
-    <p class="Body-investigation">1. Calculate the missing side
-    length in each of the following triangles:</p>
-
-    <p class="ques-a-">(a) (b)</p>
-
+<ol>
+    <li class="Body-investigation">Calculate the missing side
+    length in each of the following triangles:
+<ol>
     <div>
-      <div class="frame-35"><img class="frame-391" src=
+      <li class="frame-35"><img class="frame-391" src=
       "Maths_English_LG_gr9_term2-web-resources/image/85837.png"
-      alt="85837.png" /></div>
+      alt="85837.png" /></li>
 
-      <div class="frame-35"><img class="frame-392" src=
+      <li class="frame-35"><img class="frame-392" src=
       "Maths_English_LG_gr9_term2-web-resources/image/85845.png"
-      alt="85845.png" /></div>
+      alt="85845.png" /></li>
     </div>
+</li>
+</ol>
+<hr />
 
-    <div>
-      <div class="Basic-Text-Frame">
-        <p class="Investigation-last-line-answers">
-        <span>IG</span><span class=
-        "char-style-override-14">2</span> <span>=
-        IF</span><span class="char-style-override-14">2</span>
-        <span>+ FG</span><span class=
-        "char-style-override-14">2</span></p>
-      </div>
 
-      <div class="Basic-Text-Frame">
-        <p class="x--Answer-text-dotted-line-below">
-        <span>BC</span><span class=
-        "char-style-override-14">2</span> <span>=
-        AC</span><span class=
-        "char-style-override-14">2</span><span>-</span>
-        <span>AB</span><span class=
-        "char-style-override-14">2</span></p>
-        <hr />
-      </div>
-    </div>
-
-    <div>
-      <div class="Basic-Text-Frame">
-        <p class="Investigation-last-line-answers"><span>IG =
-        <span><img class="frame-393" src=
-        "Maths_English_LG_gr9_term2-web-resources/image/86238.jpg"
-        alt="86238.jpg" /></span></span></p>
-      </div>
-
-      <div class="Basic-Text-Frame">
-        <p class="x--Answer-text-dotted-line-below"><span>BC =
-        <span><img class="frame-394" src=
-        "Maths_English_LG_gr9_term2-web-resources/image/86246.jpg"
-        alt="86246.jpg" /></span></span></p>
-      </div>
-    </div>
-
-    <div>
-      <div class="Basic-Text-Frame">
-        <p class="Investigation-last-line-answers"><span>= 26
-        units</span></p>
-      </div>
-
-      <div class="Basic-Text-Frame">
-        <hr />
-        <hr />
-      </div>
-    </div>
-
-    <p class="Body-investigation-hanging">2. <span>Ariver is 50 m
+    <li class="Body-investigation-hanging"><span>A river is 50 m
     wide. Assume that the river flows completely straight. If
     Camelia swims</span>across the river to a point on the bank 12
     m downstream from the point directly opposite her, how far will
-    she swim? Give your answer correct to one decimal place.</p>
-    <hr />
-    <hr />
+    she swim? Give your answer correct to one decimal place.</li>
     <hr />
 
-    <p class="Body-investigation-hanging">3. Triangle LMN is
+
+    <li class="Body-investigation-hanging">Triangle LMN is
     isosceles, with LM = LN. MN = 36 cm and LP = 24 cm. Determine
-    the perimeter of the triangle.</p>
+    the perimeter of the triangle.</li>
 
     <p class="Body-no-indent"><span><img class="frame-395" src=
     "Maths_English_LG_gr9_term2-web-resources/image/85623.png" alt=
     "85623.png" /></span>&nbsp;</p>
     <hr />
-    <hr />
-    <hr />
 
-    <p class="Body-investigation-hanging">4. DEFG is a rectangle,
+
+    <li class="Body-investigation-hanging">DEFG is a rectangle,
     with DE = 20 cm and diagonal EG = 101 cm. Determine the area of
-    the rectangle.</p>
-    <hr />
+    the rectangle.</li>
     <hr />
 
-    <p class="Body-investigation-hanging">5. Is it possible to have
+
+    <li class="Body-investigation-hanging">Is it possible to have
     a right-angled triangle with the following side lengths: 36; 76
-    and 84? Show all working necessary to support your answer.</p>
+    and 84? Show all working necessary to support your answer.</li>
     <hr />
-    <hr />
-    <hr />
-
+</li>
+</ol>
+</ol>
+</div>
     <h3 class="Head-investigation">area and perimeter of 2D
     shapes</h3>
-
-    <p class="Body-investigation-hanging">1. Determine (i) the
+<ol>
+    <li class="Body-investigation-hanging">Determine (i) the
     perimeter, and (ii) the area, of each of the following shapes.
     If necessary, give your answers in centimetres or square
-    centimetres, correct to one decimal place:</p>
-
-    <p class="ques-a-">(a) BF = 8 cm; BC = 10 cm; FD = 6 cm</p>
+    centimetres, correct to one decimal place:
+<ol>
+    <li class="ques-a-">BF = 8 cm; BC = 10 cm; FD = 6 cm</li>
 
     <div class="frame-35"><img class="frame-396" src=
     "Maths_English_LG_gr9_term2-web-resources/image/85597.png" alt=
     "85597.png" /></div>
     <hr />
-    <hr />
-    <hr />
-    <hr />
 
-    <p class="ques-a-">(b) GI = 12 cm; JK = 6 cm and JK : KH = 1 :
-    2</p>
+
+    <li class="ques-a-">GI = 12 cm; JK = 6 cm and JK : KH = 1 :
+    2</li>
 
     <div class="frame-35"><img class="frame-397" src=
     "Maths_English_LG_gr9_term2-web-resources/image/85586.png" alt=
     "85586.png" /></div>
     <hr />
-    <hr />
-    <hr />
-    <hr />
 
-    <p class="ques-a-">(c) <span>The shape alongside is that of a
+    <li class="ques-a-"><span>The shape alongside is that of a
     window, consisting of a rectangular section</span> HJKL, and a
-    semi-circular top section. HJ = 0,5 m and JK = 0,2 m.</p>
+    semi-circular top section. HJ = 0,5 m and JK = 0,2 m.</li>
 
     <div class="frame-35"><img class="frame-398" src=
     "Maths_English_LG_gr9_term2-web-resources/image/85578.png" alt=
     "85578.png" /></div>
     <hr />
-    <hr />
-    <hr />
-    <hr />
-    <hr />
+</li>
+</ol>
 
-    <p class="Body-investigation-hanging">2. A button is made in
+    <li class="Body-investigation-hanging">A button is made in
     the shape of a circle, with two congruent rectangles cut out,
     as shown in the diagram. The diameter of the button is 25 mm
     and the dimensions of each rectangle are 12 mm by 3 mm.
     Calculate the area of the top surface of the button in square
-    centimetres.</p>
+    centimetres.</li>
 
     <div class="frame-35"><img class="frame-399" src=
     "Maths_English_LG_gr9_term2-web-resources/image/85570.png" alt=
     "85570.png" /></div>
     <hr />
-    <hr />
-    <hr />
-    <hr />
 
-    <p class="Body-investigation">3. A rectangle has length
+    <li class="Body-investigation">A rectangle has length
     3<span class="char-style-override-9">d</span> and width
     7<span class="char-style-override-9">e</span>. Write simplified
-    expressions for the:</p>
-
-    <p class="ques-a-">(a) Area of the rectangle</p>
+    expressions for the:
+<ol>
+    <li class="ques-a-">Area of the rectangle</li>
     <hr />
 
-    <p class="ques-a-">(b) Perimeter of the rectangle</p>
+    <li class="ques-a-">Perimeter of the rectangle</li>
     <hr />
-    <hr />
+</li>
+</ol>
 
-    <p class="Body-investigation-hanging para-style-override-7">4.
-    Complete the unshaded blocks in following table to show the
+    <li class="Body-investigation-hanging para-style-override-7">Complete the unshaded blocks in following table to show the
     impact on the perimeter and area of <span class=
     "char-style-override-38">doubling</span> <span class=
     "char-style-override-38">one dimension</span> of the shape (for
@@ -1868,7 +1702,7 @@
     was</span> <span class="char-style-override-9">x</span><span>,
     and the original area was</span> <span class=
     "char-style-override-9">y</span><span>. One answer has already
-    been added for you.</span></p>
+    been added for you.</span></li>
 
     <table id="table-63" class="No-Table-Style">
       <colgroup>
@@ -1924,6 +1758,8 @@
         </tr>
       </tbody>
     </table>
+</li>
+</ol>
 
     <h1>Assessment</h1>
 
@@ -1938,64 +1774,62 @@
     "Maths_English_LG_gr9_term2-web-resources/image/85558.png" alt=
     "85558.png" /></span>&nbsp;</p>
 
-    <p class="ques-a--with-marks">1. (a) Construct a triangle RST
-    with RS = 7,3 cm, <span><img class="frame-37" src=
-    "Maths_English_LG_gr9_term2-web-resources/image/85550.png" alt=
-    "85550.png" /></span> = 42\(^\circ\); and <span><img class=
-    "frame-24" src=
-    "Maths_English_LG_gr9_term2-web-resources/image/85543.png" alt=
-    "85543.png" /></span> = 67\(^\circ\). (3)</p>
+<ol>
+    <li class="ques-a--with-marks">
+<ol>
+<li>Construct a triangle RST with RS = 7,3 cm, \(\hat{R}\) = 42\(^\circ\); and \(\hat{S}\) = 67\(^\circ\). (3)</p>
 
     <p class="ques-a-"><span>Use a protractor and ruler to check
     that the learners' constructions are accurate. Allow an error
     of up to 1 mm and 1\(^\circ\) .</span></p>
     <hr />
 
-    <p class="ques-a--with-marks">(b) Construct the bisectors of
+    <li class="ques-a--with-marks">Construct the bisectors of
     each of the angles of the triangle that you constructed in part
     (a). You should find that they have a common point of
-    intersection. (4)</p>
+    intersection. (4)</li>
 
-    <p class="ques-a--with-marks">(c) Use the common point of
+    <li class="ques-a--with-marks">Use the common point of
     intersection of the bisectors of the angles that you
     constructed in part (b) as the midpoint of a circle touching
     all three sides of the triangle. Use your compass to draw this
-    circle. (1)</p>
+    circle. (1)</li>
 
-    <p class="ques-a--with-marks">(d) Is it always possible to draw
+    <li class="ques-a--with-marks">Is it always possible to draw
     a triangle given the length of one of the lines and the sizes
     of the angles adjacent to that line (as was given in part (a),
-    for example)? Explain your answer. (2)</p>
-    <hr />
-    <hr />
-
-    <p class="ques-a--with-marks">(e) Construct the following angle
-    without using a protractor: 150\(^\circ\). (2)</p>
+    for example)? Explain your answer. (2)</li>
     <hr />
 
-    <p class="ques-a--with-marks">(f) Mthunzi is thinking of a
+    <li class="ques-a--with-marks">Construct the following angle
+    without using a protractor: 150\(^\circ\). (2)</li>
+    <hr />
+
+    <li class="ques-a--with-marks">Mthunzi is thinking of a
     quadrilateral and provides the following clue to Sam: "Its
     diagonals cut perpendicularly, but not all the sides of the
     shape are equal in length." Help Sam by writing down the
-    special name of the shape. (1)</p>
+    special name of the shape. (1)</li>
     <hr />
 
-    <p class="ques-a--with-marks">(g) Look at the figure below.
+    <li class="ques-a--with-marks">Look at the figure below.
     Write down an equation, and use it to determine the size of
-    <i>x</i>. (3)</p>
+    <i>x</i>. (3)</li>
     <hr />
+</li>
+</ol>
 
     <p class="Body-no-indent para-style-override-7">
     <span><img class="frame-401" src=
     "Maths_English_LG_gr9_term2-web-resources/image/85534.png" alt=
     "85534.png" /></span>&nbsp;</p>
 
-    <p class="Body-investigation">2. Study the diagram
-    alongside:</p>
-
-    <p class="ques-a--with-marks">(a) Prove that &#206;&#8221;JNM
+    <li class="Body-investigation">Study the diagram
+    alongside:
+<ol>
+    <li class="ques-a--with-marks">Prove that \(\triangle\)JNM
     <span class="char-style-override-4">\(\equiv\)</span>
-    &#206;&#8221;KNL.</p>
+    \(\triangle\)KNL.</li>
 
     <div class="frame-35"><img class="frame-402" src=
     "Maths_English_LG_gr9_term2-web-resources/image/85522.png" alt=
@@ -2003,24 +1837,19 @@
 
     <p class="ques-a--with-marks">(4)</p>
     <hr />
-    <hr />
-    <hr />
-    <hr />
-    <hr />
 
-    <p class="ques-a--with-marks">(b) Do you have enough
-    information to prove that &#206;&#8221;JLM <span class=
+
+    <li class="ques-a--with-marks">Do you have enough
+    information to prove that \(\triangle\)JLM <span class=
     "char-style-override-10">\(\equiv\)</span>
-    &#206;&#8221;KML? Explain your answer. (2)</p>
-    <hr />
-    <hr />
+    \(\triangle\)KML? Explain your answer. (2)</p>
     <hr />
 
-    <p class="ques-a-">(c) Study the diagram alongside:</p>
+    <li class="ques-a-">Study the diagram alongside:</li>
 
-    <p class="ques-a--with-marks">Given that &#206;&#8221;CDE
+    <p class="ques-a--with-marks">Given that \(\triangle\)CDE
     <span class="char-style-override-4">\(\equiv\)</span>
-    &#206;&#8221;FCG, prove that ED \(||\) GF. Give
+    \(\triangle\)FCG, prove that ED \(||\) GF. Give
     reasons for all statements.</p>
 
     <div class="frame-35"><img class="frame-403" src=
@@ -2029,30 +1858,24 @@
 
     <p class="ques-a--with-marks">(3)</p>
     <hr />
+</li>
+</ol>
 
-    <p class="x--Answer-text-dotted-line-below"><span class=
-    "char-style-override-4">&#226;&#710;&#180;</span> ED
-    \(||\) GF (corresponding angles are equal)</p>
-    <hr />
-    <hr />
-    <hr />
-
-    <p class="Body-investigation">3. Study the diagram below. All
-    numerical values represent lengths of sides:</p>
+    <li class="Body-investigation">Study the diagram below. All
+    numerical values represent lengths of sides:
 
     <p class="Body-no-indent"><span><img class="frame-404" src=
     "Maths_English_LG_gr9_term2-web-resources/image/85457.png" alt=
     "85457.png" /></span>&nbsp;</p>
-
-    <p class="ques-a--with-marks">(a) Briefly explain why
-    &#206;&#8221;ABF \(|||\) &#206;&#8221;ACD (a full
-    proof is NOT required). (1)</p>
+<ol>
+    <li class="ques-a--with-marks">Briefly explain why
+    \(\triangle\)ABF \(|||\) \(\triangle\)ACD (a full
+    proof is NOT required). (1)</li>
     <hr />
-    <hr />
 
-    <p class="ques-a--with-marks">(b) Use the similarity of the
+    <li class="ques-a--with-marks">Use the similarity of the
     triangles to determine the lengths of the line segments
-    (correct to one decimal place). (6)</p>
+    (correct to one decimal place). (6)</li>
 
     <p class="ques-a-">(i) <span class=
     "char-style-override-9">x</span></p>
@@ -2061,13 +1884,12 @@
     <p class="ques-a-">(ii) <span class=
     "char-style-override-9">y</span></p>
     <hr />
-    <hr />
 
-    <p class="ques-a--with-marks">4. Study the diagram alongside.
-    Determine, with reasons, the size of <span><img class=
-    "frame-38" src=
-    "Maths_English_LG_gr9_term2-web-resources/image/85450.png" alt=
-    "85450.png" /></span> in terms of <span class=
+</li>
+</ol>
+
+    <li class="ques-a--with-marks">Study the diagram alongside.
+    Determine, with reasons, the size of \(\hat{u}\) in terms of <span class=
     "char-style-override-9">x</span>.</p>
 
     <div class="frame-35"><img class="frame-405" src=
@@ -2076,20 +1898,11 @@
 
     <p class="ques-a--with-marks">(4)</p>
     <hr />
-    <hr />
-    <hr />
-
-    <p class="x--Answer-text-dotted-line-below"><span class=
-    "char-style-override-4">&#226;&#710;&#180;</span> + <i>x</i> =
-    2<i>x</i></p>
-
-    <p class="x--Answer-text-dotted-last-line"><span class=
-    "char-style-override-4">&#226;&#710;&#180;</span> =
-    <i>x</i></p>
-
-    <p class="ques-a--with-marks">5. Study the diagram alongside.
+  
+   
+    <li class="ques-a--with-marks">5. Study the diagram alongside.
     Given that MK = ML, determine, with reasons, the value of
-    <i>z</i>.</p>
+    <i>z</i>.</li>
 
     <div class="frame-35"><img class="frame-406" src=
     "Maths_English_LG_gr9_term2-web-resources/image/85413.png" alt=
@@ -2097,36 +1910,10 @@
 
     <p class="ques-a--with-marks">(5)</p>
 
-    <p class="x--Answer-text-dotted-line-below"><span class=
-    "char-style-override-4">\(\angle\)</span>M =
-    64\(^\circ\) (alt. <span class=
-    "char-style-override-4">\(\angle\)</span>s; JK
-    \(||\) ML)</p>
-
-    <p class="x--Answer-text-dotted-line-below"><span class=
-    "char-style-override-4">\(\angle\)</span>LNM =
-    90\(^\circ\) (sum of <span class=
-    "char-style-override-4">\(\angle\)</span>s on a str.
-    line = 180\(^\circ\))</p>
-
-    <p class="x--Answer-text-dotted-line-below"><span class=
-    "char-style-override-4">&#226;&#710;&#180;</span> <span class=
-    "char-style-override-4">\(\angle\)</span>MLN =
-    180\(^\circ\) <span>-</span> (90\(^\circ\) +
-    64\(^\circ\)) = 26\(^\circ\)</p>
-
-    <p class="x--Answer-text-dotted-line-below"><span class=
-    "char-style-override-4">&#226;&#710;&#180;</span> <span class=
-    "char-style-override-4">\(\angle\)</span>L = z +
-    26\(^\circ\)</p>
-    <hr />
-    <hr />
-    <hr />
-    <hr />
     <hr />
 
-    <p class="ques-a--with-marks">6. Is AC \(||\) DF?
-    Explain your answer by means of a proof.</p>
+    <li class="ques-a--with-marks">Is AC \(||\) DF?
+    Explain your answer by means of a proof.</li>
 
     <div class="frame-35"><img class="frame-407" src=
     "Maths_English_LG_gr9_term2-web-resources/image/85403.png" alt=
@@ -2135,45 +1922,34 @@
     <p class="ques-a--with-marks">(3)</p>
     <hr />
 
-    <p class="x--Answer-text-dotted-line-below"><span class=
-    "char-style-override-4">\(\angle\)</span>ABE =
-    122\(^\circ\) (vert. opp <span class=
-    "char-style-override-4">\(\angle\)</span>s are
-    equal)</p>
-    <hr />
-    <hr />
 
-    <p class="Body-investigation-hanging">7. Study the diagram
+    <li class="Body-investigation-hanging">Study the diagram
     alongside. QRST is a rectangle. All numerical values represent
-    lengths:</p>
+    lengths:
 
     <div class="frame-35"><img class="frame-408" src=
     "Maths_English_LG_gr9_term2-web-resources/image/85390.png" alt=
     "85390.png" /></div>
-
-    <p class="ques-a--with-marks">(a) Calculate the length of UT.
+<ol>
+    <li class="ques-a--with-marks"> Calculate the length of UT.
     (3)</p>
     <hr />
-    <hr />
 
-    <p class="ques-a--with-marks">(b) Calculate the perimeter of
-    triangle TUV, correct to one decimal place. (4)</p>
-    <hr />
-    <hr />
-    <hr />
-    <hr />
-    <hr />
 
-    <p class="ques-a--with-marks">8. A rectangle has an area of
-    6<i>a</i><span class="char-style-override-14">2</span> and a
+    <li class="ques-a--with-marks">Calculate the perimeter of
+    triangle TUV, correct to one decimal place. (4)</li>
+    <hr />
+</li>
+</ol>
+
+    <li class="ques-a--with-marks"> A rectangle has an area of
+    6\(a^{2}\) and a
     perimeter of 10<i>a</i>. Determine, in terms of <i>a</i>, the
-    dimensions of the rectangle. (2)</p>
-    <hr />
-    <hr />
+    dimensions of the rectangle. (2)</li>
     <hr />
 
-    <p class="ques-a--with-marks">9. On the grid below, draw a
-    parallelogram that has the same area as the triangle. (2)</p>
+    <li class="ques-a--with-marks">On the grid below, draw a
+    parallelogram that has the same area as the triangle. (2)</li>
 
     <p class="ques-a--with-marks"><span>Two possibilities are shown
     below. The parallelogram should have an area of 6 square
@@ -2184,26 +1960,20 @@
     "Maths_English_LG_gr9_term2-web-resources/image/85359.png" alt=
     "85359.png" /></span>&nbsp;</p>
 
-    <p class="Body-investigation-hanging">10. The perimeter of a
+    <li class="Body-investigation-hanging">The perimeter of a
     rhombus is 60 cm, and the length of one of its diagonals is 24
-    cm.</p>
-
-    <p class="ques-a--with-marks">(a) Calculate the length of a
-    side of the rhombus. (1)</p>
+    cm.
+<ol>
+    <li class="ques-a--with-marks">Calculate the length of a
+    side of the rhombus. (1)</li>
     <hr />
-    <hr />
 
-    <p class="ques-a--with-marks">(b) Show that the area of the
+
+    <li class="ques-a--with-marks">Show that the area of the
     rhombus is 216 cm<span class="char-style-override-14">2</span>.
-    (4)</p>
+    (4)</li>
     <hr />
-    <hr />
-    <hr />
-    <hr />
-    <hr />
-    <hr />
-    <hr />
-    <hr />
+
   </div>
 
   <div class="Basic-Text-Frame">
