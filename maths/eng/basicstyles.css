@@ -1,6 +1,7 @@
 h3{
     background-color:#D7BEAF;
     text-transform: uppercase;
+    padding:3px;
 }
 
 
@@ -9,9 +10,36 @@ table
     border-collapse:collapse;
 }
 
-table, th, td
+table td
 {
     border: 1px solid black;
+}
+
+/*no border without right align for readability */
+table.no-border-plain td{
+    border-style:none;
+}
+
+table.no-border td{
+    border-style: none;
+    text-align: right;
+    padding: 5px;
+}
+
+
+table.no-border td.dotted{
+    border-right: 1px dotted black;
+    }
+
+table.no-border td.underline{
+    border-bottom: 1px solid #0B8ED8;
+
+}
+
+table.no-border td.division{
+    border-left: 1px solid #0B8ED8;
+    border-top: 1px solid  #0B8ED8;
+
 }
 
 td.yellow{
@@ -26,13 +54,21 @@ td.red{
     background-color:#D96773;
 }
 
+td{
+    padding: 10px;
+}
+
 td.brown{
     background-color:#EFD0C2;
 
 }
+
+
 div.note{
-    border: 1px solid black;
+    /*border: 1px solid black;*/
     border-left: 10px solid #5E2615;
+    padding-left: 10px;
+    padding-top: none;
 }
 
 div.aside{
@@ -45,10 +81,17 @@ ol > li > ol{
 
 div.worksheet{
     background-color:#F3DBD1;
+    padding-top:20px;
 }
 
 div.worksheet:before{
-    content:"WORKSHEET";
+content: "Worksheet";
+margin-left: 43%;
+text-transform: uppercase;
+text-decoration: underline overline;
+font-weight: bold;
+font-size: 130%;
+color: #5E2615;
 }
 
 span.box{
@@ -58,4 +101,16 @@ span.box{
 
 div.extension{
     background-color: #f3e5dd;
+}
+
+span.blue-text{
+    color: #0B8ED8;
+}
+
+p.blue-text{
+    color: #0B8ED8;
+}
+
+img {
+max-height:30%;
 }
