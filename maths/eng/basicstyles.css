@@ -189,3 +189,7 @@ img.large{
 body > div > p{
     margin-left:10px;
 }
+
+li > p {
+    margin: 0px;
+}
