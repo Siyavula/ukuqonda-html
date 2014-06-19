@@ -45,6 +45,11 @@ table.no-border td.underline{
 
 }
 
+table.no-border td.underline-black{
+    border-bottom: 1px solid black;
+
+}
+
 table.no-border-plain td.underline{
     border-bottom: 1px solid black;
 
@@ -63,6 +68,13 @@ table.no-border td.division{
     border-top: 1px solid  #0B8ED8;
 
 }
+
+table.no-border td.division-black{
+    border-left: 1px solid black;
+    border-top: 1px solid  black;
+
+}
+
 
 td.yellow{
     background-color:#FEDD03;
