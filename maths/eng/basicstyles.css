@@ -141,6 +141,22 @@ font-size: 130%;
 color: #5E2615;
 }
 
+div.worksheet-afr{
+    background-color:#F3DBD1;
+    padding-top:15px;
+    padding-bottom:5px;
+}
+
+div.worksheet-afr:before{
+content: "Werkblad";
+margin-left: 43%;
+text-transform: uppercase;
+text-decoration: underline overline;
+font-weight: bold;
+font-size: 130%;
+color: #5E2615;
+}
+
 div.extension{
     background-color: #f3e5dd;
     padding: 5px;
@@ -149,6 +165,10 @@ div.extension{
 
 ol > li > ol{
     list-style-type:lower-alpha;
+}
+
+ol > li > ol > li > ol > li{
+    list-style-type: lower-roman;
 }
 
 li li{
