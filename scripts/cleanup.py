@@ -106,7 +106,6 @@ def delete_empty_elements(element):
 def delete_en_masse(html):
     ''' html as full etree element'''
 
-
     # strip <br/>
     etree.strip_tags(html, 'br')
 
@@ -194,7 +193,7 @@ if __name__ == "__main__":
 
     html = addStuff(html)
 
-    html_as_string = etree.tostring(html, method='html')
+    html_as_string = etree.tostring(html, method='xml')
     html_as_string = string_replace(html_as_string)
 
     print(html_as_string.encode('utf-8'))
