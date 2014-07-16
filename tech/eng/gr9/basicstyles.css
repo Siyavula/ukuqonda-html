@@ -1,0 +1,61 @@
+h3{
+    background-color:#D7BEAF;
+    text-transform: uppercase;
+}
+
+
+table
+{
+    border-collapse:collapse;
+}
+
+table, th, td
+{
+    border: 1px solid black;
+}
+
+td.yellow{
+    background-color:#FEDD03;
+    }
+
+td.blue{
+    background-color:#69B4E7;
+    }
+
+td.red{
+    background-color:#D96773;
+}
+
+td.brown{
+    background-color:#EFD0C2;
+
+}
+div.note{
+    border: 1px solid black;
+    border-left: 10px solid #5E2615;
+}
+
+div.aside{
+    background-color:#EADDD4;
+}
+
+ol > li > ol{
+    list-style-type:lower-alpha;
+}
+
+div.worksheet{
+    background-color:#F3DBD1;
+}
+
+div.worksheet:before{
+    content:"WORKSHEET";
+}
+
+span.box{
+    border: 1px solid black;
+    padding:1px;
+}
+
+div.extension{
+    background-color: #f3e5dd;
+}
