@@ -97,6 +97,11 @@ td.brown{
 
 }
 
+td > p{
+  
+    margin: 0px;
+}
+
 tr.dots > td{
     border-bottom: 1px dotted black;
     border-right: 1px dotted black;
