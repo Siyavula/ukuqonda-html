@@ -1,6 +1,6 @@
 h3{
     background-color:#D7BEAF;
-    text-transform: uppercase;
+   
     padding:3px;
 }
 
@@ -115,7 +115,7 @@ margin-left: 20px;
 
 div.aside{
     background-color:#EADDD4;
- max-width: 300px;
+ max-width: 400px;
 margin-left: auto;
 margin-right: auto;
 padding: 5px 10px 5px 10px;
@@ -197,7 +197,7 @@ p.blue-text{
 }
 
 img {
-max-height:30%;
+max-height:40%;
 }
 
 img.large{
@@ -205,6 +205,10 @@ img.large{
     max-height: inherit;
 }
 
+img.medium{
+    max-width: 80%;
+    max-height: inherit;
+}
 
 body > div > p{
     margin-left:10px;
@@ -214,4 +218,11 @@ li > p {
     margin: 0px;
 }
 
+/* figure & figcaption styles */
+figure > figcaption{
+    font-style: italic;
+}
 
+figure > figcaption > p{
+    font-style: italic;
+}
