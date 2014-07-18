@@ -108,7 +108,10 @@ def delete_en_masse(html):
 
     # strip <br/>
     etree.strip_tags(html, 'br')
-
+    
+    # find any css links and remove them
+    for css in html.findall('.//link[@type="text/css"]'):
+        css.getparent().remove(css)
 
     return html
 
@@ -128,9 +131,9 @@ def string_replace(html_as_string):
     html_as_string = html_as_string.replace("&#226;&#136;&#134;" ,"\\triangle}")
     html_as_string = html_as_string.replace(' xml:lang="en-US"' ,'')
     html_as_string = html_as_string.replace('<b/>' ,'')
-    html_as_string = html_as_string.replace('<td class="cell-style-override-2">' ,'<td class="red">')
-    html_as_string = html_as_string.replace('<td class="cell-style-override-3">' ,'<td class="blue">')
-    html_as_string = html_as_string.replace('<td class="cell-style-override-4">' ,'<td class="yellow">')
+#   html_as_string = html_as_string.replace('<td class="cell-style-override-2">' ,'<td class="red">')
+#   html_as_string = html_as_string.replace('<td class="cell-style-override-3">' ,'<td class="blue">')
+#   html_as_string = html_as_string.replace('<td class="cell-style-override-4">' ,'<td class="yellow">')
     html_as_string = html_as_string.replace('<span class="char-style-override-3">&#226;&#128;&#162;	</span>' ,'')
     html_as_string = html_as_string.replace('<span class="char-style-override-29">&#226;&#128;&#162;	</span>' ,'')
     html_as_string = html_as_string.replace('<span class="char-style-override-37">&#226;&#128;&#162;	</span>' ,'')
@@ -164,7 +167,7 @@ def fix_bold_italics(element):
 
 def addStuff(html):
     head = html.find('.//head')
-    css = etree.fromstring('<link href="basicstyles.css" rel="stylesheet" type="text/css"></link>')
+    css = etree.fromstring('<link href="../basicstyles.css" rel="stylesheet" type="text/css"></link>')
     mathjax = etree.fromstring('<script type="text/javascript" src="mathjax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>')
     head.append(css)
     head.append(mathjax)
