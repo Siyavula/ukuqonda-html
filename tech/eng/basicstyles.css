@@ -224,7 +224,7 @@ li > p {
 }
 
 /* figure & figcaption styles */
-figure > figcaption{
+figure  figcaption{
     font-style: italic;
 }
 
