@@ -215,3 +215,21 @@ li > p {
 }
 
 
+/*made by nkosi*/
+table.no-border-plain td.left{
+    border-left: 1px solid black;
+}
+
+table.border-plain td.none{
+     border-style:none;
+}
+
+
+div.data-sample{
+    background-color: #f3e5dd;
+   margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+/*end nkosi*/
