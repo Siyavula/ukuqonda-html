@@ -91,6 +91,9 @@ td.red{
 td{
     padding: 10px;
 }
+ td > p{
+    margin: 2px;
+ }
 
 td.brown{
     background-color:#EFD0C2;
@@ -213,6 +216,11 @@ img.large{
     max-height: inherit;
 }
 
+
+img.medium{
+    max-width: 80%;
+    max-height: inherit;
+}
 
 body > div > p{
     margin-left:10px;
