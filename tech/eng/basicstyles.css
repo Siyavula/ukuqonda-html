@@ -231,3 +231,12 @@ figure  figcaption{
 figure > figcaption > p{
     font-style: italic;
 }
+
+/*   */
+table.no-border-plain td.left{
+    border-left: 1px solid black;
+}
+
+table.border-plain td.none{
+     border-style:none;
+}
