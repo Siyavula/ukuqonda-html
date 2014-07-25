@@ -91,6 +91,9 @@ td.red{
 td{
     padding: 10px;
 }
+ td > p{
+    margin: 2px;
+ }
 
 td.brown{
     background-color:#EFD0C2;
@@ -101,6 +104,14 @@ tr.dots > td{
     border-bottom: 1px dotted black;
     border-right: 1px dotted black;
     border-left: 1px dotted black;
+}
+
+table.worked-example{
+    border: solid #F8D47C;
+}
+
+table.worked-example td{
+    border: none;
 }
 
 /*DIV ENVIRONMENT STYLES*/
@@ -205,6 +216,11 @@ img.large{
     max-height: inherit;
 }
 
+
+img.medium{
+    max-width: 80%;
+    max-height: inherit;
+}
 
 body > div > p{
     margin-left:10px;
