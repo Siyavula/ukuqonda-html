@@ -103,6 +103,14 @@ tr.dots > td{
     border-left: 1px dotted black;
 }
 
+table.worked-example{
+    border: solid #F8D47C;
+}
+
+table.worked-example td{
+    border: none;
+}
+
 /*DIV ENVIRONMENT STYLES*/
 div.note{
     /*border: 1px solid black;*/
