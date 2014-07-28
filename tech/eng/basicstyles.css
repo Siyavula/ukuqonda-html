@@ -239,4 +239,11 @@ table.no-border-plain td.left{
 
 table.border-plain td.none{
      border-style:none;
+     
+}
+
+table.border-plain td.table-total{
+      border-style: none;  
+      border-bottom: 2px solid black;
+     
 }
