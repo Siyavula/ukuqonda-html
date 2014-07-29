@@ -246,6 +246,17 @@ div.data-sample{
    margin-left: 10%;
     margin-right: 10%;
 }
-
-
+table.no-border-plain td.left-bottom{
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+}
+table.no-border-plain td.left-bottom-right{
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+}
+table.no-border-plain td.left-right{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
 /*end nkosi*/
