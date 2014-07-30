@@ -259,4 +259,11 @@ table.no-border-plain td.left-right{
     border-left: 1px solid black;
     border-right: 1px solid black;
 }
+table.no-border-plain td.text-top{
+vertical-align:text-top;
+}
+table.no-border td.text-top{
+vertical-align:text-top;
+}
+
 /*end nkosi*/
