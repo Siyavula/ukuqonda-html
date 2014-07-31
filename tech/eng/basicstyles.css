@@ -230,6 +230,11 @@ img.small{
     max-height: inherit;
 }
 
+img.smaller{
+    max-width: 40%;
+    max-height: inherit;
+}
+
 body > div > p{
     margin-left:10px;
 }
