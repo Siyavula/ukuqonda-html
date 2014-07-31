@@ -205,6 +205,16 @@ img {
 max-height:40%;
 }
 
+img.xlarge{
+    max-width: 150%;
+    max-height: inherit;
+}
+
+img.mlarge{
+    max-width: 120%;
+    max-height: inherit;
+}
+
 img.large{
     max-width: 100%;
     max-height: inherit;
@@ -212,6 +222,11 @@ img.large{
 
 img.medium{
     max-width: 80%;
+    max-height: inherit;
+}
+
+img.small{
+    max-width: 60%;
     max-height: inherit;
 }
 
