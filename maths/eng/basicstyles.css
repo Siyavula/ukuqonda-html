@@ -243,8 +243,9 @@ table.border-plain td.none{
 
 div.data-sample{
     background-color: #f3e5dd;
-   margin-left: 10%;
-    margin-right: 10%;
+   margin-left: auto;
+    margin-right:auto;
+    max-width:50%;
 }
 table.no-border-plain td.left-bottom{
     border-left: 1px solid black;
