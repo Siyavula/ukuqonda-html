@@ -222,6 +222,21 @@ img.medium{
     max-height: inherit;
 }
 
+img.mmedium{
+    max-width: 70%;
+    max-height: inherit;
+}
+
+img.small{
+    max-width: 45%;
+    max-height: inherit;
+}
+
+img.smaller{
+    max-width: 30%;
+    max-height: inherit;
+}
+
 body > div > p{
     margin-left:10px;
 }
@@ -238,6 +253,7 @@ table.no-border-plain td.left{
 
 table.border-plain td.none{
      border-style:none;
+
 }
 
 
