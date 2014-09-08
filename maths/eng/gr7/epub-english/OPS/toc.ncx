@@ -1,0 +1,192 @@
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+           <head>
+               <meta name="dtb:uid" content="www.siyavula.com.epubmaker.Math-gr7-english"/>
+               <meta name="dtb:depth" content="3"/>
+               <meta name="dtb:totalPageCount" content="0"/>
+               <meta name="dtb:maxPageNumber" content="0"/>
+           </head>
+           <docTitle>
+               <text>Document Title</text>
+           </docTitle>
+         <navMap>
+  <navPoint id="navpoint-id-0">
+    <navLabel>
+      <text>1	Working with whole numbers</text>
+    </navLabel>
+    <content src="xhtml/Math-gr7-english/cleaned_Maths_English_LG_gr7_term1.xhtml#toc-id-0"/>
+    <navPoint id="navpoint-id-1">
+      <navLabel>
+        <text>1.1	Revision</text>
+      </navLabel>
+      <content src="xhtml/Math-gr7-english/cleaned_Maths_English_LG_gr7_term1.xhtml#toc-id-1"/>
+    </navPoint>
+    <navPoint id="navpoint-id-2">
+      <navLabel>
+        <text>2.1	Quick squares and cubes</text>
+      </navLabel>
+      <content src="xhtml/Math-gr7-english/cleaned_Maths_English_LG_gr7_term1.xhtml#toc-id-8"/>
+    </navPoint>
+    <navPoint id="navpoint-id-3">
+      <navLabel>
+        <text>3.1	Line segments, lines and rays</text>
+      </navLabel>
+      <content src="xhtml/Math-gr7-english/cleaned_Maths_English_LG_gr7_term1.xhtml#toc-id-15"/>
+    </navPoint>
+    <navPoint id="navpoint-id-4">
+      <navLabel>
+        <text>4.1	Angles revision</text>
+      </navLabel>
+      <content src="xhtml/Math-gr7-english/cleaned_Maths_English_LG_gr7_term1.xhtml#toc-id-18"/>
+    </navPoint>
+    <navPoint id="navpoint-id-5">
+      <navLabel>
+        <text>5.1	Triangles, quadrilaterals, circles and
+others</text>
+      </navLabel>
+      <content src="xhtml/Math-gr7-english/cleaned_Maths_English_LG_gr7_term1.xhtml#toc-id-28"/>
+    </navPoint>
+    <navPoint id="navpoint-id-6">
+      <navLabel>
+        <text>Revision</text>
+      </navLabel>
+      <content src="xhtml/Math-gr7-english/cleaned_Maths_English_LG_gr7_term1.xhtml#toc-id-34"/>
+    </navPoint>
+    <navPoint id="navpoint-id-7">
+      <navLabel>
+        <text>6.1 Measuring accurately with parts of a unit</text>
+      </navLabel>
+      <content src="xhtml/Math-gr7-english/cleaned_Maths_English_LG_gr7_term2.xhtml#toc-id-1"/>
+    </navPoint>
+    <navPoint id="navpoint-id-8">
+      <navLabel>
+        <text>7.1 Other symbols for tenths and hundredths</text>
+      </navLabel>
+      <content src="xhtml/Math-gr7-english/cleaned_Maths_English_LG_gr7_term2.xhtml#toc-id-11"/>
+    </navPoint>
+    <navPoint id="navpoint-id-9">
+      <navLabel>
+        <text>8.1 Constant and variable quantities</text>
+      </navLabel>
+      <content src="xhtml/Math-gr7-english/cleaned_Maths_English_LG_gr7_term2.xhtml#toc-id-21"/>
+    </navPoint>
+    <navPoint id="navpoint-id-10">
+      <navLabel>
+        <text>9.1 Perimeter of polygons</text>
+      </navLabel>
+      <content src="xhtml/Math-gr7-english/cleaned_Maths_English_LG_gr7_term2.xhtml#toc-id-24"/>
+    </navPoint>
+    <navPoint id="navpoint-id-11">
+      <navLabel>
+        <text>10.1 Surface area of cubes and rectangular prisms</text>
+      </navLabel>
+      <content src="xhtml/Math-gr7-english/cleaned_Maths_English_LG_gr7_term2.xhtml#toc-id-30"/>
+    </navPoint>
+    <navPoint id="navpoint-id-12">
+      <navLabel>
+        <text>Revision</text>
+      </navLabel>
+      <content src="xhtml/Math-gr7-english/cleaned_Maths_English_LG_gr7_term2.xhtml#toc-id-35"/>
+    </navPoint>
+    <navPoint id="navpoint-id-13">
+      <navLabel>
+        <text>1.1	Number patterns in sequences</text>
+      </navLabel>
+      <content src="xhtml/Math-gr7-english/cleaned_Maths_English_LG_gr7_term3.xhtml#toc-id-1"/>
+    </navPoint>
+    <navPoint id="navpoint-id-14">
+      <navLabel>
+        <text>2.1	From counting to calculating</text>
+      </navLabel>
+      <content src="xhtml/Math-gr7-english/cleaned_Maths_English_LG_gr7_term3.xhtml#toc-id-6"/>
+    </navPoint>
+    <navPoint id="navpoint-id-15">
+      <navLabel>
+        <text>3.1	Describing and doing computations</text>
+      </navLabel>
+      <content src="xhtml/Math-gr7-english/cleaned_Maths_English_LG_gr7_term3.xhtml#toc-id-10"/>
+    </navPoint>
+    <navPoint id="navpoint-id-16">
+      <navLabel>
+        <text>4.1	Solving by inspection</text>
+      </navLabel>
+      <content src="xhtml/Math-gr7-english/cleaned_Maths_English_LG_gr7_term3.xhtml#toc-id-13"/>
+    </navPoint>
+    <navPoint id="navpoint-id-17">
+      <navLabel>
+        <text>5.1	A graph can tell a story</text>
+      </navLabel>
+      <content src="xhtml/Math-gr7-english/cleaned_Maths_English_LG_gr7_term3.xhtml#toc-id-17"/>
+    </navPoint>
+    <navPoint id="navpoint-id-18">
+      <navLabel>
+        <text>6.1	Lines of symmetry</text>
+      </navLabel>
+      <content src="xhtml/Math-gr7-english/cleaned_Maths_English_LG_gr7_term3.xhtml#toc-id-22"/>
+    </navPoint>
+    <navPoint id="navpoint-id-19">
+      <navLabel>
+        <text>7.1	Classifying 3D objects</text>
+      </navLabel>
+      <content src="xhtml/Math-gr7-english/cleaned_Maths_English_LG_gr7_term3.xhtml#toc-id-29"/>
+    </navPoint>
+    <navPoint id="navpoint-id-20">
+      <navLabel>
+        <text>8.1	The need for numbers called integers</text>
+      </navLabel>
+      <content src="xhtml/Math-gr7-english/cleaned_Maths_English_LG_gr7_term4.xhtml#toc-id-1"/>
+    </navPoint>
+    <navPoint id="navpoint-id-21">
+      <navLabel>
+        <text>
+    9.1	Investigating and extending numeric patterns</text>
+      </navLabel>
+      <content src="xhtml/Math-gr7-english/cleaned_Maths_English_LG_gr7_term4.xhtml#toc-id-5"/>
+    </navPoint>
+    <navPoint id="navpoint-id-22">
+      <navLabel>
+        <text>
+    10.1	Relationships between variables</text>
+      </navLabel>
+      <content src="xhtml/Math-gr7-english/cleaned_Maths_English_LG_gr7_term4.xhtml#toc-id-9"/>
+    </navPoint>
+    <navPoint id="navpoint-id-23">
+      <navLabel>
+        <text>11.1	Interpret rules to calculate values of a variable</text>
+      </navLabel>
+      <content src="xhtml/Math-gr7-english/cleaned_Maths_English_LG_gr7_term4.xhtml#toc-id-12"/>
+    </navPoint>
+    <navPoint id="navpoint-id-24">
+      <navLabel>
+        <text>12.1	Describing problem situations</text>
+      </navLabel>
+      <content src="xhtml/Math-gr7-english/cleaned_Maths_English_LG_gr7_term4.xhtml#toc-id-15"/>
+    </navPoint>
+    <navPoint id="navpoint-id-25">
+      <navLabel>
+        <text>13.1	Collecting data</text>
+      </navLabel>
+      <content src="xhtml/Math-gr7-english/cleaned_Maths_English_LG_gr7_term4.xhtml#toc-id-21"/>
+    </navPoint>
+    <navPoint id="navpoint-id-26">
+      <navLabel>
+        <text>14.1	Bar graphs and double bar graphs</text>
+      </navLabel>
+      <content src="xhtml/Math-gr7-english/cleaned_Maths_English_LG_gr7_term4.xhtml#toc-id-25"/>
+    </navPoint>
+    <navPoint id="navpoint-id-27">
+      <navLabel>
+        <text>
+    15.1	Interpreting and reporting on data</text>
+      </navLabel>
+      <content src="xhtml/Math-gr7-english/cleaned_Maths_English_LG_gr7_term4.xhtml#toc-id-29"/>
+    </navPoint>
+    <navPoint id="navpoint-id-28">
+      <navLabel>
+        <text>16.1	Possible and actual outcomes, and frequencies</text>
+      </navLabel>
+      <content src="xhtml/Math-gr7-english/cleaned_Maths_English_LG_gr7_term4.xhtml#toc-id-32"/>
+    </navPoint>
+  </navPoint>
+</navMap>
+
+        </ncx>

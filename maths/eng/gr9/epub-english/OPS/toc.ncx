@@ -1,0 +1,184 @@
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+           <head>
+               <meta name="dtb:uid" content="www.siyavula.com.epubmaker.Math-gr9-english"/>
+               <meta name="dtb:depth" content="3"/>
+               <meta name="dtb:totalPageCount" content="0"/>
+               <meta name="dtb:maxPageNumber" content="0"/>
+           </head>
+           <docTitle>
+               <text>Document Title</text>
+           </docTitle>
+         <navMap>
+  <navPoint id="navpoint-id-0">
+    <navLabel>
+      <text>
+    Whole numbers</text>
+    </navLabel>
+    <content src="xhtml/Math-gr9-english/cleaned_Maths_English_LG_gr9_term1-chapter1.html#toc-id-0"/>
+    <navPoint id="navpoint-id-1">
+      <navLabel>
+        <text>Properties of numbers</text>
+      </navLabel>
+      <content src="xhtml/Math-gr9-english/cleaned_Maths_English_LG_gr9_term1-chapter1.html#toc-id-1"/>
+    </navPoint>
+    <navPoint id="navpoint-id-2">
+      <navLabel>
+        <text>2.1 Which numbers are smaller than 0?</text>
+      </navLabel>
+      <content src="xhtml/Math-gr9-english/cleaned_Maths_English_LG_gr9_term1-chapter2.html#toc-id-1"/>
+    </navPoint>
+    <navPoint id="navpoint-id-3">
+      <navLabel>
+        <text>3.1 Equivalent fractions</text>
+      </navLabel>
+      <content src="xhtml/Math-gr9-english/cleaned_Maths_English_LG_gr9_term1-chapter3.html#toc-id-2"/>
+    </navPoint>
+    <navPoint id="navpoint-id-4">
+      <navLabel>
+        <text>4.1 Equivalent forms</text>
+      </navLabel>
+      <content src="xhtml/Math-gr9-english/cleaned_Maths_English_LG_gr9_term1-chapter4.html#toc-id-1"/>
+    </navPoint>
+    <navPoint id="navpoint-id-5">
+      <navLabel>
+        <text>5.1 Revision</text>
+      </navLabel>
+      <content src="xhtml/Math-gr9-english/cleaned_Maths_English_LG_gr9_term1-chapter5.html#toc-id-1"/>
+    </navPoint>
+    <navPoint id="navpoint-id-6">
+      <navLabel>
+        <text>6.1 Geometric patterns</text>
+      </navLabel>
+      <content src="xhtml/Math-gr9-english/cleaned_Maths_English_LG_gr9_term1-chapter6.html#toc-id-1"/>
+    </navPoint>
+    <navPoint id="navpoint-id-7">
+      <navLabel>
+        <text>7.1 Find output numbers for given input numbers</text>
+      </navLabel>
+      <content src="xhtml/Math-gr9-english/cleaned_Maths_English_LG_gr9_term1-chapter7.html#toc-id-1"/>
+    </navPoint>
+    <navPoint id="navpoint-id-8">
+      <navLabel>
+        <text>8.1 Algebraic language</text>
+      </navLabel>
+      <content src="xhtml/Math-gr9-english/cleaned_Maths_English_LG_gr9_term1-chapter8.html#toc-id-1"/>
+    </navPoint>
+    <navPoint id="navpoint-id-9">
+      <navLabel>
+        <text>9.1 Solving equations by inspection</text>
+      </navLabel>
+      <content src="xhtml/Math-gr9-english/cleaned_Maths_English_LG_gr9_term1-chapter9.html#toc-id-1"/>
+    </navPoint>
+    <navPoint id="navpoint-id-10">
+      <navLabel>
+        <text>Revision</text>
+      </navLabel>
+      <content src="xhtml/Math-gr9-english/cleaned_Maths_English_LG_gr9_term1-chapter9.html#toc-id-7"/>
+    </navPoint>
+    <navPoint id="navpoint-id-11">
+      <navLabel>
+        <text>10.1 Constructing perpendicular lines</text>
+      </navLabel>
+      <content src="xhtml/Math-gr9-english/cleaned_Maths_English_LG_gr9_term2-chapter10.html#toc-id-1"/>
+    </navPoint>
+    <navPoint id="navpoint-id-12">
+      <navLabel>
+        <text>11.1 Revision: Classification of triangles</text>
+      </navLabel>
+      <content src="xhtml/Math-gr9-english/cleaned_Maths_English_LG_gr9_term2-chapter11.html#toc-id-1"/>
+    </navPoint>
+    <navPoint id="navpoint-id-13">
+      <navLabel>
+        <text>12.1 Angle relationships</text>
+      </navLabel>
+      <content src="xhtml/Math-gr9-english/cleaned_Maths_English_LG_gr9_term2-chapter12.html#toc-id-1"/>
+    </navPoint>
+    <navPoint id="navpoint-id-14">
+      <navLabel>
+        <text>13.1 Investigating the sides of a right-angled
+    triangle</text>
+      </navLabel>
+      <content src="xhtml/Math-gr9-english/cleaned_Maths_English_LG_gr9_term2-chapter13.html#toc-id-1"/>
+    </navPoint>
+    <navPoint id="navpoint-id-15">
+      <navLabel>
+        <text>14.1 Area and perimeter of squares and rectangles</text>
+      </navLabel>
+      <content src="xhtml/Math-gr9-english/cleaned_Maths_English_LG_gr9_term2-chapter14.html#toc-id-1"/>
+    </navPoint>
+    <navPoint id="navpoint-id-16">
+      <navLabel>
+        <text>Revision</text>
+      </navLabel>
+      <content src="xhtml/Math-gr9-english/cleaned_Maths_English_LG_gr9_term2-chapter14.html#toc-id-8"/>
+    </navPoint>
+    <navPoint id="navpoint-id-17">
+      <navLabel>
+        <text>1.1 From formulas to words, tables and graphs</text>
+      </navLabel>
+      <content src="xhtml/Math-gr9-english/cleaned_Maths_English_LB_gr9_term3_1.xhtml#toc-id-1"/>
+    </navPoint>
+    <navPoint id="navpoint-id-18">
+      <navLabel>
+        <text>2.1 Introduction</text>
+      </navLabel>
+      <content src="xhtml/Math-gr9-english/cleaned_Maths_English_LB_gr9_term3_1.xhtml#toc-id-4"/>
+    </navPoint>
+    <navPoint id="navpoint-id-19">
+      <navLabel>
+        <text>3.1 Introduction</text>
+      </navLabel>
+      <content src="xhtml/Math-gr9-english/cleaned_Maths_English_LB_gr9_term3_1.xhtml#toc-id-10"/>
+    </navPoint>
+    <navPoint id="navpoint-id-20">
+      <navLabel>
+        <text>4.1 Global graphs</text>
+      </navLabel>
+      <content src="xhtml/Math-gr9-english/cleaned_Maths_English_LB_gr9_term3_1.xhtml#toc-id-17"/>
+    </navPoint>
+    <navPoint id="navpoint-id-21">
+      <navLabel>
+        <text>5.1 Surface area</text>
+      </navLabel>
+      <content src="xhtml/Math-gr9-english/cleaned_Maths_English_LB_gr9_term3_1.xhtml#toc-id-25"/>
+    </navPoint>
+    <navPoint id="navpoint-id-22">
+      <navLabel>
+        <text>6.1 Points on a coordinate system</text>
+      </navLabel>
+      <content src="xhtml/Math-gr9-english/cleaned_Maths_English_LB_gr9_term3_1.xhtml#toc-id-30"/>
+    </navPoint>
+    <navPoint id="navpoint-id-23">
+      <navLabel>
+        <text>7.1 Classifying 3D objects</text>
+      </navLabel>
+      <content src="xhtml/Math-gr9-english/cleaned_Maths_English_LB_gr9_term3_1.xhtml#toc-id-35"/>
+    </navPoint>
+    <navPoint id="navpoint-id-24">
+      <navLabel>
+        <text>8.1 Collecting data</text>
+      </navLabel>
+      <content src="xhtml/Math-gr9-english/cleaned_Maths_English_LB_gr9_term4_1.xhtml#toc-id-1"/>
+    </navPoint>
+    <navPoint id="navpoint-id-25">
+      <navLabel>
+        <text>9.1 Bar graphs and double bar graphs</text>
+      </navLabel>
+      <content src="xhtml/Math-gr9-english/cleaned_Maths_English_LB_gr9_term4_1.xhtml#toc-id-5"/>
+    </navPoint>
+    <navPoint id="navpoint-id-26">
+      <navLabel>
+        <text>10.1 Which graph is best?</text>
+      </navLabel>
+      <content src="xhtml/Math-gr9-english/cleaned_Maths_English_LB_gr9_term4_1.xhtml#toc-id-12"/>
+    </navPoint>
+    <navPoint id="navpoint-id-27">
+      <navLabel>
+        <text>11.1 Simple events</text>
+      </navLabel>
+      <content src="xhtml/Math-gr9-english/cleaned_Maths_English_LB_gr9_term4_1.xhtml#toc-id-18"/>
+    </navPoint>
+  </navPoint>
+</navMap>
+
+        </ncx>
