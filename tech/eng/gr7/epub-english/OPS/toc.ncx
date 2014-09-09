@@ -1,0 +1,147 @@
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+           <head>
+               <meta name="dtb:uid" content="www.siyavula.com.epubmaker.Tech-gr7-english"/>
+               <meta name="dtb:depth" content="3"/>
+               <meta name="dtb:totalPageCount" content="0"/>
+               <meta name="dtb:maxPageNumber" content="0"/>
+           </head>
+           <docTitle>
+               <text>Document Title</text>
+           </docTitle>
+         <navMap>
+  <navPoint id="navpoint-id-0">
+    <navLabel>
+      <text> 1 What is Technology </text>
+    </navLabel>
+    <content src="xhtml/Tech-gr7-english/cleaned_Tech_English_LG_Grade7_term1.xhtml#toc-id-0"/>
+    <navPoint id="navpoint-id-1">
+      <navLabel>
+        <text>1.1 Materials, tools and plans</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr7-english/cleaned_Tech_English_LG_Grade7_term1.xhtml#toc-id-1"/>
+    </navPoint>
+    <navPoint id="navpoint-id-2">
+      <navLabel>
+        <text>2.1 A new cupboard for the classroom</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr7-english/cleaned_Tech_English_LG_Grade7_term1.xhtml#toc-id-4"/>
+    </navPoint>
+    <navPoint id="navpoint-id-3">
+      <navLabel>
+        <text>3.1 Two types of drawings</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr7-english/cleaned_Tech_English_LG_Grade7_term1.xhtml#toc-id-8"/>
+    </navPoint>
+    <navPoint id="navpoint-id-4">
+      <navLabel>
+        <text>4.1 Lift things with a lever</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr7-english/cleaned_Tech_English_LG_Grade7_term1.xhtml#toc-id-12"/>
+    </navPoint>
+    <navPoint id="navpoint-id-5">
+      <navLabel>
+        <text>5.1 The three classes of levers</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr7-english/cleaned_Tech_English_LG_Grade7_term1.xhtml#toc-id-16"/>
+    </navPoint>
+    <navPoint id="navpoint-id-6">
+      <navLabel>
+        <text>6.1 Pairs of first-class levers</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr7-english/cleaned_Tech_English_LG_Grade7_term1.xhtml#toc-id-20"/>
+    </navPoint>
+    <navPoint id="navpoint-id-7">
+      <navLabel>
+        <text>Week 1</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr7-english/cleaned_Tech_English_LG_Grade7_term1.xhtml#toc-id-24"/>
+    </navPoint>
+    <navPoint id="navpoint-id-8">
+      <navLabel>
+        <text>8.1 Things called structures</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr7-english/cleaned_Tech_English_LG_Grade7_term2.xhtml#toc-id-1"/>
+    </navPoint>
+    <navPoint id="navpoint-id-9">
+      <navLabel>
+        <text>9.1 Strong frame structures</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr7-english/cleaned_Tech_English_LG_Grade7_term2.xhtml#toc-id-5"/>
+    </navPoint>
+    <navPoint id="navpoint-id-10">
+      <navLabel>
+        <text>10.1 Why do cellphone towers look like they do?</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr7-english/cleaned_Tech_English_LG_Grade7_term2.xhtml#toc-id-9"/>
+    </navPoint>
+    <navPoint id="navpoint-id-11">
+      <navLabel>
+        <text> Week 1</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr7-english/cleaned_Tech_English_LG_Grade7_term2.xhtml#toc-id-13"/>
+    </navPoint>
+    <navPoint id="navpoint-id-12">
+      <navLabel>
+        <text>1.1 What is magnetism?</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr7-english/cleaned_Tech_English_LB_Grade7_term3_1.xhtml#toc-id-1"/>
+    </navPoint>
+    <navPoint id="navpoint-id-13">
+      <navLabel>
+        <text>2.1 Magnetic and non-magnetic materials</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr7-english/cleaned_Tech_English_LB_Grade7_term3_1.xhtml#toc-id-5"/>
+    </navPoint>
+    <navPoint id="navpoint-id-14">
+      <navLabel>
+        <text>3.1 Circuits and components</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr7-english/cleaned_Tech_English_LB_Grade7_term3_1.xhtml#toc-id-9"/>
+    </navPoint>
+    <navPoint id="navpoint-id-15">
+      <navLabel>
+        <text>4.1 Machines combine simple mechanisms</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr7-english/cleaned_Tech_English_LB_Grade7_term3_1.xhtml#toc-id-13"/>
+    </navPoint>
+    <navPoint id="navpoint-id-16">
+      <navLabel>
+        <text>Week 1</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr7-english/cleaned_Tech_English_LB_Grade7_term3_1.xhtml#toc-id-17"/>
+    </navPoint>
+    <navPoint id="navpoint-id-17">
+      <navLabel>
+        <text>6.1 Situations that cause people to become
+    refugees</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr7-english/cleaned_Tech_English_LG_Grade7_term4_1.xhtml#toc-id-1"/>
+    </navPoint>
+    <navPoint id="navpoint-id-18">
+      <navLabel>
+        <text>7.1 Investigate types of food</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr7-english/cleaned_Tech_English_LG_Grade7_term4_1.xhtml#toc-id-5"/>
+    </navPoint>
+    <navPoint id="navpoint-id-19">
+      <navLabel>
+        <text>8.1 Method for preparing part of a meal</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr7-english/cleaned_Tech_English_LG_Grade7_term4_1.xhtml#toc-id-9"/>
+    </navPoint>
+    <navPoint id="navpoint-id-20">
+      <navLabel>
+        <text>9.1 Emergency services</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr7-english/cleaned_Tech_English_LG_Grade7_term4_1.xhtml#toc-id-13"/>
+    </navPoint>
+    <navPoint id="navpoint-id-21">
+      <navLabel>
+        <text>Week 1</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr7-english/cleaned_Tech_English_LG_Grade7_term4_1.xhtml#toc-id-17"/>
+    </navPoint>
+  </navPoint>
+</navMap>
+
+        </ncx>
