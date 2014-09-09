@@ -1,5 +1,4 @@
 import sys
-import os
 
 from lxml import etree
 import copy
@@ -7,25 +6,26 @@ import copy
 
 _elements_to_remove = []
 
+
 def replace_elements(element):
     # replace some elements with <hr/> only.
     hr = etree.Element('hr')
     hr.tail = '\n'
-    
-
-
 
     if 'class' in element.attrib.keys():
-        if (element.tag == "div") and ("Basic-Text-Frame" in element.attrib['class']):
+        if (element.tag == "div") and ("Basic-Text-Frame" in
+                                       element.attrib['class']):
             if (element[0].tag == 'p'):
                 if element[0].attrib['class'] == "x-Answer-text-dotted-last-line--COPY-LINE-":
                     element.addprevious(copy.deepcopy(hr))
                     _elements_to_remove.append(element)
 
-        for c in ["x--Answer-text-dotted-last-line para-style-override-", "x--Answer-text-dotted-last-line", "x--Answer-text-dotted-line-below"]:
+        for c in ["x--Answer-text-dotted-last-line para-style-override-",
+                  "x--Answer-text-dotted-last-line",
+                  "x--Answer-text-dotted-line-below"]:
             if (element.tag == "p") and (c in element.attrib['class']):
                 if element.text is not None:
-                    #if element.text.strip() in [".", ""]:
+                    # if element.text.strip() in [".", ""]:
                     element.addprevious(copy.deepcopy(hr))
                     _elements_to_remove.append(element)
 
@@ -34,7 +34,7 @@ def replace_elements(element):
                         if element[0].tag == 'span':
                             element.addprevious(copy.deepcopy(hr))
                             _elements_to_remove.append(element)
-        
+
         # Notes
         if (element.tag == 'div') and (element.attrib['class'].startswith('frame-')):
             if (element[0].tag == 'p') and (element[0].attrib['class'].startswith('Body-box-no-indent')):
@@ -94,13 +94,13 @@ def delete_empty_elements(element):
 
     if all(children):
         if element.tag not in elements_to_ignore:
-            text = "".join([t for t in element.itertext(with_tail=True)]).strip() 
+            text = "".join([t for t in element.itertext(with_tail=True)]).strip()
             if element.tail is not None:
                 text = text + element.tail.strip()
             if text == "":
                 _elements_to_remove.append(element)
 
-    
+
 
 
 def delete_en_masse(html):
@@ -108,7 +108,7 @@ def delete_en_masse(html):
 
     # strip <br/>
     etree.strip_tags(html, 'br')
-    
+
     # find any css links and remove them
     for css in html.findall('.//link[@type="text/css"]'):
         css.getparent().remove(css)
@@ -141,7 +141,7 @@ def string_replace(html_as_string):
 
 
     return html_as_string
-   
+
 
 
 def fix_bold_italics(element):
@@ -151,7 +151,7 @@ def fix_bold_italics(element):
             if 'Bodytext-Bold' in element.attrib['class']:
                 element.tag = 'b'
                 etree.strip_attributes(element, 'class')
-            
+
             elif 'Body-box-bold' in element.attrib['class']:
                 element.tag = 'b'
                 etree.strip_attributes(element, 'class')
@@ -177,7 +177,7 @@ def addStuff(html):
 if __name__ == "__main__":
     filename = sys.argv[1]
 
-    html = etree.HTML(open(filename, 'r').read())
+    html = etree.HTML(open(filename, 'r').read().decode('utf-8'))
 
     for e in html.iter():
         replace_elements(e)
@@ -185,7 +185,7 @@ if __name__ == "__main__":
 
     for e in html.iter():
         fix_bold_italics(e)
-    
+
     # remove the marked elements
     for element in _elements_to_remove:
         parent = element.getparent()
@@ -196,7 +196,7 @@ if __name__ == "__main__":
 
     html = addStuff(html)
 
-    html_as_string = etree.tostring(html, method='xml')
+    html_as_string = etree.tostring(html, method='xml', encoding='utf-8')
     html_as_string = string_replace(html_as_string)
 
-    print(html_as_string.encode('utf-8'))
+    print(html_as_string)
