@@ -1,0 +1,162 @@
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+           <head>
+               <meta name="dtb:uid" content="www.siyavula.com.epubmaker.Tech-gr9-afrikaans"/>
+               <meta name="dtb:depth" content="3"/>
+               <meta name="dtb:totalPageCount" content="0"/>
+               <meta name="dtb:maxPageNumber" content="0"/>
+           </head>
+           <docTitle>
+               <text>Document Title</text>
+           </docTitle>
+         <navMap>
+  <navPoint id="navpoint-id-0">
+    <navLabel>
+      <text>  1 Ortografiese tekening
+</text>
+    </navLabel>
+    <content src="xhtml/Tech-gr9-afrikaans/afr_cleaned_Tech_English_LG_Grade9_term1.xhtml#toc-id-0"/>
+    <navPoint id="navpoint-id-1">
+      <navLabel>
+        <text> 1.1 Oor ortografiese tekeninge
+</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr9-afrikaans/afr_cleaned_Tech_English_LG_Grade9_term1.xhtml#toc-id-1"/>
+    </navPoint>
+    <navPoint id="navpoint-id-2">
+      <navLabel>
+        <text>2.1  &#8217;n Trap en &#8217;n oprit/afrit
+</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr9-afrikaans/afr_cleaned_Tech_English_LG_Grade9_term1.xhtml#toc-id-4"/>
+    </navPoint>
+    <navPoint id="navpoint-id-3">
+      <navLabel>
+        <text>3.1 Kragte werk op verskillende plekke in
+</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr9-afrikaans/afr_cleaned_Tech_English_LG_Grade9_term1.xhtml#toc-id-8"/>
+    </navPoint>
+    <navPoint id="navpoint-id-4">
+      <navLabel>
+        <text>Week 1</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr9-afrikaans/afr_cleaned_Tech_English_LG_Grade9_term1.xhtml#toc-id-12"/>
+    </navPoint>
+    <navPoint id="navpoint-id-5">
+      <navLabel>
+        <text>5.1 Die gebruik van water en lug om voorwerpe te
+    beweeg</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr9-afrikaans/afr_cleaned_Tech_English_LG_Grade9_term2.xhtml#toc-id-1"/>
+    </navPoint>
+    <navPoint id="navpoint-id-6">
+      <navLabel>
+        <text>6.1 Die gebruik van druk om dinge gedoen te kry</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr9-afrikaans/afr_cleaned_Tech_English_LG_Grade9_term2.xhtml#toc-id-5"/>
+    </navPoint>
+    <navPoint id="navpoint-id-7">
+      <navLabel>
+        <text>7.1 Rigtingverandering met 'n tou</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr9-afrikaans/afr_cleaned_Tech_English_LG_Grade9_term2.xhtml#toc-id-9"/>
+    </navPoint>
+    <navPoint id="navpoint-id-8">
+      <navLabel>
+        <text>8.1 Rigting van rotasie van reguittandratte</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr9-afrikaans/afr_cleaned_Tech_English_LG_Grade9_term2.xhtml#toc-id-13"/>
+    </navPoint>
+    <navPoint id="navpoint-id-9">
+      <navLabel>
+        <text>9.1 Gereedskap tuis</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr9-afrikaans/afr_cleaned_Tech_English_LG_Grade9_term2.xhtml#toc-id-17"/>
+    </navPoint>
+    <navPoint id="navpoint-id-10">
+      <navLabel>
+        <text>Wat is die probleem? (30 minute)</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr9-afrikaans/afr_cleaned_Tech_English_LG_Grade9_term2.xhtml#toc-id-21"/>
+    </navPoint>
+    <navPoint id="navpoint-id-11">
+      <navLabel>
+        <text>Ontwerp julle wipbakvragmotor (30 minute)</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr9-afrikaans/afr_cleaned_Tech_English_LG_Grade9_term2.xhtml#toc-id-24"/>
+    </navPoint>
+    <navPoint id="navpoint-id-12">
+      <navLabel>
+        <text>1.1 Hersiening 1: Simbole van komponente
+</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr9-afrikaans/afr-cleaned_Tech_English_LG_Grade9_term3_1.xhtml#toc-id-2"/>
+    </navPoint>
+    <navPoint id="navpoint-id-13">
+      <navLabel>
+        <text>2.1 Resistors </text>
+      </navLabel>
+      <content src="xhtml/Tech-gr9-afrikaans/afr-cleaned_Tech_English_LG_Grade9_term3_1.xhtml#toc-id-13"/>
+    </navPoint>
+    <navPoint id="navpoint-id-14">
+      <navLabel>
+        <text>3.1 Skakelaars
+</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr9-afrikaans/afr-cleaned_Tech_English_LG_Grade9_term3_1.xhtml#toc-id-17"/>
+    </navPoint>
+    <navPoint id="navpoint-id-15">
+      <navLabel>
+        <text>4.2 Termistors (temperatuur-sensitiewe resistors)
+</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr9-afrikaans/afr-cleaned_Tech_English_LG_Grade9_term3_1.xhtml#toc-id-21"/>
+    </navPoint>
+    <navPoint id="navpoint-id-16">
+      <navLabel>
+        <text>5.1 Eenvoudige elektroniese stroombane
+</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr9-afrikaans/afr-cleaned_Tech_English_LG_Grade9_term3_1.xhtml#toc-id-24"/>
+    </navPoint>
+    <navPoint id="navpoint-id-17">
+      <navLabel>
+        <text>Week 1</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr9-afrikaans/afr-cleaned_Tech_English_LG_Grade9_term3_1.xhtml#toc-id-28"/>
+    </navPoint>
+    <navPoint id="navpoint-id-18">
+      <navLabel>
+        <text>&#160;</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr9-afrikaans/afr-cleaned_Tech_English_LG_Grade9_term4_1.xhtml#toc-id-1"/>
+    </navPoint>
+    <navPoint id="navpoint-id-19">
+      <navLabel>
+        <text>8.1 Hoe graan gestoor word</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr9-afrikaans/afr-cleaned_Tech_English_LG_Grade9_term4_1.xhtml#toc-id-6"/>
+    </navPoint>
+    <navPoint id="navpoint-id-20">
+      <navLabel>
+        <text>9.1 Wat is plastiek en wat is hulle eienskappe?</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr9-afrikaans/afr-cleaned_Tech_English_LG_Grade9_term4_1.xhtml#toc-id-10"/>
+    </navPoint>
+    <navPoint id="navpoint-id-21">
+      <navLabel>
+        <text>10.1 Formering van herwonne plastiekkorrels na nuwe produkte
+</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr9-afrikaans/afr-cleaned_Tech_English_LG_Grade9_term4_1.xhtml#toc-id-14"/>
+    </navPoint>
+    <navPoint id="navpoint-id-22">
+      <navLabel>
+        <text>Week 1</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr9-afrikaans/afr-cleaned_Tech_English_LG_Grade9_term4_1.xhtml#toc-id-18"/>
+    </navPoint>
+  </navPoint>
+</navMap>
+
+        </ncx>
