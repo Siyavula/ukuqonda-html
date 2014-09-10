@@ -11,9 +11,9 @@
          <navMap>
   <navPoint id="navpoint-id-0">
     <navLabel>
-      <text>1 Roofs and Pylons</text>
+      <text>Front Matter</text>
     </navLabel>
-    <content src="xhtml/Tech-gr8-english/cleaned_Tech_English_LG_Grade8_term1.xhtml#toc-id-0"/>
+    <content src="xhtml/Tech-gr8-english/front-matter_Tech_English_LG_gr8.xhtml#toc-id-0"/>
     <navPoint id="navpoint-id-1">
       <navLabel>
         <text>1.1 How can you make a roof withstand the forces acting on it?</text>

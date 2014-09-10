@@ -11,10 +11,9 @@
          <navMap>
   <navPoint id="navpoint-id-0">
     <navLabel>
-      <text>  1 Ortografiese tekening
-</text>
+      <text>Inleidende Materiaal</text>
     </navLabel>
-    <content src="xhtml/Tech-gr9-afrikaans/afr_cleaned_Tech_English_LG_Grade9_term1.xhtml#toc-id-0"/>
+    <content src="xhtml/Tech-gr9-afrikaans/front-matter_Tech_Afrikaans_LG_gr9.xhtml#toc-id-0"/>
     <navPoint id="navpoint-id-1">
       <navLabel>
         <text> 1.1 Oor ortografiese tekeninge
@@ -75,86 +74,49 @@
     </navPoint>
     <navPoint id="navpoint-id-10">
       <navLabel>
-        <text>Wat is die probleem? (30 minute)</text>
+        <text>Week 1</text>
       </navLabel>
       <content src="xhtml/Tech-gr9-afrikaans/afr_cleaned_Tech_English_LG_Grade9_term2.xhtml#toc-id-21"/>
     </navPoint>
     <navPoint id="navpoint-id-11">
-      <navLabel>
-        <text>Ontwerp julle wipbakvragmotor (30 minute)</text>
-      </navLabel>
-      <content src="xhtml/Tech-gr9-afrikaans/afr_cleaned_Tech_English_LG_Grade9_term2.xhtml#toc-id-24"/>
-    </navPoint>
-    <navPoint id="navpoint-id-12">
       <navLabel>
         <text>1.1 Hersiening 1: Simbole van komponente
 </text>
       </navLabel>
       <content src="xhtml/Tech-gr9-afrikaans/afr-cleaned_Tech_English_LG_Grade9_term3_1.xhtml#toc-id-2"/>
     </navPoint>
-    <navPoint id="navpoint-id-13">
+    <navPoint id="navpoint-id-12">
       <navLabel>
         <text>2.1 Resistors </text>
       </navLabel>
-      <content src="xhtml/Tech-gr9-afrikaans/afr-cleaned_Tech_English_LG_Grade9_term3_1.xhtml#toc-id-13"/>
+      <content src="xhtml/Tech-gr9-afrikaans/afr-cleaned_Tech_English_LG_Grade9_term3_1.xhtml#toc-id-6"/>
     </navPoint>
-    <navPoint id="navpoint-id-14">
+    <navPoint id="navpoint-id-13">
       <navLabel>
         <text>3.1 Skakelaars
 </text>
       </navLabel>
-      <content src="xhtml/Tech-gr9-afrikaans/afr-cleaned_Tech_English_LG_Grade9_term3_1.xhtml#toc-id-17"/>
+      <content src="xhtml/Tech-gr9-afrikaans/afr-cleaned_Tech_English_LG_Grade9_term3_1.xhtml#toc-id-10"/>
     </navPoint>
-    <navPoint id="navpoint-id-15">
+    <navPoint id="navpoint-id-14">
       <navLabel>
         <text>4.2 Termistors (temperatuur-sensitiewe resistors)
 </text>
       </navLabel>
-      <content src="xhtml/Tech-gr9-afrikaans/afr-cleaned_Tech_English_LG_Grade9_term3_1.xhtml#toc-id-21"/>
+      <content src="xhtml/Tech-gr9-afrikaans/afr-cleaned_Tech_English_LG_Grade9_term3_1.xhtml#toc-id-14"/>
     </navPoint>
-    <navPoint id="navpoint-id-16">
+    <navPoint id="navpoint-id-15">
       <navLabel>
         <text>5.1 Eenvoudige elektroniese stroombane
 </text>
       </navLabel>
-      <content src="xhtml/Tech-gr9-afrikaans/afr-cleaned_Tech_English_LG_Grade9_term3_1.xhtml#toc-id-24"/>
+      <content src="xhtml/Tech-gr9-afrikaans/afr-cleaned_Tech_English_LG_Grade9_term3_1.xhtml#toc-id-17"/>
     </navPoint>
-    <navPoint id="navpoint-id-17">
+    <navPoint id="navpoint-id-16">
       <navLabel>
         <text>Week 1</text>
       </navLabel>
-      <content src="xhtml/Tech-gr9-afrikaans/afr-cleaned_Tech_English_LG_Grade9_term3_1.xhtml#toc-id-28"/>
-    </navPoint>
-    <navPoint id="navpoint-id-18">
-      <navLabel>
-        <text>&#160;</text>
-      </navLabel>
-      <content src="xhtml/Tech-gr9-afrikaans/afr-cleaned_Tech_English_LG_Grade9_term4_1.xhtml#toc-id-1"/>
-    </navPoint>
-    <navPoint id="navpoint-id-19">
-      <navLabel>
-        <text>8.1 Hoe graan gestoor word</text>
-      </navLabel>
-      <content src="xhtml/Tech-gr9-afrikaans/afr-cleaned_Tech_English_LG_Grade9_term4_1.xhtml#toc-id-6"/>
-    </navPoint>
-    <navPoint id="navpoint-id-20">
-      <navLabel>
-        <text>9.1 Wat is plastiek en wat is hulle eienskappe?</text>
-      </navLabel>
-      <content src="xhtml/Tech-gr9-afrikaans/afr-cleaned_Tech_English_LG_Grade9_term4_1.xhtml#toc-id-10"/>
-    </navPoint>
-    <navPoint id="navpoint-id-21">
-      <navLabel>
-        <text>10.1 Formering van herwonne plastiekkorrels na nuwe produkte
-</text>
-      </navLabel>
-      <content src="xhtml/Tech-gr9-afrikaans/afr-cleaned_Tech_English_LG_Grade9_term4_1.xhtml#toc-id-14"/>
-    </navPoint>
-    <navPoint id="navpoint-id-22">
-      <navLabel>
-        <text>Week 1</text>
-      </navLabel>
-      <content src="xhtml/Tech-gr9-afrikaans/afr-cleaned_Tech_English_LG_Grade9_term4_1.xhtml#toc-id-18"/>
+      <content src="xhtml/Tech-gr9-afrikaans/afr-cleaned_Tech_English_LG_Grade9_term3_1.xhtml#toc-id-21"/>
     </navPoint>
   </navPoint>
 </navMap>

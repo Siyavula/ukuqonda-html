@@ -11,10 +11,9 @@
          <navMap>
   <navPoint id="navpoint-id-0">
     <navLabel>
-      <text>  1 Wat is Tegnologie?
- </text>
+      <text>Inleidende Materiaal</text>
     </navLabel>
-    <content src="xhtml/Tech-gr7-afrikaans/afr_cleaned_Tech_English_LG_Grade7_term1.xhtml#toc-id-0"/>
+    <content src="xhtml/Tech-gr7-afrikaans/front-matter_Tech_Afrikaans_LG_gr7.xhtml#toc-id-0"/>
     <navPoint id="navpoint-id-1">
       <navLabel>
         <text>1.1 Materiaal, gereedskap en planne

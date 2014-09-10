@@ -11,10 +11,9 @@
          <navMap>
   <navPoint id="navpoint-id-0">
     <navLabel>
-      <text>1 Dakke en kragmaste
-</text>
+      <text>Inleidende Materiaal</text>
     </navLabel>
-    <content src="xhtml/Tech-gr8-afrikaans/afr_cleaned_Tech_English_LG_Grade8_term1.xhtml#toc-id-0"/>
+    <content src="xhtml/Tech-gr8-afrikaans/front-matter_Tech_Afrikaans_LG_gr8.xhtml#toc-id-0"/>
     <navPoint id="navpoint-id-1">
       <navLabel>
         <text>1.1 Hoe kan ons &#8217;n dak sterk maak?
@@ -83,83 +82,78 @@
     </navPoint>
     <navPoint id="navpoint-id-11">
       <navLabel>
-        <text>Maak verbeteringe aan jou model van 'n huis (60 minute)</text>
-      </navLabel>
-      <content src="xhtml/Tech-gr8-afrikaans/afr_cleaned_Tech_English_LG_Grade8_term2.xhtml#toc-id-28"/>
-    </navPoint>
-    <navPoint id="navpoint-id-12">
-      <navLabel>
         <text>1.1 Hersiening van hefbome en meganiese voordeel
 </text>
       </navLabel>
       <content src="xhtml/Tech-gr8-afrikaans/afr-cleaned_English_LB_Grade8term3_1.xhtml#toc-id-1"/>
     </navPoint>
-    <navPoint id="navpoint-id-13">
+    <navPoint id="navpoint-id-12">
       <navLabel>
         <text>2.1 Bereken die meganiese voordeel van &#8217;n hefboom
 </text>
       </navLabel>
       <content src="xhtml/Tech-gr8-afrikaans/afr-cleaned_English_LB_Grade8term3_1.xhtml#toc-id-5"/>
     </navPoint>
-    <navPoint id="navpoint-id-14">
+    <navPoint id="navpoint-id-13">
       <navLabel>
         <text>3.1 Teken ratte in tweedimensioneel (2D)
 </text>
       </navLabel>
       <content src="xhtml/Tech-gr8-afrikaans/afr-cleaned_English_LB_Grade8term3_1.xhtml#toc-id-9"/>
     </navPoint>
-    <navPoint id="navpoint-id-15">
+    <navPoint id="navpoint-id-14">
       <navLabel>
         <text>4.1 Skets ke&#235;lratte
 </text>
       </navLabel>
       <content src="xhtml/Tech-gr8-afrikaans/afr-cleaned_English_LB_Grade8term3_1.xhtml#toc-id-13"/>
     </navPoint>
-    <navPoint id="navpoint-id-16">
+    <navPoint id="navpoint-id-15">
       <navLabel>
         <text>5.1 Agtergrondinligting oor die verskillende mynbou onderwerpe
 </text>
       </navLabel>
       <content src="xhtml/Tech-gr8-afrikaans/afr-cleaned_English_LB_Grade8term3_1.xhtml#toc-id-17"/>
     </navPoint>
-    <navPoint id="navpoint-id-17">
+    <navPoint id="navpoint-id-16">
       <navLabel>
         <text>Week 1</text>
       </navLabel>
       <content src="xhtml/Tech-gr8-afrikaans/afr-cleaned_English_LB_Grade8term3_1.xhtml#toc-id-21"/>
     </navPoint>
-    <navPoint id="navpoint-id-18">
+    <navPoint id="navpoint-id-17">
       <navLabel>
-        <text> Elektriese stelsels en beheer </text>
+        <text>7.1 Ondersoek eenvoudige stroombane
+</text>
       </navLabel>
       <content src="xhtml/Tech-gr8-afrikaans/afr-cleaned_Tech_English_LB_Grade8term4_1.xhtml#toc-id-1"/>
     </navPoint>
-    <navPoint id="navpoint-id-19">
+    <navPoint id="navpoint-id-18">
       <navLabel>
         <text>8.1 Energieverbruik in landelike en informele nedersettings
 </text>
       </navLabel>
-      <content src="xhtml/Tech-gr8-afrikaans/afr-cleaned_Tech_English_LB_Grade8term4_1.xhtml#toc-id-6"/>
+      <content src="xhtml/Tech-gr8-afrikaans/afr-cleaned_Tech_English_LB_Grade8term4_1.xhtml#toc-id-5"/>
     </navPoint>
-    <navPoint id="navpoint-id-20">
+    <navPoint id="navpoint-id-19">
       <navLabel>
         <text>9.1 Elektrochemiese selle en batterye
 </text>
       </navLabel>
-      <content src="xhtml/Tech-gr8-afrikaans/afr-cleaned_Tech_English_LB_Grade8term4_1.xhtml#toc-id-10"/>
+      <content src="xhtml/Tech-gr8-afrikaans/afr-cleaned_Tech_English_LB_Grade8term4_1.xhtml#toc-id-9"/>
     </navPoint>
-    <navPoint id="navpoint-id-21">
+    <navPoint id="navpoint-id-20">
       <navLabel>
         <text>10.1 Hoe elektrisiteit opgewek word by steenkoolkragstasies
 </text>
       </navLabel>
-      <content src="xhtml/Tech-gr8-afrikaans/afr-cleaned_Tech_English_LB_Grade8term4_1.xhtml#toc-id-14"/>
+      <content src="xhtml/Tech-gr8-afrikaans/afr-cleaned_Tech_English_LB_Grade8term4_1.xhtml#toc-id-13"/>
     </navPoint>
-    <navPoint id="navpoint-id-22">
+    <navPoint id="navpoint-id-21">
       <navLabel>
         <text>Week 1</text>
       </navLabel>
-      <content src="xhtml/Tech-gr8-afrikaans/afr-cleaned_Tech_English_LB_Grade8term4_1.xhtml#toc-id-19"/>
+      <content src="xhtml/Tech-gr8-afrikaans/afr-cleaned_Tech_English_LB_Grade8term4_1.xhtml#toc-id-17"/>
     </navPoint>
   </navPoint>
 </navMap>
