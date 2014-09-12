@@ -1,6 +1,6 @@
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
            <head>
-               <meta name="dtb:uid" content="www.siyavula.com.epubmaker.Math-gr7-afrikaans"/>
+               <meta name="dtb:uid" content="www.siyavula.com.epubmaker.Maths-gr7-afrikaans"/>
                <meta name="dtb:depth" content="3"/>
                <meta name="dtb:totalPageCount" content="0"/>
                <meta name="dtb:maxPageNumber" content="0"/>
@@ -11,192 +11,192 @@
          <navMap>
   <navPoint id="navpoint-id-0">
     <navLabel>
-      <text>1 Werk met telgetalle</text>
+      <text>Inleidende Materiaal</text>
     </navLabel>
-    <content src="xhtml/Math-gr7-afrikaans/afr-cleaned_Maths_English_LG_gr7_term1.xhtml#toc-id-0"/>
+    <content src="xhtml/Maths-gr7-afrikaans/front-matter_Maths_Afrikaans_LG_gr7.xhtml#toc-id-0"/>
     <navPoint id="navpoint-id-1">
       <navLabel>
         <text>1.1	Hersiening</text>
       </navLabel>
-      <content src="xhtml/Math-gr7-afrikaans/afr-cleaned_Maths_English_LG_gr7_term1.xhtml#toc-id-1"/>
+      <content src="xhtml/Maths-gr7-afrikaans/afr-cleaned_Maths_English_LG_gr7_term1.xhtml#toc-id-1"/>
     </navPoint>
     <navPoint id="navpoint-id-2">
       <navLabel>
         <text>2.1 Vinnige kwadrate en derdemagte</text>
       </navLabel>
-      <content src="xhtml/Math-gr7-afrikaans/afr-cleaned_Maths_English_LG_gr7_term1.xhtml#toc-id-8"/>
+      <content src="xhtml/Maths-gr7-afrikaans/afr-cleaned_Maths_English_LG_gr7_term1.xhtml#toc-id-8"/>
     </navPoint>
     <navPoint id="navpoint-id-3">
       <navLabel>
         <text>3.1 Lynstukke, lyne en halflyne</text>
       </navLabel>
-      <content src="xhtml/Math-gr7-afrikaans/afr-cleaned_Maths_English_LG_gr7_term1.xhtml#toc-id-15"/>
+      <content src="xhtml/Maths-gr7-afrikaans/afr-cleaned_Maths_English_LG_gr7_term1.xhtml#toc-id-15"/>
     </navPoint>
     <navPoint id="navpoint-id-4">
       <navLabel>
         <text>4.1 Hersiening van hoeke</text>
       </navLabel>
-      <content src="xhtml/Math-gr7-afrikaans/afr-cleaned_Maths_English_LG_gr7_term1.xhtml#toc-id-18"/>
+      <content src="xhtml/Maths-gr7-afrikaans/afr-cleaned_Maths_English_LG_gr7_term1.xhtml#toc-id-18"/>
     </navPoint>
     <navPoint id="navpoint-id-5">
       <navLabel>
         <text>5.1	Driehoeke, vierhoeke, sirkels en ander</text>
       </navLabel>
-      <content src="xhtml/Math-gr7-afrikaans/afr-cleaned_Maths_English_LG_gr7_term1.xhtml#toc-id-29"/>
+      <content src="xhtml/Maths-gr7-afrikaans/afr-cleaned_Maths_English_LG_gr7_term1.xhtml#toc-id-29"/>
     </navPoint>
     <navPoint id="navpoint-id-6">
       <navLabel>
         <text>Hersiening</text>
       </navLabel>
-      <content src="xhtml/Math-gr7-afrikaans/afr-cleaned_Maths_English_LG_gr7_term1.xhtml#toc-id-35"/>
+      <content src="xhtml/Maths-gr7-afrikaans/afr-cleaned_Maths_English_LG_gr7_term1.xhtml#toc-id-35"/>
     </navPoint>
     <navPoint id="navpoint-id-7">
       <navLabel>
         <text>6.1 Meet akkuraat met dele van 'n eenheid</text>
       </navLabel>
-      <content src="xhtml/Math-gr7-afrikaans/afr-cleaned_Maths_English_LG_gr7_term2.xhtml#toc-id-1"/>
+      <content src="xhtml/Maths-gr7-afrikaans/afr-cleaned_Maths_English_LG_gr7_term2.xhtml#toc-id-1"/>
     </navPoint>
     <navPoint id="navpoint-id-8">
       <navLabel>
         <text>7.1 Ander simbole vir tiendes en honderdstes
 </text>
       </navLabel>
-      <content src="xhtml/Math-gr7-afrikaans/afr-cleaned_Maths_English_LG_gr7_term2.xhtml#toc-id-10"/>
+      <content src="xhtml/Maths-gr7-afrikaans/afr-cleaned_Maths_English_LG_gr7_term2.xhtml#toc-id-10"/>
     </navPoint>
     <navPoint id="navpoint-id-9">
       <navLabel>
         <text>8.1 Konstante en veranderlike hoeveelhede
 </text>
       </navLabel>
-      <content src="xhtml/Math-gr7-afrikaans/afr-cleaned_Maths_English_LG_gr7_term2.xhtml#toc-id-20"/>
+      <content src="xhtml/Maths-gr7-afrikaans/afr-cleaned_Maths_English_LG_gr7_term2.xhtml#toc-id-20"/>
     </navPoint>
     <navPoint id="navpoint-id-10">
       <navLabel>
         <text>9.1 Omtrek van veelhoeke
 </text>
       </navLabel>
-      <content src="xhtml/Math-gr7-afrikaans/afr-cleaned_Maths_English_LG_gr7_term2.xhtml#toc-id-24"/>
+      <content src="xhtml/Maths-gr7-afrikaans/afr-cleaned_Maths_English_LG_gr7_term2.xhtml#toc-id-24"/>
     </navPoint>
     <navPoint id="navpoint-id-11">
       <navLabel>
         <text>10.1 Buite-oppervlakte van kubusse en reghoekige prismas
 </text>
       </navLabel>
-      <content src="xhtml/Math-gr7-afrikaans/afr-cleaned_Maths_English_LG_gr7_term2.xhtml#toc-id-30"/>
+      <content src="xhtml/Maths-gr7-afrikaans/afr-cleaned_Maths_English_LG_gr7_term2.xhtml#toc-id-30"/>
     </navPoint>
     <navPoint id="navpoint-id-12">
       <navLabel>
         <text>Hersiening</text>
       </navLabel>
-      <content src="xhtml/Math-gr7-afrikaans/afr-cleaned_Maths_English_LG_gr7_term2.xhtml#toc-id-35"/>
+      <content src="xhtml/Maths-gr7-afrikaans/afr-cleaned_Maths_English_LG_gr7_term2.xhtml#toc-id-35"/>
     </navPoint>
     <navPoint id="navpoint-id-13">
       <navLabel>
         <text>
     1.1	Patrone in getalrye</text>
       </navLabel>
-      <content src="xhtml/Math-gr7-afrikaans/cleaned_Maths_Afrikaans_LB_gr7_kwartaal3.xhtml#toc-id-1"/>
+      <content src="xhtml/Maths-gr7-afrikaans/cleaned_Maths_Afrikaans_LB_gr7_kwartaal3.xhtml#toc-id-1"/>
     </navPoint>
     <navPoint id="navpoint-id-14">
       <navLabel>
         <text>2.1	Van tel tot bereken</text>
       </navLabel>
-      <content src="xhtml/Math-gr7-afrikaans/cleaned_Maths_Afrikaans_LB_gr7_kwartaal3.xhtml#toc-id-4"/>
+      <content src="xhtml/Maths-gr7-afrikaans/cleaned_Maths_Afrikaans_LB_gr7_kwartaal3.xhtml#toc-id-4"/>
     </navPoint>
     <navPoint id="navpoint-id-15">
       <navLabel>
         <text>
     3.1	Beskryf berekeninge en voer dit uit</text>
       </navLabel>
-      <content src="xhtml/Math-gr7-afrikaans/cleaned_Maths_Afrikaans_LB_gr7_kwartaal3.xhtml#toc-id-8"/>
+      <content src="xhtml/Maths-gr7-afrikaans/cleaned_Maths_Afrikaans_LB_gr7_kwartaal3.xhtml#toc-id-8"/>
     </navPoint>
     <navPoint id="navpoint-id-16">
       <navLabel>
         <text>4.1	Los op deur inspeksie</text>
       </navLabel>
-      <content src="xhtml/Math-gr7-afrikaans/cleaned_Maths_Afrikaans_LB_gr7_kwartaal3.xhtml#toc-id-11"/>
+      <content src="xhtml/Maths-gr7-afrikaans/cleaned_Maths_Afrikaans_LB_gr7_kwartaal3.xhtml#toc-id-11"/>
     </navPoint>
     <navPoint id="navpoint-id-17">
       <navLabel>
         <text>5.1	&#8217;n Grafiek het &#8217;n storie</text>
       </navLabel>
-      <content src="xhtml/Math-gr7-afrikaans/cleaned_Maths_Afrikaans_LB_gr7_kwartaal3.xhtml#toc-id-15"/>
+      <content src="xhtml/Maths-gr7-afrikaans/cleaned_Maths_Afrikaans_LB_gr7_kwartaal3.xhtml#toc-id-15"/>
     </navPoint>
     <navPoint id="navpoint-id-18">
       <navLabel>
         <text>
     6.1	Lynsimmetrie</text>
       </navLabel>
-      <content src="xhtml/Math-gr7-afrikaans/cleaned_Maths_Afrikaans_LB_gr7_kwartaal3.xhtml#toc-id-20"/>
+      <content src="xhtml/Maths-gr7-afrikaans/cleaned_Maths_Afrikaans_LB_gr7_kwartaal3.xhtml#toc-id-20"/>
     </navPoint>
     <navPoint id="navpoint-id-19">
       <navLabel>
         <text>
     7.1	Klassifiseer 3D-voorwerpe</text>
       </navLabel>
-      <content src="xhtml/Math-gr7-afrikaans/cleaned_Maths_Afrikaans_LB_gr7_kwartaal3.xhtml#toc-id-27"/>
+      <content src="xhtml/Maths-gr7-afrikaans/cleaned_Maths_Afrikaans_LB_gr7_kwartaal3.xhtml#toc-id-27"/>
     </navPoint>
     <navPoint id="navpoint-id-20">
       <navLabel>
         <text>8.1	Die behoefte aan getalle genaamd heelgetalle</text>
       </navLabel>
-      <content src="xhtml/Math-gr7-afrikaans/cleaned_Maths_Afrikaans_LB_gr7_kwartaal4.xhtml#toc-id-1"/>
+      <content src="xhtml/Maths-gr7-afrikaans/cleaned_Maths_Afrikaans_LB_gr7_kwartaal4.xhtml#toc-id-1"/>
     </navPoint>
     <navPoint id="navpoint-id-21">
       <navLabel>
         <text>
     9.1	Ondersoek en brei getalpatrone uit</text>
       </navLabel>
-      <content src="xhtml/Math-gr7-afrikaans/cleaned_Maths_Afrikaans_LB_gr7_kwartaal4.xhtml#toc-id-5"/>
+      <content src="xhtml/Maths-gr7-afrikaans/cleaned_Maths_Afrikaans_LB_gr7_kwartaal4.xhtml#toc-id-5"/>
     </navPoint>
     <navPoint id="navpoint-id-22">
       <navLabel>
         <text>
     10.1	Verbande tussen veranderlikes</text>
       </navLabel>
-      <content src="xhtml/Math-gr7-afrikaans/cleaned_Maths_Afrikaans_LB_gr7_kwartaal4.xhtml#toc-id-9"/>
+      <content src="xhtml/Maths-gr7-afrikaans/cleaned_Maths_Afrikaans_LB_gr7_kwartaal4.xhtml#toc-id-9"/>
     </navPoint>
     <navPoint id="navpoint-id-23">
       <navLabel>
         <text>11.1	Interpreteer re&#235;ls om die waardes van
     &#8217;n veranderlike te bereken</text>
       </navLabel>
-      <content src="xhtml/Math-gr7-afrikaans/cleaned_Maths_Afrikaans_LB_gr7_kwartaal4.xhtml#toc-id-12"/>
+      <content src="xhtml/Maths-gr7-afrikaans/cleaned_Maths_Afrikaans_LB_gr7_kwartaal4.xhtml#toc-id-12"/>
     </navPoint>
     <navPoint id="navpoint-id-24">
       <navLabel>
         <text>
     12.1	Beskryf probleemsituasies</text>
       </navLabel>
-      <content src="xhtml/Math-gr7-afrikaans/cleaned_Maths_Afrikaans_LB_gr7_kwartaal4.xhtml#toc-id-15"/>
+      <content src="xhtml/Maths-gr7-afrikaans/cleaned_Maths_Afrikaans_LB_gr7_kwartaal4.xhtml#toc-id-15"/>
     </navPoint>
     <navPoint id="navpoint-id-25">
       <navLabel>
         <text>
     13.1	Versamel data</text>
       </navLabel>
-      <content src="xhtml/Math-gr7-afrikaans/cleaned_Maths_Afrikaans_LB_gr7_kwartaal4.xhtml#toc-id-21"/>
+      <content src="xhtml/Maths-gr7-afrikaans/cleaned_Maths_Afrikaans_LB_gr7_kwartaal4.xhtml#toc-id-21"/>
     </navPoint>
     <navPoint id="navpoint-id-26">
       <navLabel>
         <text>
     14.1	Staafgrafieke en dubbele staafgrafieke</text>
       </navLabel>
-      <content src="xhtml/Math-gr7-afrikaans/cleaned_Maths_Afrikaans_LB_gr7_kwartaal4.xhtml#toc-id-25"/>
+      <content src="xhtml/Maths-gr7-afrikaans/cleaned_Maths_Afrikaans_LB_gr7_kwartaal4.xhtml#toc-id-25"/>
     </navPoint>
     <navPoint id="navpoint-id-27">
       <navLabel>
         <text>
     15.1	Interpreteer en doen verslag oor data</text>
       </navLabel>
-      <content src="xhtml/Math-gr7-afrikaans/cleaned_Maths_Afrikaans_LB_gr7_kwartaal4.xhtml#toc-id-29"/>
+      <content src="xhtml/Maths-gr7-afrikaans/cleaned_Maths_Afrikaans_LB_gr7_kwartaal4.xhtml#toc-id-29"/>
     </navPoint>
     <navPoint id="navpoint-id-28">
       <navLabel>
         <text>
     16.1	Moontlike en werklike uitkomste, en frekwensies</text>
       </navLabel>
-      <content src="xhtml/Math-gr7-afrikaans/cleaned_Maths_Afrikaans_LB_gr7_kwartaal4.xhtml#toc-id-32"/>
+      <content src="xhtml/Maths-gr7-afrikaans/cleaned_Maths_Afrikaans_LB_gr7_kwartaal4.xhtml#toc-id-32"/>
     </navPoint>
   </navPoint>
 </navMap>

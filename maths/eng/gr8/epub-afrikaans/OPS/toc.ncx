@@ -1,6 +1,6 @@
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
            <head>
-               <meta name="dtb:uid" content="www.siyavula.com.epubmaker.Math-gr8-afrikaans"/>
+               <meta name="dtb:uid" content="www.siyavula.com.epubmaker.Maths-gr8-afrikaans"/>
                <meta name="dtb:depth" content="3"/>
                <meta name="dtb:totalPageCount" content="0"/>
                <meta name="dtb:maxPageNumber" content="0"/>
@@ -11,188 +11,187 @@
          <navMap>
   <navPoint id="navpoint-id-0">
     <navLabel>
-      <text>
-      1 Telgetalle</text>
+      <text>Inleidende Materiaal</text>
     </navLabel>
-    <content src="xhtml/Math-gr8-afrikaans/afr-cleaned_Maths_English_LG_gr8_term1.xhtml#toc-id-0"/>
+    <content src="xhtml/Maths-gr8-afrikaans/front-matter_Maths_Afrikaans_LG_gr8.xhtml#toc-id-0"/>
     <navPoint id="navpoint-id-1">
       <navLabel>
         <text>1.1 Eienskappe van telgetalle</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-afrikaans/afr-cleaned_Maths_English_LG_gr8_term1.xhtml#toc-id-1"/>
+      <content src="xhtml/Maths-gr8-afrikaans/afr-cleaned_Maths_English_LG_gr8_term1.xhtml#toc-id-1"/>
     </navPoint>
     <navPoint id="navpoint-id-2">
       <navLabel>
         <text>2.1 Wat is anderkant 0?</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-afrikaans/afr-cleaned_Maths_English_LG_gr8_term1.xhtml#toc-id-6"/>
+      <content src="xhtml/Maths-gr8-afrikaans/afr-cleaned_Maths_English_LG_gr8_term1.xhtml#toc-id-6"/>
     </navPoint>
     <navPoint id="navpoint-id-3">
       <navLabel>
         <text>3.1 Hersiening</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-afrikaans/afr-cleaned_Maths_English_LG_gr8_term1.xhtml#toc-id-11"/>
+      <content src="xhtml/Maths-gr8-afrikaans/afr-cleaned_Maths_English_LG_gr8_term1.xhtml#toc-id-11"/>
     </navPoint>
     <navPoint id="navpoint-id-4">
       <navLabel>
         <text>4.1 Die term&#8211;term-verband in &#8217;n ry</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-afrikaans/afr-cleaned_Maths_English_LG_gr8_term1.xhtml#toc-id-18"/>
+      <content src="xhtml/Maths-gr8-afrikaans/afr-cleaned_Maths_English_LG_gr8_term1.xhtml#toc-id-18"/>
     </navPoint>
     <navPoint id="navpoint-id-5">
       <navLabel>
         <text>5.1 Konstante en veranderlike hoeveelhede</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-afrikaans/afr-cleaned_Maths_English_LG_gr8_term1.xhtml#toc-id-23"/>
+      <content src="xhtml/Maths-gr8-afrikaans/afr-cleaned_Maths_English_LG_gr8_term1.xhtml#toc-id-23"/>
     </navPoint>
     <navPoint id="navpoint-id-6">
       <navLabel>
         <text>6.1 Algebra&#239;ese taal</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-afrikaans/afr-cleaned_Maths_English_LG_gr8_term1.xhtml#toc-id-27"/>
+      <content src="xhtml/Maths-gr8-afrikaans/afr-cleaned_Maths_English_LG_gr8_term1.xhtml#toc-id-27"/>
     </navPoint>
     <navPoint id="navpoint-id-7">
       <navLabel>
         <text>7.1 Stel vergelykings op</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-afrikaans/afr-cleaned_Maths_English_LG_gr8_term1.xhtml#toc-id-30"/>
+      <content src="xhtml/Maths-gr8-afrikaans/afr-cleaned_Maths_English_LG_gr8_term1.xhtml#toc-id-30"/>
     </navPoint>
     <navPoint id="navpoint-id-8">
       <navLabel>
         <text>Hersiening</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-afrikaans/afr-cleaned_Maths_English_LG_gr8_term1.xhtml#toc-id-34"/>
+      <content src="xhtml/Maths-gr8-afrikaans/afr-cleaned_Maths_English_LG_gr8_term1.xhtml#toc-id-34"/>
     </navPoint>
     <navPoint id="navpoint-id-9">
       <navLabel>
         <text>8.1 Brei algebra&#239;ese uitdrukkings uit
 </text>
       </navLabel>
-      <content src="xhtml/Math-gr8-afrikaans/afr-cleaned_Maths_English_LG_gr8_term2.xhtml#toc-id-2"/>
+      <content src="xhtml/Maths-gr8-afrikaans/afr-cleaned_Maths_English_LG_gr8_term2.xhtml#toc-id-2"/>
     </navPoint>
     <navPoint id="navpoint-id-10">
       <navLabel>
         <text>9.1 Dink vorentoe en terug</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-afrikaans/afr-cleaned_Maths_English_LG_gr8_term2.xhtml#toc-id-8"/>
+      <content src="xhtml/Maths-gr8-afrikaans/afr-cleaned_Maths_English_LG_gr8_term2.xhtml#toc-id-8"/>
     </navPoint>
     <navPoint id="navpoint-id-11">
       <navLabel>
         <text>10.1 Halvering van lyne
 </text>
       </navLabel>
-      <content src="xhtml/Math-gr8-afrikaans/afr-cleaned_Maths_English_LG_gr8_term2.xhtml#toc-id-13"/>
+      <content src="xhtml/Maths-gr8-afrikaans/afr-cleaned_Maths_English_LG_gr8_term2.xhtml#toc-id-13"/>
     </navPoint>
     <navPoint id="navpoint-id-12">
       <navLabel>
         <text>11.1 Soorte driehoeke
 </text>
       </navLabel>
-      <content src="xhtml/Math-gr8-afrikaans/afr-cleaned_Maths_English_LG_gr8_term2.xhtml#toc-id-23"/>
+      <content src="xhtml/Maths-gr8-afrikaans/afr-cleaned_Maths_English_LG_gr8_term2.xhtml#toc-id-23"/>
     </navPoint>
     <navPoint id="navpoint-id-13">
       <navLabel>
         <text>12.1 Hoeke op &#8217;n reguit lyn
 </text>
       </navLabel>
-      <content src="xhtml/Math-gr8-afrikaans/afr-cleaned_Maths_English_LG_gr8_term2.xhtml#toc-id-31"/>
+      <content src="xhtml/Maths-gr8-afrikaans/afr-cleaned_Maths_English_LG_gr8_term2.xhtml#toc-id-31"/>
     </navPoint>
     <navPoint id="navpoint-id-14">
       <navLabel>
         <text>Hersiening
 </text>
       </navLabel>
-      <content src="xhtml/Math-gr8-afrikaans/afr-cleaned_Maths_English_LG_gr8_term2.xhtml#toc-id-38"/>
+      <content src="xhtml/Maths-gr8-afrikaans/afr-cleaned_Maths_English_LG_gr8_term2.xhtml#toc-id-38"/>
     </navPoint>
     <navPoint id="navpoint-id-15">
       <navLabel>
         <text>1.1 Ekwivalente breuke</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-afrikaans/afr-cleaned_Maths_English_LB_gr8_term3_1.xhtml#toc-id-1"/>
+      <content src="xhtml/Maths-gr8-afrikaans/afr-cleaned_Maths_English_LB_gr8_term3_1.xhtml#toc-id-1"/>
     </navPoint>
     <navPoint id="navpoint-id-16">
       <navLabel>
         <text>2.1 Ekwivalente
     vorme</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-afrikaans/afr-cleaned_Maths_English_LB_gr8_term3_1.xhtml#toc-id-7"/>
+      <content src="xhtml/Maths-gr8-afrikaans/afr-cleaned_Maths_English_LB_gr8_term3_1.xhtml#toc-id-7"/>
     </navPoint>
     <navPoint id="navpoint-id-17">
       <navLabel>
         <text>3.1 Die lengtes van die
     sye van reghoekige driehoeke</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-afrikaans/afr-cleaned_Maths_English_LB_gr8_term3_1.xhtml#toc-id-13"/>
+      <content src="xhtml/Maths-gr8-afrikaans/afr-cleaned_Maths_English_LB_gr8_term3_1.xhtml#toc-id-13"/>
     </navPoint>
     <navPoint id="navpoint-id-18">
       <navLabel>
         <text>4.1 Omtrek van vierkante en reghoeke</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-afrikaans/afr-cleaned_Maths_English_LB_gr8_term3_1.xhtml#toc-id-18"/>
+      <content src="xhtml/Maths-gr8-afrikaans/afr-cleaned_Maths_English_LB_gr8_term3_1.xhtml#toc-id-18"/>
     </navPoint>
     <navPoint id="navpoint-id-19">
       <navLabel>
         <text>5.1 Van 2D- na 3D-afmetings
 </text>
       </navLabel>
-      <content src="xhtml/Math-gr8-afrikaans/afr-cleaned_Maths_English_LB_gr8_term3_1.xhtml#toc-id-24"/>
+      <content src="xhtml/Maths-gr8-afrikaans/afr-cleaned_Maths_English_LB_gr8_term3_1.xhtml#toc-id-24"/>
     </navPoint>
     <navPoint id="navpoint-id-20">
       <navLabel>
         <text>6.1 Versamel data
 </text>
       </navLabel>
-      <content src="xhtml/Math-gr8-afrikaans/afr-cleaned_Maths_English_LB_gr8_term3_1.xhtml#toc-id-31"/>
+      <content src="xhtml/Maths-gr8-afrikaans/afr-cleaned_Maths_English_LB_gr8_term3_1.xhtml#toc-id-31"/>
     </navPoint>
     <navPoint id="navpoint-id-21">
       <navLabel>
         <text>7.1 Staafgrafieke en dubbele staafgrafieke
 </text>
       </navLabel>
-      <content src="xhtml/Math-gr8-afrikaans/afr-cleaned_Maths_English_LB_gr8_term3_1.xhtml#toc-id-35"/>
+      <content src="xhtml/Maths-gr8-afrikaans/afr-cleaned_Maths_English_LB_gr8_term3_1.xhtml#toc-id-35"/>
     </navPoint>
     <navPoint id="navpoint-id-22">
       <navLabel>
         <text>8.1 Ontleed die insameling van data krities
 </text>
       </navLabel>
-      <content src="xhtml/Math-gr8-afrikaans/afr-cleaned_Maths_English_LB_gr8_term3_1.xhtml#toc-id-40"/>
+      <content src="xhtml/Maths-gr8-afrikaans/afr-cleaned_Maths_English_LB_gr8_term3_1.xhtml#toc-id-40"/>
     </navPoint>
     <navPoint id="navpoint-id-23">
       <navLabel>
         <text>9.1 Bereken uitvoerwaardes</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-afrikaans/afr-cleaned_Maths_English_LB_gr8_term4_1.xhtml#toc-id-1"/>
+      <content src="xhtml/Maths-gr8-afrikaans/afr-cleaned_Maths_English_LB_gr8_term4_1.xhtml#toc-id-1"/>
     </navPoint>
     <navPoint id="navpoint-id-24">
       <navLabel>
         <text>10.1 Hersiening</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-afrikaans/afr-cleaned_Maths_English_LB_gr8_term4_1.xhtml#toc-id-6"/>
+      <content src="xhtml/Maths-gr8-afrikaans/afr-cleaned_Maths_English_LB_gr8_term4_1.xhtml#toc-id-6"/>
     </navPoint>
     <navPoint id="navpoint-id-25">
       <navLabel>
         <text>11.1 Wat ons met grafieke kan s&#234;</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-afrikaans/afr-cleaned_Maths_English_LB_gr8_term4_1.xhtml#toc-id-10"/>
+      <content src="xhtml/Maths-gr8-afrikaans/afr-cleaned_Maths_English_LB_gr8_term4_1.xhtml#toc-id-10"/>
     </navPoint>
     <navPoint id="navpoint-id-26">
       <navLabel>
         <text>12.1 Transformasies en ko&#246;rdinaatstelsels</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-afrikaans/afr-cleaned_Maths_English_LB_gr8_term4_1.xhtml#toc-id-14"/>
+      <content src="xhtml/Maths-gr8-afrikaans/afr-cleaned_Maths_English_LB_gr8_term4_1.xhtml#toc-id-14"/>
     </navPoint>
     <navPoint id="navpoint-id-27">
       <navLabel>
         <text>13.1  Hersiening: 3D-voorwerpe</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-afrikaans/afr-cleaned_Maths_English_LB_gr8_term4_1.xhtml#toc-id-20"/>
+      <content src="xhtml/Maths-gr8-afrikaans/afr-cleaned_Maths_English_LB_gr8_term4_1.xhtml#toc-id-20"/>
     </navPoint>
     <navPoint id="navpoint-id-28">
       <navLabel>
         <text>14.1 Hoe dikwels verskillende dinge kan gebeur</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-afrikaans/afr-cleaned_Maths_English_LB_gr8_term4_1.xhtml#toc-id-24"/>
+      <content src="xhtml/Maths-gr8-afrikaans/afr-cleaned_Maths_English_LB_gr8_term4_1.xhtml#toc-id-24"/>
     </navPoint>
   </navPoint>
 </navMap>

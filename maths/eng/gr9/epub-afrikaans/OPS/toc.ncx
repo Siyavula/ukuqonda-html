@@ -1,6 +1,6 @@
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
            <head>
-               <meta name="dtb:uid" content="www.siyavula.com.epubmaker.Math-gr9-afrikaans"/>
+               <meta name="dtb:uid" content="www.siyavula.com.epubmaker.Maths-gr9-afrikaans"/>
                <meta name="dtb:depth" content="3"/>
                <meta name="dtb:totalPageCount" content="0"/>
                <meta name="dtb:maxPageNumber" content="0"/>
@@ -11,185 +11,175 @@
          <navMap>
   <navPoint id="navpoint-id-0">
     <navLabel>
-      <text>    Telgetalle</text>
+      <text>Inleidende Materiaal</text>
     </navLabel>
-    <content src="xhtml/Math-gr9-afrikaans/afr-cleaned_Maths_English_LG_gr9_term1-chapter1.xhtml#toc-id-0"/>
+    <content src="xhtml/Maths-gr9-afrikaans/front-matter_Maths_Afrikaans_LG_gr9.xhtml#toc-id-0"/>
     <navPoint id="navpoint-id-1">
       <navLabel>
-        <text>Eienskappe van getalle</text>
+        <text>1.1 Eienskappe van getalle</text>
       </navLabel>
-      <content src="xhtml/Math-gr9-afrikaans/afr-cleaned_Maths_English_LG_gr9_term1-chapter1.xhtml#toc-id-1"/>
+      <content src="xhtml/Maths-gr9-afrikaans/afr-cleaned_Maths_English_LG_gr9_term1-chapter1.xhtml#toc-id-1"/>
     </navPoint>
     <navPoint id="navpoint-id-2">
       <navLabel>
         <text>2.1 Watter getalle is kleiner as 0?</text>
       </navLabel>
-      <content src="xhtml/Math-gr9-afrikaans/afr-cleaned_Maths_English_LG_gr9_term1-chapter2.xhtml#toc-id-2"/>
+      <content src="xhtml/Maths-gr9-afrikaans/afr-cleaned_Maths_English_LG_gr9_term1-chapter2.xhtml#toc-id-1"/>
     </navPoint>
     <navPoint id="navpoint-id-3">
       <navLabel>
         <text>3.1 Ekwivalente breuke
 </text>
       </navLabel>
-      <content src="xhtml/Math-gr9-afrikaans/afr-cleaned_Maths_English_LG_gr9_term1-chapter3.xhtml#toc-id-2"/>
+      <content src="xhtml/Maths-gr9-afrikaans/afr-cleaned_Maths_English_LG_gr9_term1-chapter3.xhtml#toc-id-1"/>
     </navPoint>
     <navPoint id="navpoint-id-4">
       <navLabel>
         <text>4.1 Ekwivalente vorms
 </text>
       </navLabel>
-      <content src="xhtml/Math-gr9-afrikaans/afr-cleaned_Maths_English_LG_gr9_term1-chapter4.xhtml#toc-id-2"/>
+      <content src="xhtml/Maths-gr9-afrikaans/afr-cleaned_Maths_English_LG_gr9_term1-chapter4.xhtml#toc-id-1"/>
     </navPoint>
     <navPoint id="navpoint-id-5">
       <navLabel>
         <text>5.1 Hersiening</text>
       </navLabel>
-      <content src="xhtml/Math-gr9-afrikaans/afr-cleaned_Maths_English_LG_gr9_term1-chapter5.xhtml#toc-id-1"/>
+      <content src="xhtml/Maths-gr9-afrikaans/afr-cleaned_Maths_English_LG_gr9_term1-chapter5.xhtml#toc-id-1"/>
     </navPoint>
     <navPoint id="navpoint-id-6">
       <navLabel>
         <text>6.1 Meetkundige patrone</text>
       </navLabel>
-      <content src="xhtml/Math-gr9-afrikaans/afr-cleaned_Maths_English_LG_gr9_term1-chapter6.xhtml#toc-id-2"/>
+      <content src="xhtml/Maths-gr9-afrikaans/afr-cleaned_Maths_English_LG_gr9_term1-chapter6.xhtml#toc-id-1"/>
     </navPoint>
     <navPoint id="navpoint-id-7">
       <navLabel>
         <text>7.1 Bepaal uitvoergetalle vir gegewe invoergetalle</text>
       </navLabel>
-      <content src="xhtml/Math-gr9-afrikaans/afr-cleaned_Maths_English_LG_gr9_term1-chapter7.xhtml#toc-id-1"/>
+      <content src="xhtml/Maths-gr9-afrikaans/afr-cleaned_Maths_English_LG_gr9_term1-chapter7.xhtml#toc-id-1"/>
     </navPoint>
     <navPoint id="navpoint-id-8">
       <navLabel>
         <text>8.1 Algebra&#239;ese taal</text>
       </navLabel>
-      <content src="xhtml/Math-gr9-afrikaans/afr-cleaned_Maths_English_LG_gr9_term1-chapter8.xhtml#toc-id-2"/>
+      <content src="xhtml/Maths-gr9-afrikaans/afr-cleaned_Maths_English_LG_gr9_term1-chapter8.xhtml#toc-id-1"/>
     </navPoint>
     <navPoint id="navpoint-id-9">
       <navLabel>
         <text>9.1 Los vergelykings op deur inspeksie
 </text>
       </navLabel>
-      <content src="xhtml/Math-gr9-afrikaans/afr-cleaned_Maths_English_LG_gr9_term1-chapter9.xhtml#toc-id-2"/>
+      <content src="xhtml/Maths-gr9-afrikaans/afr-cleaned_Maths_English_LG_gr9_term1-chapter9.xhtml#toc-id-1"/>
     </navPoint>
     <navPoint id="navpoint-id-10">
       <navLabel>
         <text>Hersiening
 </text>
       </navLabel>
-      <content src="xhtml/Math-gr9-afrikaans/afr-cleaned_Maths_English_LG_gr9_term1-chapter9.xhtml#toc-id-8"/>
+      <content src="xhtml/Maths-gr9-afrikaans/afr-cleaned_Maths_English_LG_gr9_term1-chapter9.xhtml#toc-id-7"/>
     </navPoint>
     <navPoint id="navpoint-id-11">
       <navLabel>
         <text>10.1 Konstruksie van loodlyne</text>
       </navLabel>
-      <content src="xhtml/Math-gr9-afrikaans/afr-cleaned_Maths_English_LG_gr9_term2-chapter10.xhtml#toc-id-1"/>
+      <content src="xhtml/Maths-gr9-afrikaans/afr-cleaned_Maths_English_LG_gr9_term2-chapter10.xhtml#toc-id-1"/>
     </navPoint>
     <navPoint id="navpoint-id-12">
       <navLabel>
         <text>11.1 Hersiening: Klassifikasie van driehoeke</text>
       </navLabel>
-      <content src="xhtml/Math-gr9-afrikaans/afr-cleaned_Maths_English_LG_gr9_term2-chapter11.xhtml#toc-id-1"/>
+      <content src="xhtml/Maths-gr9-afrikaans/afr-cleaned_Maths_English_LG_gr9_term2-chapter11.xhtml#toc-id-1"/>
     </navPoint>
     <navPoint id="navpoint-id-13">
       <navLabel>
         <text>12.1 Verbande tussen hoeke</text>
       </navLabel>
-      <content src="xhtml/Math-gr9-afrikaans/afr-cleaned_Maths_English_LG_gr9_term2-chapter12.xhtml#toc-id-2"/>
+      <content src="xhtml/Maths-gr9-afrikaans/afr-cleaned_Maths_English_LG_gr9_term2-chapter12.xhtml#toc-id-1"/>
     </navPoint>
     <navPoint id="navpoint-id-14">
       <navLabel>
         <text>13.1 Ondersoek die sye van &#8217;n reghoekige driehoek</text>
       </navLabel>
-      <content src="xhtml/Math-gr9-afrikaans/afr-cleaned_Maths_English_LG_gr9_term2-chapter13.xhtml#toc-id-2"/>
+      <content src="xhtml/Maths-gr9-afrikaans/afr-cleaned_Maths_English_LG_gr9_term2-chapter13.xhtml#toc-id-1"/>
     </navPoint>
     <navPoint id="navpoint-id-15">
       <navLabel>
         <text>14.1 Oppervlakte en omtrek van vierkante en reghoeke</text>
       </navLabel>
-      <content src="xhtml/Math-gr9-afrikaans/afr-cleaned_Maths_English_LG_gr9_term2-chapter14.xhtml#toc-id-1"/>
+      <content src="xhtml/Maths-gr9-afrikaans/afr-cleaned_Maths_English_LG_gr9_term2-chapter14.xhtml#toc-id-1"/>
     </navPoint>
     <navPoint id="navpoint-id-16">
-      <navLabel>
-        <text>Hersiening</text>
-      </navLabel>
-      <content src="xhtml/Math-gr9-afrikaans/afr-cleaned_Maths_English_LG_gr9_term2-chapter14.xhtml#toc-id-8"/>
-    </navPoint>
-    <navPoint id="navpoint-id-17">
       <navLabel>
         <text>1.1 Van formules na woorde, tabelle en grafieke
 </text>
       </navLabel>
-      <content src="xhtml/Math-gr9-afrikaans/afr-cleaned_Maths_English_LB_gr9_term3_1.xhtml#toc-id-1"/>
+      <content src="xhtml/Maths-gr9-afrikaans/afr-cleaned_Maths_English_LB_gr9_term3_1.xhtml#toc-id-1"/>
     </navPoint>
-    <navPoint id="navpoint-id-18">
+    <navPoint id="navpoint-id-17">
       <navLabel>
         <text>2.1 Inleiding
 </text>
       </navLabel>
-      <content src="xhtml/Math-gr9-afrikaans/afr-cleaned_Maths_English_LB_gr9_term3_1.xhtml#toc-id-4"/>
+      <content src="xhtml/Maths-gr9-afrikaans/afr-cleaned_Maths_English_LB_gr9_term3_1.xhtml#toc-id-4"/>
     </navPoint>
-    <navPoint id="navpoint-id-19">
+    <navPoint id="navpoint-id-18">
       <navLabel>
         <text>3.1 Inleiding
 </text>
       </navLabel>
-      <content src="xhtml/Math-gr9-afrikaans/afr-cleaned_Maths_English_LB_gr9_term3_1.xhtml#toc-id-10"/>
+      <content src="xhtml/Maths-gr9-afrikaans/afr-cleaned_Maths_English_LB_gr9_term3_1.xhtml#toc-id-10"/>
     </navPoint>
-    <navPoint id="navpoint-id-20">
+    <navPoint id="navpoint-id-19">
       <navLabel>
         <text>4.1 Globale grafieke
 </text>
       </navLabel>
-      <content src="xhtml/Math-gr9-afrikaans/afr-cleaned_Maths_English_LB_gr9_term3_1.xhtml#toc-id-17"/>
+      <content src="xhtml/Maths-gr9-afrikaans/afr-cleaned_Maths_English_LB_gr9_term3_1.xhtml#toc-id-17"/>
     </navPoint>
-    <navPoint id="navpoint-id-21">
+    <navPoint id="navpoint-id-20">
       <navLabel>
         <text>5.1 Buite-oppervlakte
 </text>
       </navLabel>
-      <content src="xhtml/Math-gr9-afrikaans/afr-cleaned_Maths_English_LB_gr9_term3_1.xhtml#toc-id-25"/>
+      <content src="xhtml/Maths-gr9-afrikaans/afr-cleaned_Maths_English_LB_gr9_term3_1.xhtml#toc-id-25"/>
     </navPoint>
-    <navPoint id="navpoint-id-22">
+    <navPoint id="navpoint-id-21">
       <navLabel>
         <text>6.1 Stip punte op &#700;n ko&#246;rdinaatstelsel
 </text>
       </navLabel>
-      <content src="xhtml/Math-gr9-afrikaans/afr-cleaned_Maths_English_LB_gr9_term3_1.xhtml#toc-id-30"/>
+      <content src="xhtml/Maths-gr9-afrikaans/afr-cleaned_Maths_English_LB_gr9_term3_1.xhtml#toc-id-30"/>
     </navPoint>
-    <navPoint id="navpoint-id-23">
+    <navPoint id="navpoint-id-22">
       <navLabel>
         <text>7.1 Hersiening: Klassifiseer 3D-voorwerpe
 </text>
       </navLabel>
-      <content src="xhtml/Math-gr9-afrikaans/afr-cleaned_Maths_English_LB_gr9_term3_1.xhtml#toc-id-35"/>
+      <content src="xhtml/Maths-gr9-afrikaans/afr-cleaned_Maths_English_LB_gr9_term3_1.xhtml#toc-id-35"/>
+    </navPoint>
+    <navPoint id="navpoint-id-23">
+      <navLabel>
+        <text>8.1 Collecting data</text>
+      </navLabel>
+      <content src="xhtml/Maths-gr9-afrikaans/cleaned_Maths_English_LB_gr9_term4_1.xhtml#toc-id-1"/>
     </navPoint>
     <navPoint id="navpoint-id-24">
       <navLabel>
-        <text>8.1 Metodes om data in te samel
-</text>
+        <text>9.1 Bar graphs and double bar graphs</text>
       </navLabel>
-      <content src="xhtml/Math-gr9-afrikaans/afr-cleaned_Maths_English_LB_gr9_term4_1.xhtml#toc-id-1"/>
+      <content src="xhtml/Maths-gr9-afrikaans/cleaned_Maths_English_LB_gr9_term4_1.xhtml#toc-id-5"/>
     </navPoint>
     <navPoint id="navpoint-id-25">
       <navLabel>
-        <text>9.1 Staafgrafieke en dubbele staafgrafieke
-</text>
+        <text>10.1 Which graph is best?</text>
       </navLabel>
-      <content src="xhtml/Math-gr9-afrikaans/afr-cleaned_Maths_English_LB_gr9_term4_1.xhtml#toc-id-5"/>
+      <content src="xhtml/Maths-gr9-afrikaans/cleaned_Maths_English_LB_gr9_term4_1.xhtml#toc-id-12"/>
     </navPoint>
     <navPoint id="navpoint-id-26">
       <navLabel>
-        <text>10.1 Watter grafiek is die beste?
-</text>
+        <text>11.1 Simple events</text>
       </navLabel>
-      <content src="xhtml/Math-gr9-afrikaans/afr-cleaned_Maths_English_LB_gr9_term4_1.xhtml#toc-id-12"/>
-    </navPoint>
-    <navPoint id="navpoint-id-27">
-      <navLabel>
-        <text>11.1 Eenvoudige gebeurtenisse
-</text>
-      </navLabel>
-      <content src="xhtml/Math-gr9-afrikaans/afr-cleaned_Maths_English_LB_gr9_term4_1.xhtml#toc-id-17"/>
+      <content src="xhtml/Maths-gr9-afrikaans/cleaned_Maths_English_LB_gr9_term4_1.xhtml#toc-id-18"/>
     </navPoint>
   </navPoint>
 </navMap>

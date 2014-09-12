@@ -1,6 +1,6 @@
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
            <head>
-               <meta name="dtb:uid" content="www.siyavula.com.epubmaker.Math-gr8-english"/>
+               <meta name="dtb:uid" content="www.siyavula.com.epubmaker.Maths-gr8-english"/>
                <meta name="dtb:depth" content="3"/>
                <meta name="dtb:totalPageCount" content="0"/>
                <meta name="dtb:maxPageNumber" content="0"/>
@@ -11,177 +11,176 @@
          <navMap>
   <navPoint id="navpoint-id-0">
     <navLabel>
-      <text>
-      1 Whole numbers</text>
+      <text>Front Matter</text>
     </navLabel>
-    <content src="xhtml/Math-gr8-english/cleaned_Maths_English_LG_gr8_term1.xhtml#toc-id-0"/>
+    <content src="xhtml/Maths-gr8-english/front-matter_Maths_English_LG_gr8.xhtml#toc-id-0"/>
     <navPoint id="navpoint-id-1">
       <navLabel>
         <text>1.1 Properties of whole numbers</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-english/cleaned_Maths_English_LG_gr8_term1.xhtml#toc-id-1"/>
+      <content src="xhtml/Maths-gr8-english/cleaned_Maths_English_LG_gr8_term1.xhtml#toc-id-1"/>
     </navPoint>
     <navPoint id="navpoint-id-2">
       <navLabel>
         <text>2.1 What is beyond 0?</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-english/cleaned_Maths_English_LG_gr8_term1.xhtml#toc-id-6"/>
+      <content src="xhtml/Maths-gr8-english/cleaned_Maths_English_LG_gr8_term1.xhtml#toc-id-6"/>
     </navPoint>
     <navPoint id="navpoint-id-3">
       <navLabel>
         <text>3.1 Revision</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-english/cleaned_Maths_English_LG_gr8_term1.xhtml#toc-id-11"/>
+      <content src="xhtml/Maths-gr8-english/cleaned_Maths_English_LG_gr8_term1.xhtml#toc-id-11"/>
     </navPoint>
     <navPoint id="navpoint-id-4">
       <navLabel>
         <text>4.1 The term-term relationship in a sequence</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-english/cleaned_Maths_English_LG_gr8_term1.xhtml#toc-id-18"/>
+      <content src="xhtml/Maths-gr8-english/cleaned_Maths_English_LG_gr8_term1.xhtml#toc-id-18"/>
     </navPoint>
     <navPoint id="navpoint-id-5">
       <navLabel>
         <text>5.1 Constant and variable quantities</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-english/cleaned_Maths_English_LG_gr8_term1.xhtml#toc-id-23"/>
+      <content src="xhtml/Maths-gr8-english/cleaned_Maths_English_LG_gr8_term1.xhtml#toc-id-23"/>
     </navPoint>
     <navPoint id="navpoint-id-6">
       <navLabel>
         <text>6.1 Algebraic language</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-english/cleaned_Maths_English_LG_gr8_term1.xhtml#toc-id-27"/>
+      <content src="xhtml/Maths-gr8-english/cleaned_Maths_English_LG_gr8_term1.xhtml#toc-id-27"/>
     </navPoint>
     <navPoint id="navpoint-id-7">
       <navLabel>
         <text>7.1 Setting up equations</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-english/cleaned_Maths_English_LG_gr8_term1.xhtml#toc-id-30"/>
+      <content src="xhtml/Maths-gr8-english/cleaned_Maths_English_LG_gr8_term1.xhtml#toc-id-30"/>
     </navPoint>
     <navPoint id="navpoint-id-8">
       <navLabel>
         <text>Revision</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-english/cleaned_Maths_English_LG_gr8_term1.xhtml#toc-id-34"/>
+      <content src="xhtml/Maths-gr8-english/cleaned_Maths_English_LG_gr8_term1.xhtml#toc-id-34"/>
     </navPoint>
     <navPoint id="navpoint-id-9">
       <navLabel>
         <text>8.1 Expanding algebraic expressions</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-english/cleaned_Maths_English_LG_gr8_term2.xhtml#toc-id-1"/>
+      <content src="xhtml/Maths-gr8-english/cleaned_Maths_English_LG_gr8_term2.xhtml#toc-id-1"/>
     </navPoint>
     <navPoint id="navpoint-id-10">
       <navLabel>
         <text>9.1 Thinking forwards and backwards</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-english/cleaned_Maths_English_LG_gr8_term2.xhtml#toc-id-6"/>
+      <content src="xhtml/Maths-gr8-english/cleaned_Maths_English_LG_gr8_term2.xhtml#toc-id-6"/>
     </navPoint>
     <navPoint id="navpoint-id-11">
       <navLabel>
         <text>10.1 Bisecting lines</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-english/cleaned_Maths_English_LG_gr8_term2.xhtml#toc-id-10"/>
+      <content src="xhtml/Maths-gr8-english/cleaned_Maths_English_LG_gr8_term2.xhtml#toc-id-10"/>
     </navPoint>
     <navPoint id="navpoint-id-12">
       <navLabel>
         <text>11.1 Types of triangles</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-english/cleaned_Maths_English_LG_gr8_term2.xhtml#toc-id-19"/>
+      <content src="xhtml/Maths-gr8-english/cleaned_Maths_English_LG_gr8_term2.xhtml#toc-id-19"/>
     </navPoint>
     <navPoint id="navpoint-id-13">
       <navLabel>
         <text>12.1 Angles on a straight line</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-english/cleaned_Maths_English_LG_gr8_term2.xhtml#toc-id-27"/>
+      <content src="xhtml/Maths-gr8-english/cleaned_Maths_English_LG_gr8_term2.xhtml#toc-id-27"/>
     </navPoint>
     <navPoint id="navpoint-id-14">
       <navLabel>
         <text>Revision</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-english/cleaned_Maths_English_LG_gr8_term2.xhtml#toc-id-34"/>
+      <content src="xhtml/Maths-gr8-english/cleaned_Maths_English_LG_gr8_term2.xhtml#toc-id-34"/>
     </navPoint>
     <navPoint id="navpoint-id-15">
       <navLabel>
         <text>1.1 Equivalent fractions</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-english/cleaned_Maths_English_LB_gr8_term3_1.xhtml#toc-id-1"/>
+      <content src="xhtml/Maths-gr8-english/cleaned_Maths_English_LB_gr8_term3_1.xhtml#toc-id-1"/>
     </navPoint>
     <navPoint id="navpoint-id-16">
       <navLabel>
         <text>2.1 Equivalent forms</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-english/cleaned_Maths_English_LB_gr8_term3_1.xhtml#toc-id-7"/>
+      <content src="xhtml/Maths-gr8-english/cleaned_Maths_English_LB_gr8_term3_1.xhtml#toc-id-7"/>
     </navPoint>
     <navPoint id="navpoint-id-17">
       <navLabel>
         <text>3.1 The lengths of sides of right-angled triangles</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-english/cleaned_Maths_English_LB_gr8_term3_1.xhtml#toc-id-13"/>
+      <content src="xhtml/Maths-gr8-english/cleaned_Maths_English_LB_gr8_term3_1.xhtml#toc-id-13"/>
     </navPoint>
     <navPoint id="navpoint-id-18">
       <navLabel>
         <text>4.1 Perimeter of squares and rectangles</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-english/cleaned_Maths_English_LB_gr8_term3_1.xhtml#toc-id-18"/>
+      <content src="xhtml/Maths-gr8-english/cleaned_Maths_English_LB_gr8_term3_1.xhtml#toc-id-18"/>
     </navPoint>
     <navPoint id="navpoint-id-19">
       <navLabel>
         <text>5.1 From 2D to 3D measurements</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-english/cleaned_Maths_English_LB_gr8_term3_1.xhtml#toc-id-24"/>
+      <content src="xhtml/Maths-gr8-english/cleaned_Maths_English_LB_gr8_term3_1.xhtml#toc-id-24"/>
     </navPoint>
     <navPoint id="navpoint-id-20">
       <navLabel>
         <text>6.1 Collecting data</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-english/cleaned_Maths_English_LB_gr8_term3_1.xhtml#toc-id-31"/>
+      <content src="xhtml/Maths-gr8-english/cleaned_Maths_English_LB_gr8_term3_1.xhtml#toc-id-31"/>
     </navPoint>
     <navPoint id="navpoint-id-21">
       <navLabel>
         <text>7.1 Bar graphs and double bar graphs</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-english/cleaned_Maths_English_LB_gr8_term3_1.xhtml#toc-id-35"/>
+      <content src="xhtml/Maths-gr8-english/cleaned_Maths_English_LB_gr8_term3_1.xhtml#toc-id-35"/>
     </navPoint>
     <navPoint id="navpoint-id-22">
       <navLabel>
         <text>8.1 Critically analysing how data is collected</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-english/cleaned_Maths_English_LB_gr8_term3_1.xhtml#toc-id-40"/>
+      <content src="xhtml/Maths-gr8-english/cleaned_Maths_English_LB_gr8_term3_1.xhtml#toc-id-40"/>
     </navPoint>
     <navPoint id="navpoint-id-23">
       <navLabel>
         <text>9.1 Calculating output values</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-english/cleaned_Maths_English_LB_gr8_term4_1.xhtml#toc-id-1"/>
+      <content src="xhtml/Maths-gr8-english/cleaned_Maths_English_LB_gr8_term4_1.xhtml#toc-id-1"/>
     </navPoint>
     <navPoint id="navpoint-id-24">
       <navLabel>
         <text>10.1 Revision</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-english/cleaned_Maths_English_LB_gr8_term4_1.xhtml#toc-id-6"/>
+      <content src="xhtml/Maths-gr8-english/cleaned_Maths_English_LB_gr8_term4_1.xhtml#toc-id-6"/>
     </navPoint>
     <navPoint id="navpoint-id-25">
       <navLabel>
         <text>11.1 What we can tell with graphs</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-english/cleaned_Maths_English_LB_gr8_term4_1.xhtml#toc-id-10"/>
+      <content src="xhtml/Maths-gr8-english/cleaned_Maths_English_LB_gr8_term4_1.xhtml#toc-id-10"/>
     </navPoint>
     <navPoint id="navpoint-id-26">
       <navLabel>
         <text>12.1 Transformations and coordinate systems</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-english/cleaned_Maths_English_LB_gr8_term4_1.xhtml#toc-id-14"/>
+      <content src="xhtml/Maths-gr8-english/cleaned_Maths_English_LB_gr8_term4_1.xhtml#toc-id-14"/>
     </navPoint>
     <navPoint id="navpoint-id-27">
       <navLabel>
         <text>13.1 Revision: 3D objects</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-english/cleaned_Maths_English_LB_gr8_term4_1.xhtml#toc-id-20"/>
+      <content src="xhtml/Maths-gr8-english/cleaned_Maths_English_LB_gr8_term4_1.xhtml#toc-id-20"/>
     </navPoint>
     <navPoint id="navpoint-id-28">
       <navLabel>
         <text>14.1 How often different things can happen</text>
       </navLabel>
-      <content src="xhtml/Math-gr8-english/cleaned_Maths_English_LB_gr8_term4_1.xhtml#toc-id-24"/>
+      <content src="xhtml/Maths-gr8-english/cleaned_Maths_English_LB_gr8_term4_1.xhtml#toc-id-24"/>
     </navPoint>
   </navPoint>
 </navMap>

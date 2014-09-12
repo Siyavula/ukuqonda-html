@@ -152,6 +152,7 @@ font-size: 130%;
 color: #5E2615;
 }
 
+
 div.worksheet-afr{
     background-color:#F3DBD1;
     padding-top:15px;
@@ -246,7 +247,7 @@ li > p {
 }
 
 
-/*made by nkosi*/
+
 table.no-border-plain td.left{
     border-left: 1px solid black;
 }
@@ -283,4 +284,18 @@ table.no-border td.text-top{
 vertical-align:text-top;
 }
 
-/*end nkosi*/
+div.titlebox{
+    text-align: center;
+    font-size: 300%;
+    font-weight: bold;
+}
+
+div.textbox{
+    text-align: center;
+}
+
+div.textboxbrown{
+    text-align: center;
+    font-weight: bold;
+    color: #A52A2A;
+}
