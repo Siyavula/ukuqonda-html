@@ -4,9 +4,9 @@
         <dc:identifier id="uid">www.siyavula.com.epubmaker.Tech-gr9-afrikaans</dc:identifier>
         <dc:title>Tech-gr9-afrikaans</dc:title>
         <dc:language>en</dc:language>
-        <meta property="dcterms:modified">2014-09-10T16:14:35Z</meta></metadata>
+        <meta property="dcterms:modified">2014-09-15T16:11:38Z</meta></metadata>
   <manifest><item id="ID-0" href="xhtml/Tech-gr9-afrikaans/mathjax/MathJax.js" media-type="application/javascript"/>
-  <item properties="cover-image" id="ci" href="teg9cover.png" media-type="image/png" />
+      <item properties="cover-image" id="ci" href="teg9cover.png" media-type="image/png" />
 <item id="ID-1" href="xhtml/Tech-gr9-afrikaans/mathjax/jax/element/mml/jax.js" media-type="application/javascript"/>
 <item id="ID-2" href="xhtml/Tech-gr9-afrikaans/mathjax/jax/element/mml/optable/CombDiactForSymbols.js" media-type="application/javascript"/>
 <item id="ID-3" href="xhtml/Tech-gr9-afrikaans/mathjax/jax/element/mml/optable/SupplementalArrowsB.js" media-type="application/javascript"/>
@@ -926,7 +926,60 @@
 <item id="ID-917" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term3_1-web-resources/image/AFR-Tech2_gr9_ch6_fig8_Afr_opt.png" media-type="image/png"/>
 <item id="ID-918" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term3_1-web-resources/image/Tech2_gr9_ch6_fig9_opt.jpeg" media-type="image/jpeg"/>
 <item id="ID-919" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term3_1-web-resources/image/Tech2_gr9_ch6_fig10_opt.jpeg" media-type="image/jpeg"/>
-<item id="ID-921" href="xhtml/Tech-gr9-afrikaans/../basicstyles.css" media-type="text/css"/>
+<item id="ID-920" href="xhtml/Tech-gr9-afrikaans/afr-cleaned_Tech_English_LG_Grade9_term4_1.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="ID-921" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Tech2_gr9_ch7_fig1a_an_opt.jpeg" media-type="image/jpeg"/>
+<item id="ID-922" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Tech2_gr9_ch7_fig1c_an_opt.jpeg" media-type="image/jpeg"/>
+<item id="ID-923" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Tech2_gr9_Ch7_fig2_opt.jpeg" media-type="image/jpeg"/>
+<item id="ID-924" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Tech2_gr9_ch7_fig3a_an_opt.jpeg" media-type="image/jpeg"/>
+<item id="ID-925" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Tech2_gr9_ch7_fig4_fmt.jpeg" media-type="image/jpeg"/>
+<item id="ID-926" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Tech2_gr9_ch7_fig5_fmt.jpeg" media-type="image/jpeg"/>
+<item id="ID-927" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Tech2_gr9_ch7_fig6_opt.jpeg" media-type="image/jpeg"/>
+<item id="ID-928" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/afri_gr91.png" media-type="image/png"/>
+<item id="ID-929" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Tech2_gr9_ch7_fig8_opt.jpeg" media-type="image/jpeg"/>
+<item id="ID-930" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Tech2_gr9_ch7_fig9_opt.jpeg" media-type="image/jpeg"/>
+<item id="ID-931" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Tech2_gr9_ch7_fig10_opt.jpeg" media-type="image/jpeg"/>
+<item id="ID-932" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Tech2_Gr9_Ch8_fig1_opt.jpeg" media-type="image/jpeg"/>
+<item id="ID-933" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Tech2_Gr9_Ch8_fig2_fmt.jpeg" media-type="image/jpeg"/>
+<item id="ID-934" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/afri_gr92.png" media-type="image/png"/>
+<item id="ID-935" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Tech2_Gr9_Ch8_fig4_opt.jpeg" media-type="image/jpeg"/>
+<item id="ID-936" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Tech2_gr9_ch8_fig5_opt.jpeg" media-type="image/jpeg"/>
+<item id="ID-937" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Tech2_gr9_ch8_fig6_opt.jpeg" media-type="image/jpeg"/>
+<item id="ID-938" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Tech2_gr9_ch8_fig7_opt.jpeg" media-type="image/jpeg"/>
+<item id="ID-939" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Tech2_gr9_ch8_fig8_opt.jpeg" media-type="image/jpeg"/>
+<item id="ID-940" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Tech2_gr9_ch8_fig9_opt.jpeg" media-type="image/jpeg"/>
+<item id="ID-941" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/afri_93.png" media-type="image/png"/>
+<item id="ID-942" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/afri_gr94.png" media-type="image/png"/>
+<item id="ID-943" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Tech2_Gr9_Ch8_fig12_opt.jpeg" media-type="image/jpeg"/>
+<item id="ID-944" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Tech2_Gr9_Ch8_fig13_opt.jpeg" media-type="image/jpeg"/>
+<item id="ID-945" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Tech2_gr9_ch9_fig1_opt.jpeg" media-type="image/jpeg"/>
+<item id="ID-946" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Tech2_gr9_ch9_fig2_opt.jpeg" media-type="image/jpeg"/>
+<item id="ID-947" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Tech2_gr9_ch9_fig3_opt.jpeg" media-type="image/jpeg"/>
+<item id="ID-948" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Tech2_gr9_ch9_fig4_opt.jpeg" media-type="image/jpeg"/>
+<item id="ID-949" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Selection_019.png" media-type="image/png"/>
+<item id="ID-950" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Selection_020.png" media-type="image/png"/>
+<item id="ID-951" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Selection_021.png" media-type="image/png"/>
+<item id="ID-952" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Selection_022.png" media-type="image/png"/>
+<item id="ID-953" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Selection_023.png" media-type="image/png"/>
+<item id="ID-954" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Selection_024.png" media-type="image/png"/>
+<item id="ID-955" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Selection_025.png" media-type="image/png"/>
+<item id="ID-956" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Tech2_gr9_ch10_fig1_opt.jpeg" media-type="image/jpeg"/>
+<item id="ID-957" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Tech2_gr9_ch10_fig2_opt.jpeg" media-type="image/jpeg"/>
+<item id="ID-958" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Tech2_gr9_ch10_fig3_opt.jpeg" media-type="image/jpeg"/>
+<item id="ID-959" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/AFR-Tegn2_gr9_hft10_fig4_M_opt.jpeg" media-type="image/jpeg"/>
+<item id="ID-960" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Tech2_gr9_ch10_fig5_opt.jpeg" media-type="image/jpeg"/>
+<item id="ID-961" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Tech-Gr9-Eng-Term4-p140-img1.png" media-type="image/png"/>
+<item id="ID-962" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Tech2_gr9_ch11_fig2_opt.jpeg" media-type="image/jpeg"/>
+<item id="ID-963" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/AFR-Tegn2_gr9_hfst11_fig3__opt.jpeg" media-type="image/jpeg"/>
+<item id="ID-964" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/AFR-Tegn2_gr9_hfst11_fig4__opt.jpeg" media-type="image/jpeg"/>
+<item id="ID-965" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Tech2_gr9_ch11_fig5_opt.jpeg" media-type="image/jpeg"/>
+<item id="ID-966" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Tech2_gr9_ch11_fig6_opt.jpeg" media-type="image/jpeg"/>
+<item id="ID-967" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Tech2_gr9_ch11_fig7_opt.jpeg" media-type="image/jpeg"/>
+<item id="ID-968" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Tech2_gr9_ch11_fig8_opt.jpeg" media-type="image/jpeg"/>
+<item id="ID-969" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/makeasketch.png" media-type="image/png"/>
+<item id="ID-970" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Tech2_gr9_ch11_fig9_opt.jpeg" media-type="image/jpeg"/>
+<item id="ID-971" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Tech2_gr9_ch11_fig10_opt.jpeg" media-type="image/jpeg"/>
+<item id="ID-972" href="xhtml/Tech-gr9-afrikaans/Tech_English_LG_Grade9_term4_1-web-resources/image/Tech2_gr9_ch11_fig11_fmt.jpeg" media-type="image/jpeg"/>
+<item id="ID-974" href="xhtml/Tech-gr9-afrikaans/../basicstyles.css" media-type="text/css"/>
 <item id="nav" href="xhtml/Tech-gr9-afrikaans/Tech-gr9-afrikaans.nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
 </manifest>
@@ -935,5 +988,6 @@
     <itemref idref="ID-606"/>
     <itemref idref="ID-684"/>
     <itemref idref="ID-807"/>
+    <itemref idref="ID-920"/>
   </spine>
 </package>

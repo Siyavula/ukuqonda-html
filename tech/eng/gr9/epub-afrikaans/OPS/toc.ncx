@@ -118,6 +118,37 @@
       </navLabel>
       <content src="xhtml/Tech-gr9-afrikaans/afr-cleaned_Tech_English_LG_Grade9_term3_1.xhtml#toc-id-21"/>
     </navPoint>
+    <navPoint id="navpoint-id-17">
+      <navLabel>
+        <text>&#160;</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr9-afrikaans/afr-cleaned_Tech_English_LG_Grade9_term4_1.xhtml#toc-id-1"/>
+    </navPoint>
+    <navPoint id="navpoint-id-18">
+      <navLabel>
+        <text>8.1 Hoe graan gestoor word</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr9-afrikaans/afr-cleaned_Tech_English_LG_Grade9_term4_1.xhtml#toc-id-6"/>
+    </navPoint>
+    <navPoint id="navpoint-id-19">
+      <navLabel>
+        <text>9.1 Wat is plastiek en wat is hulle eienskappe?</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr9-afrikaans/afr-cleaned_Tech_English_LG_Grade9_term4_1.xhtml#toc-id-10"/>
+    </navPoint>
+    <navPoint id="navpoint-id-20">
+      <navLabel>
+        <text>10.1 Formering van herwonne plastiekkorrels na nuwe produkte
+</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr9-afrikaans/afr-cleaned_Tech_English_LG_Grade9_term4_1.xhtml#toc-id-14"/>
+    </navPoint>
+    <navPoint id="navpoint-id-21">
+      <navLabel>
+        <text>Week 1</text>
+      </navLabel>
+      <content src="xhtml/Tech-gr9-afrikaans/afr-cleaned_Tech_English_LG_Grade9_term4_1.xhtml#toc-id-18"/>
+    </navPoint>
   </navPoint>
 </navMap>
 
