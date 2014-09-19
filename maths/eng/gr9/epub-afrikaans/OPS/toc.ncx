@@ -159,27 +159,31 @@
     </navPoint>
     <navPoint id="navpoint-id-23">
       <navLabel>
-        <text>8.1 Collecting data</text>
+        <text>8.1 Metodes om data in te samel
+</text>
       </navLabel>
-      <content src="xhtml/Maths-gr9-afrikaans/cleaned_Maths_English_LB_gr9_term4_1.xhtml#toc-id-1"/>
+      <content src="xhtml/Maths-gr9-afrikaans/afr-cleaned_Maths_English_LB_gr9_term4_1.xhtml#toc-id-1"/>
     </navPoint>
     <navPoint id="navpoint-id-24">
       <navLabel>
-        <text>9.1 Bar graphs and double bar graphs</text>
+        <text>9.1 Staafgrafieke en dubbele staafgrafieke
+</text>
       </navLabel>
-      <content src="xhtml/Maths-gr9-afrikaans/cleaned_Maths_English_LB_gr9_term4_1.xhtml#toc-id-5"/>
+      <content src="xhtml/Maths-gr9-afrikaans/afr-cleaned_Maths_English_LB_gr9_term4_1.xhtml#toc-id-5"/>
     </navPoint>
     <navPoint id="navpoint-id-25">
       <navLabel>
-        <text>10.1 Which graph is best?</text>
+        <text>10.1 Watter grafiek is die beste?
+</text>
       </navLabel>
-      <content src="xhtml/Maths-gr9-afrikaans/cleaned_Maths_English_LB_gr9_term4_1.xhtml#toc-id-12"/>
+      <content src="xhtml/Maths-gr9-afrikaans/afr-cleaned_Maths_English_LB_gr9_term4_1.xhtml#toc-id-12"/>
     </navPoint>
     <navPoint id="navpoint-id-26">
       <navLabel>
-        <text>11.1 Simple events</text>
+        <text>11.1 Eenvoudige gebeurtenisse
+</text>
       </navLabel>
-      <content src="xhtml/Maths-gr9-afrikaans/cleaned_Maths_English_LB_gr9_term4_1.xhtml#toc-id-18"/>
+      <content src="xhtml/Maths-gr9-afrikaans/afr-cleaned_Maths_English_LB_gr9_term4_1.xhtml#toc-id-17"/>
     </navPoint>
   </navPoint>
 </navMap>

@@ -4,9 +4,8 @@
         <dc:identifier id="uid">www.siyavula.com.epubmaker.Maths-gr9-afrikaans</dc:identifier>
         <dc:title>Maths-gr9-afrikaans</dc:title>
         <dc:language>en</dc:language>
-        <meta property="dcterms:modified">2014-09-10T16:50:07Z</meta></metadata>
+        <meta property="dcterms:modified">2014-09-19T14:59:28Z</meta></metadata>
   <manifest><item id="ID-0" href="xhtml/Maths-gr9-afrikaans/mathjax/MathJax.js" media-type="application/javascript"/>
-     <item properties="cover-image" id="ci" href="wis9cover.png" media-type="image/png" />
 <item id="ID-1" href="xhtml/Maths-gr9-afrikaans/mathjax/jax/element/mml/jax.js" media-type="application/javascript"/>
 <item id="ID-2" href="xhtml/Maths-gr9-afrikaans/mathjax/jax/element/mml/optable/CombDiactForSymbols.js" media-type="application/javascript"/>
 <item id="ID-3" href="xhtml/Maths-gr9-afrikaans/mathjax/jax/element/mml/optable/SupplementalArrowsB.js" media-type="application/javascript"/>
@@ -1062,38 +1061,38 @@
 <item id="ID-1053" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term3_1-web-resources/image/154601.png" media-type="image/png"/>
 <item id="ID-1054" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term3_1-web-resources/image/154389.png" media-type="image/png"/>
 <item id="ID-1055" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term3_1-web-resources/image/154381.png" media-type="image/png"/>
-<item id="ID-1056" href="xhtml/Maths-gr9-afrikaans/cleaned_Maths_English_LB_gr9_term4_1.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
-<item id="ID-1057" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/151271.png" media-type="image/png"/>
-<item id="ID-1058" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/151321.png" media-type="image/png"/>
-<item id="ID-1059" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/Maths-Gr9-Eng-Term4-p142-img1.png" media-type="image/png"/>
-<item id="ID-1060" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/Maths-Gr9-Eng-Term4-p142-img2.png" media-type="image/png"/>
+<item id="ID-1056" href="xhtml/Maths-gr9-afrikaans/afr-cleaned_Maths_English_LB_gr9_term4_1.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+<item id="ID-1057" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/1512711.png" media-type="image/png"/>
+<item id="ID-1058" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/1513212.png" media-type="image/png"/>
+<item id="ID-1059" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/pg143.png" media-type="image/png"/>
+<item id="ID-1060" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/Pg143_2.png" media-type="image/png"/>
 <item id="ID-1061" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/157786.png" media-type="image/png"/>
 <item id="ID-1062" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/157797.png" media-type="image/png"/>
 <item id="ID-1063" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/157805.png" media-type="image/png"/>
 <item id="ID-1064" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/157811.png" media-type="image/png"/>
-<item id="ID-1065" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/Maths-Gr9-Eng-Term4-p149-img1.png" media-type="image/png"/>
-<item id="ID-1066" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/153889.png" media-type="image/png"/>
+<item id="ID-1065" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/pg149.png" media-type="image/png"/>
+<item id="ID-1066" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/pg149_2.png" media-type="image/png"/>
 <item id="ID-1067" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/153900.jpg" media-type="image/jpeg"/>
-<item id="ID-1068" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/154067.png" media-type="image/png"/>
+<item id="ID-1068" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/pg151.png" media-type="image/png"/>
 <item id="ID-1069" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/157817.png" media-type="image/png"/>
 <item id="ID-1070" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/157832.png" media-type="image/png"/>
 <item id="ID-1071" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/157840.png" media-type="image/png"/>
-<item id="ID-1072" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/154097.png" media-type="image/png"/>
-<item id="ID-1073" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/Maths-Gr9-Eng-Term4-p154-img1.png" media-type="image/png"/>
-<item id="ID-1074" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/154139.png" media-type="image/png"/>
-<item id="ID-1075" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/154152.png" media-type="image/png"/>
+<item id="ID-1072" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/pg154.png" media-type="image/png"/>
+<item id="ID-1073" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/154109.png" media-type="image/png"/>
+<item id="ID-1074" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/1541391.png" media-type="image/png"/>
+<item id="ID-1075" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/1541521.png" media-type="image/png"/>
 <item id="ID-1076" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/157856.png" media-type="image/png"/>
-<item id="ID-1077" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/155531.png" media-type="image/png"/>
-<item id="ID-1078" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/155376.png" media-type="image/png"/>
-<item id="ID-1079" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/155366.png" media-type="image/png"/>
-<item id="ID-1080" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/155356.png" media-type="image/png"/>
-<item id="ID-1081" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/Maths_English_LB_gr9_term445.png" media-type="image/png"/>
-<item id="ID-1082" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/Maths-Gr9-Eng-Term4-p171-img1.png" media-type="image/png"/>
-<item id="ID-1083" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/155339.png" media-type="image/png"/>
-<item id="ID-1084" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/157049.png" media-type="image/png"/>
+<item id="ID-1077" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/1555311.png" media-type="image/png"/>
+<item id="ID-1078" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/1553761.png" media-type="image/png"/>
+<item id="ID-1079" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/1553661.png" media-type="image/png"/>
+<item id="ID-1080" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/1553561.png" media-type="image/png"/>
+<item id="ID-1081" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/pg171.png" media-type="image/png"/>
+<item id="ID-1082" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/pg1711.png" media-type="image/png"/>
+<item id="ID-1083" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/1553391.png" media-type="image/png"/>
+<item id="ID-1084" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/1570491.png" media-type="image/png"/>
 <item id="ID-1085" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/157865.png" media-type="image/png"/>
-<item id="ID-1086" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/156608.png" media-type="image/png"/>
-<item id="ID-1087" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/157112.png" media-type="image/png"/>
+<item id="ID-1086" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/1566081.png" media-type="image/png"/>
+<item id="ID-1087" href="xhtml/Maths-gr9-afrikaans/Maths_English_LB_gr9_term4_1-web-resources/image/1571121.png" media-type="image/png"/>
 <item id="ID-1089" href="xhtml/Maths-gr9-afrikaans/../basicstyles.css" media-type="text/css"/>
 <item id="nav" href="xhtml/Maths-gr9-afrikaans/Maths-gr9-afrikaans.nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
